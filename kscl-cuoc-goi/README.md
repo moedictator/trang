@@ -13,9 +13,3 @@ Ngoài các mã lỗi, TVTS có thể mắc:
 * 1C: có chính xác không? C nhưng không giới thiệu, xin tên, khai thác nhu cầu. C05
 * 1B: Cts có thể email,sms nhưng không CS mà chuyển B luôn sau 5 lần gọi kll - C03.1
 
-
-
-
-
-
-

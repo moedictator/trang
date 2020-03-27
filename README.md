@@ -1,19 +1,19 @@
 # Bộ phận KSCL
 
-### Bộ phận KSCL làm công việc gì? Thuộc hệ thống phòng ban nào?
+## Bộ phận KSCL làm công việc gì? Thuộc hệ thống phòng ban nào?
 
 * KSCL thuộc bộ phận ELT.....
 * Kiểm soát các loại rủi ro trong quá trình TVTS. Là công việc để trả lời câu hỏi sau: **TVTS A có mắc lỗi B \(C01,... C05\) trong tuần không?**
 
-### Ý nghĩa của bộ tài liệu này?
+## Ý nghĩa của bộ tài liệu này?
 
-#### Mục tiêu: 
+### Mục tiêu:
 
 * Đảm bảo HV **tiếp nhận kiến thức chủ động** \(không bị động - chỉ nghe\)
 * Đặt **hiệu quả** lên hàng đầu. Đảm bảo Hv training xong làm được luôn và người training nắm đc kết quả làm việc của hv, Gitbook được thiết theo logic hành động.
 * Hiệu quả **tra cứu** tối đa. HV sau quá trình training có thể sẽ làm được ngay nhưng sẽ chưa thể nhớ hết nội dung. Gitbook này cũng được thiết kế với ngôn từ, thao tác tra cứu **tinh giản** nhất.
 
-#### Kế hoạch training
+### Kế hoạch training
 
 <table>
   <thead>
@@ -47,4 +47,3 @@
     </tr>
   </tbody>
 </table>
-

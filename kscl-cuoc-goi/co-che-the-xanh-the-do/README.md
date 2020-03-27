@@ -10,31 +10,33 @@ Cơ chế KSCL của Summit đề cao việc **cải thiện chất lượng TVT
 
 ![](../../.gitbook/assets/quality-management-systems700x438-700x438.jpg)
 
-### Giới thiệu chung
+## Giới thiệu chung
+
+|  |  |
+| :--- | :--- |
+
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">C&#x1A1; ch&#x1EBF; Th&#x1EBB; Xanh/&#x110;&#x1ECF; v&#x1EAD;n h&#xE0;nh
-        nh&#x1B0; th&#x1EBF; n&#xE0;o?</td>
-      <td style="text-align:left">
+      <th style="text-align:left">C&#x1A1; ch&#x1EBF; Th&#x1EBB; Xanh/&#x110;&#x1ECF; v&#x1EAD;n h&#xE0;nh
+        nh&#x1B0; th&#x1EBF; n&#xE0;o?</th>
+      <th style="text-align:left">
         <p>- T&#x1EB7;ng Cts t&#x1B0;&#x1A1;i v&#x1EDB;i TVTS kh&#xF4;ng m&#x1EAF;c
           l&#x1ED7;i (Th&#x1EBB; Xanh)</p>
         <p>- Gi&#x1EA3;m b&#x1EDB;t Cts v&#x1EDB;i TVTS c&#xF2;n ch&#x1B0;a ho&#xE0;n
           thi&#x1EC7;n k&#x1EF9; n&#x103;ng, nghi&#x1EC7;p v&#x1EE5; &#x111;&#x1EC3;
           TVTS c&#xF3; th&#xEA;m th&#x1EDD;i gian trau chu&#x1ED1;t, r&#xE8;n luy&#x1EC7;n.
           (Th&#x1EBB; &#x110;&#x1ECF;)</p>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left">&#x110;em l&#x1EA1;i l&#x1EE3;i &#xED;ch g&#xEC;?</td>
-      <td style="text-align:left">
+      <th style="text-align:left">&#x110;em l&#x1EA1;i l&#x1EE3;i &#xED;ch g&#xEC;?</th>
+      <th style="text-align:left">
         <p>C&#x1A1; ch&#x1EBF; n&#xE0;y mang l&#x1EE3;i &#xED;ch &#x111;&#x1EBF;n
           cho 3 b&#xEA;n:</p>
         <p>- C&#xF4;ng ty: ngu&#x1ED3;n Cts &#x111;&#x1B0;&#x1EE3;c s&#x1EED; d&#x1EE5;ng
@@ -52,27 +54,23 @@ Cơ chế KSCL của Summit đề cao việc **cải thiện chất lượng TVT
           l&#x1EF1;c kh&#x1ED1;i l&#x1B0;&#x1EE3;ng c&#xF4;ng vi&#x1EC7;c gi&#xFA;p
           TVTS c&#xF3; th&#xEA;m th&#x1EDD;i gian &#x111;&#x1EC3; &#x111;i&#x1EC1;u
           ch&#x1EC9;nh nghi&#x1EC7;p v&#x1EE5;, ho&#xE0;n thi&#x1EC7;n h&#x1A1;n.</p>
-      </td>
+      </th>
     </tr>
-    <tr>
-      <td style="text-align:left">&#xC1;p d&#x1EE5;ng t&#x1EA1;i BP n&#xE0;o?</td>
-      <td style="text-align:left">TVTS - Teamleader TVTS - B&#x1ED9; ph&#x1EAD;n &#x111;&#xE0;o t&#x1EA1;o,
-        QLCL, Sale Suport (ch&#x1EC9; ph&#x1ED1;i h&#x1EE3;p, nh&#x1EAD;n v&#xE0;
-        x&#x1EED; l&#xFD; th&#xF4;ng tin)</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">C&#x1EA5;p &#x111;&#x1ED9; th&#x1EBB;</td>
-      <td style="text-align:left">Th&#x1EBB; Xanh, Th&#x1EBB; &#x110;&#x1ECF; (b&#x1EAD;c 1-2-3-4) t&#x1B0;&#x1A1;ng
-        &#x1EE9;ng v&#x1EDB;i s&#x1ED1; l&#x1ED7;i.</td>
-    </tr>
-  </tbody>
-</table>### Chi tiết về cơ chế thẻ xanh/thẻ đỏ
+  </thead>
+  <tbody></tbody>
+</table>| Áp dụng tại BP nào? | TVTS - Teamleader TVTS - Bộ phận đào tạo, QLCL, Sale Suport \(chỉ phối hợp, nhận và xử lý thông tin\) |
+| :--- | :--- |
 
-![](../../.gitbook/assets/1%20%283%29.png)
 
-![](../../.gitbook/assets/2%20%2810%29.png)
+| Cấp độ thẻ | Thẻ Xanh, Thẻ Đỏ \(bậc 1-2-3-4\) tương ứng với số lỗi. |
+| :--- | :--- |
 
-**Lưu ý:** 
+
+![](../../.gitbook/assets/1-3.png)
+
+![](../../.gitbook/assets/2-10.png)
+
+**Lưu ý:**
 
 * Giảm 1 bậc thẻ đỏ khi doanh số \(DS\)/tuần &gt;= 80%
 * Tăng 1 bậc thẻ đỏ khi Hattrick - lặp lại 1 lỗi 3 lần/tuần
