@@ -10,7 +10,7 @@
 
 Đang học TT khác rồi... --&gt; Dạ vâng, bài Test sẽ giúp kiểm tra hiệu quả học tập miễn phí. Đề thi được biên soạn sát theo format đề thi chuẩn hóa IE,TF,SAT. Giúp bạn vừa làm quen đề, vừa được nhận xét về ưu và các điểm cần cải thiện.. --&gt; Không biết a/chị có thể sắp xếp thời gian cho bạn tham gia không ạ?
 
-![](../../.gitbook/assets/test.png)
+![](../../.gitbook/assets/test%20%282%29.png)
 
 **Cách 1.** - Em là Trang, gọi đến từ Anh ngữ Summit, hiện tại SM đang hỗ trợ đào tạo các chứng chỉ IE,TF,SAT. Không biết có thể hỗ trợ gì cho gia đình mình không ạ?
 
