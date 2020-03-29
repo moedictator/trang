@@ -6,7 +6,7 @@ description: >-
 
 # 1.Cơ chế Thẻ Xanh-Đỏ
 
-Cơ chế KSCL của Summit đề cao việc **cải thiện chất lượng TVTS** lên hàng đầu. Vì vậy chúng tôi chấp nhận những sai sót và tập chung và kế hoạch, giải pháp cải thiện chất lượng. Hệ thống cơ chế Thẻ Xanh/Đỏ chỉ nhằm mục tiêu: cảnh báo/giúp đỡ các TVTS trong quá trình nâng cao trình độ, tạo động lực/động viên TVTS duy trì, phát triển thế mạnh sẵn có hoặc tiềm tàng.
+Cơ chế KSCL của Summit đề cao việc **cải thiện chất lượng TVTS** lên hàng đầu. Vì vậy chúng tôi chấp nhận những sai sót và tập trung và kế hoạch, giải pháp cải thiện chất lượng. Hệ thống cơ chế Thẻ Xanh/Đỏ chỉ nhằm mục tiêu: cảnh báo/giúp đỡ các TVTS trong quá trình nâng cao trình độ, tạo động lực/động viên TVTS duy trì, phát triển thế mạnh sẵn có hoặc tiềm tàng.
 
 ![](../../.gitbook/assets/quality-management-systems700x438-700x438.jpg)
 
