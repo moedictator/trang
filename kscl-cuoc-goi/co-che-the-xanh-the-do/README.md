@@ -68,5 +68,5 @@ Cơ chế KSCL của Summit đề cao việc **cải thiện chất lượng TVT
 
 ### Code lỗi
 
-![](../../.gitbook/assets/screenshot_1.png)
+![](../../.gitbook/assets/l.png)
 
