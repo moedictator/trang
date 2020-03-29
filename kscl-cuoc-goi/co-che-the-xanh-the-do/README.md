@@ -66,3 +66,7 @@ Cơ chế KSCL của Summit đề cao việc **cải thiện chất lượng TVT
 * Giảm 1 bậc thẻ đỏ khi doanh số \(DS\)/tuần &gt;= 80%
 * Tăng 1 bậc thẻ đỏ khi Hattrick - lặp lại 1 lỗi 3 lần/tuần
 
+### Code lỗi
+
+![](../../.gitbook/assets/screenshot_1.png)
+
