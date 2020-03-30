@@ -19,7 +19,7 @@
 
 Không --&gt; À, dạ, không biết là các bạn nhà mình vẫn đang trong độ tuổi đi học đúng không ạ?
 
-**Cách 2.** Em là Trang, gọi đến từ Anh ngữ Summit, chuyên đào tạo chứng chỉ **TA và TVDH.** Hiện nay SM đang có chương trình cho các bạn làm một bài **Test** kiểm tra trình độ miễn phí**/**.. Bài kiểm tra sẽ được các giảng viên có trình độ cao, nhiều năm kinh nghiệm giảng dạy đánh giá - Cũng là một cách để PH có thể biết con em mình cần bổ sung kiến thức phần nào ...**/**Thì không biết có thể hỗ trợ cho gia đình mình không ạ?
+**Cách 2.** Em là Trang, gọi đến từ Anh ngữ Summit, chuyên đào tạo chứng chỉ **TA IE, TF, SAT và TVDH.** Hiện nay SM đang có chương trình cho các bạn làm một bài **Test** kiểm tra trình độ miễn phí**/**.. Bài kiểm tra sẽ được các giảng viên có trình độ cao, nhiều năm kinh nghiệm giảng dạy đánh giá - Cũng là một cách để PH có thể biết con em mình cần bổ sung kiến thức phần nào ...**/**Thì không biết có thể hỗ trợ cho gia đình mình không ạ?
 
 ![V&#xEC; sao c&#x1EA7;n ch&#x1ECD;n Summit? S&#x1EF1; kh&#xE1;c bi&#x1EC7;t c&#x1EE7;a SM l&#xE0; g&#xEC;?](../../.gitbook/assets/4-3.png)
 
