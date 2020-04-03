@@ -11,7 +11,7 @@ description: 'TVTS đặt lịch hẹn tương tác, nhưng có tương tác hay
 * Form báo cáo lỗi:[ ](http://bit.ly/39zZ1yM)[http://bit.ly/39zZ1yM](http://bit.ly/39zZ1yM)
 * **Báo cáo check**: [http://bit.ly/2SQFLGm](http://bit.ly/2SQFLGm)
 * Vào CRM bằng: [https://mol.summit.edu.vn](https://mol.summit.edu.vn) \(quanlysale@summit.edu.vn\)
-* **Lịch nghỉ off:** [http://bit.ly/37vM1c6](http://bit.ly/37vM1c6)
+* **Lịch nghỉ off:** [http://bit.ly/37vM1c6](https://bit.ly/2UVuyFL)
 
 **Bước 2.** Kiểm tra Tồn C01.2
 
