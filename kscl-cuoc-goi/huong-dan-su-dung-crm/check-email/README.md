@@ -27,7 +27,7 @@ Tại nguồn học viên
 
 ### **3.4. Quy định về gửi email**
 
-#### 3.4.1.Quy định về thời gian gửi \(SL\)
+### 3.4.1.Quy định thời gian gửi \(SL\)
 
 Ngay **trong ngày** GV trả kết quả, TVTS cần thực hiện "Cuộc gọi trả kết quả" ngay và gửi email ngay sau đó.
 
@@ -37,7 +37,7 @@ Ngay **trong ngày** GV trả kết quả, TVTS cần thực hiện "Cuộc gọ
 * Nếu TVTS nghỉ off ngày mà GV trả kết quả thì ngay ngày đầu tiên đi làm phải trả kết quả luôn.Nếu TVTS nghỉ dài ngày thì liên lạc ngay với quản lý.
 * Email gửi đi cần CC cho Storage để được xác nhận là đã gửi
 
-#### 3.4.2. Quy định về nội dung gửi \(CL\)
+### 3.4.2. Quy định nội dung gửi \(CL\)
 
 Email gửi đi cần có nội dung chính xác, thông tin đầy đủ 
 
