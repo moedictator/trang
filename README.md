@@ -34,17 +34,17 @@
       <td style="text-align:left">
         <p>+ H&#x1ECF;i khi n&#xE0;o HV s&#x1EB5;n s&#xE0;ng training</p>
         <p>+ Training: Thuy&#x1EBF;t tr&#xEC;nh v&#x1EDB;i Gitbook</p>
-        <p>+ HV &#x111;&#x1EB7;t c&#xE2;u h&#x1ECF;i, trainer gi&#x1EA3;i &#x111;&#xE1;p</p>
+        <p>+ HV &#x111;&#x1EB7;t c&#xE2;u h&#x1ECF;i, gi&#x1EA3;i &#x111;&#xE1;p</p>
         <p>+ HV t&#x1EF1; t&#x1EAD;p l&#xE0;m</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">B&#x1B0;&#x1EDB;c 3. Nghi&#x1EC7;m thu</td>
       <td style="text-align:left">
-        <p>+ Trainer ki&#x1EC3;m tra ch&#x1EA5;t l&#x1B0;&#x1EE3;ng s&#x1EA3;n ph&#x1EA9;m
+        <p>+ Ki&#x1EC3;m tra ch&#x1EA5;t l&#x1B0;&#x1EE3;ng s&#x1EA3;n ph&#x1EA9;m
           HV t&#x1EF1; l&#xE0;m</p>
         <p>+ Nh&#x1EAD;n x&#xE9;t, r&#xFA;t kinh nghi&#x1EC7;m</p>
-        <p>+ HV &#x111;&#x1EB7;t c&#xE2;u h&#x1ECF;i, trainer gi&#x1EA3;i &#x111;&#xE1;p</p>
+        <p>+ HV &#x111;&#x1EB7;t c&#xE2;u h&#x1ECF;i, gi&#x1EA3;i &#x111;&#xE1;p</p>
       </td>
     </tr>
   </tbody>
