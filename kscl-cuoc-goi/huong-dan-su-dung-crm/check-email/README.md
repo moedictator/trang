@@ -18,7 +18,7 @@ Tại nguồn học viên
 * Đăng nhập CRM với TK Quản lý Sale: [https://mol.summit.edu.vn](https://mol.summit.edu.vn)
 * Hòm thư Quản lý sale: storage.tvts@summit.edu.vn
 * **Báo cáo Excel**: [http://bit.ly/2HmVwjf](http://bit.ly/398VuHP)
-* Báo cáo cá nhân: [http://bit.ly/2SQFLGm](http://bit.ly/2SQFLGm)
+* Form báo cáo lỗi: [http://bit.ly/39zZ1yM](http://bit.ly/39zZ1yM)
 
 ## 3. Mục tiêu check email \(check email để làm gì?\)
 
