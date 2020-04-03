@@ -22,10 +22,12 @@ Tại nguồn học viên
 
 ## 3. Mục đích check email
 
-* Kiểm soát email trả kết quả có được thực hiện đúng quy trình hay không?
-* Cảnh báo hàng ngày \(buổi trưa\) với các email đến hạn chót gửi
+* **Cảnh báo** hàng ngày \(buổi trưa\) với các email _đến hạn chót_ gửi
+* **Nội dung email** trả kết quả có đáp ứng được nhu cầu của KH?
 
-![](../../../.gitbook/assets/005.png)
+![Check email](../../../.gitbook/assets/screenshot_12.png)
+
+
 
 ## \*Mẹo:
 
@@ -49,12 +51,7 @@ Ngay **trong ngày** GV trả kết quả, TVTS cần thực hiện "Cuộc gọ
 
 Email gửi đi cần có nội dung chính xác, thông tin đầy đủ _\(xem tại mục 3.2\)_
 
-## 5. Kế hoạch
-
-* Check hàng ngày.
-* Check hết số lượng email --&gt; Check chất lượng email
-
-\(**RỦI RO: COPY, PASTE, ENTER Ở MOL:** Thay thế, biến mất tên HV\)
+## 
 
 ## \*\*\*\*
 
