@@ -20,7 +20,7 @@ Tại nguồn học viên
 * **Báo cáo Excel**: [http://bit.ly/2HmVwjf](http://bit.ly/398VuHP)
 * Form báo cáo lỗi: [http://bit.ly/39zZ1yM](http://bit.ly/39zZ1yM)
 
-## 3. Mục tiêu check email \(check email để làm gì?\)
+## 3. Mục đích check email
 
 * Kiểm soát email trả kết quả có được thực hiện đúng quy trình hay không?
 * Cảnh báo hàng ngày \(buổi trưa\) với các email đến hạn chót gửi
