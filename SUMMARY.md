@@ -12,7 +12,6 @@
     * [1.Check tồn C01.2](kscl-cuoc-goi/huong-dan-su-dung-crm/check-ton-dau-ngay.md)
     * [2.Check Sale Report C02](kscl-cuoc-goi/huong-dan-su-dung-crm/4.check-khoi-luong-cv-c02.md)
     * [3.Check email](kscl-cuoc-goi/huong-dan-su-dung-crm/check-email/README.md)
-      * [Quy trình check email](kscl-cuoc-goi/huong-dan-su-dung-crm/check-email/quy-trinh-check-email.md)
       * [3.1.Check SL email](kscl-cuoc-goi/huong-dan-su-dung-crm/check-email/2.check-sl-email.md)
       * [3.2.Check CL email](kscl-cuoc-goi/huong-dan-su-dung-crm/check-email/2.2.check-chat-luong-email.md)
       * [3.3.Check email L8 - cam kết chất lượng](kscl-cuoc-goi/huong-dan-su-dung-crm/check-email/3.3.check-email-l8-cam-ket-chat-luong.md)
