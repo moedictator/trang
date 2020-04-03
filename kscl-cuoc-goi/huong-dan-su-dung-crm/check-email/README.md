@@ -25,9 +25,7 @@ Tại nguồn học viên
 * **Cảnh báo** hàng ngày \(buổi trưa\) với các email _đến hạn chót_ gửi
 * **Nội dung email** trả kết quả có đáp ứng được nhu cầu của KH?
 
-![Check email](../../../.gitbook/assets/screenshot_12.png)
-
-
+![](../../../.gitbook/assets/screenshot_12.png)
 
 ## \*Mẹo:
 
@@ -51,7 +49,12 @@ Ngay **trong ngày** GV trả kết quả, TVTS cần thực hiện "Cuộc gọ
 
 Email gửi đi cần có nội dung chính xác, thông tin đầy đủ _\(xem tại mục 3.2\)_
 
-## 
+## 5. Kế hoạch
+
+* Check hàng ngày.
+* Check hết số lượng email --&gt; Check chất lượng email
+
+\(**RỦI RO: COPY, PASTE, ENTER Ở MOL:** Thay thế, biến mất tên HV\)
 
 ## \*\*\*\*
 
