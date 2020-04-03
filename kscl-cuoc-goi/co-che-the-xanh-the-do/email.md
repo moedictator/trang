@@ -1,10 +1,4 @@
----
-description: >-
-  TVTS có gửi email trả kết quả sau khi HV làm test đúng quy định (về thời gian,
-  nội dung) hay không?
----
-
-# 3.Check email
+# Email
 
 ### 3.1. Phạm vi kiểm soát email?
 
@@ -39,7 +33,7 @@ Ngay **trong ngày** GV trả kết quả, TVTS cần thực hiện "Cuộc gọ
 
 ### 3.4.2. Quy định nội dung gửi \(CL\)
 
-![Minh h&#x1ECD;a c&#x1A1; b&#x1EA3;n](../../../.gitbook/assets/004.png)
+![Minh h&#x1ECD;a c&#x1A1; b&#x1EA3;n](../../.gitbook/assets/004.png)
 
 **Code lỗi Email cơ bản:**
 
@@ -73,13 +67,13 @@ Ngay **trong ngày** GV trả kết quả, TVTS cần thực hiện "Cuộc gọ
 * Khuyến khích: gửi kèm email trả kết quả
 * Bắt buộc: level 8 \(sau khi HV hoàn thành 100% học phí\) - TVTS cần gửi email xác nhận kèm **nội quy học tập/cam kết chất lượng** trước khi ngày khóa học bắt đầu
 
-![HV ho&#xE0;n th&#xE0;nh h&#x1ECD;c ph&#xED;](../../../.gitbook/assets/2-3.png)
+![HV ho&#xE0;n th&#xE0;nh h&#x1ECD;c ph&#xED;](../../.gitbook/assets/2-3.png)
 
-![TVTS g&#x1EED;i email x&#xE1;c nh&#x1EAD;n](../../../.gitbook/assets/3-2.png)
+![TVTS g&#x1EED;i email x&#xE1;c nh&#x1EAD;n](../../.gitbook/assets/3-2.png)
 
-![Email c&#xF3; &#x111;&#xED;nh k&#xE8;m ](../../../.gitbook/assets/4-9.png)
+![Email c&#xF3; &#x111;&#xED;nh k&#xE8;m ](../../.gitbook/assets/4-9.png)
 
-## **5. Email mẫu?**
+## **Email mẫu**
 
 [https://mail.google.com/mail/u/0/\#label/%C4%90%C3%A0o+Li%C3%AAn/FMfcgxwHMGFjDdFWPwcblZdhHMnGgcXq](https://mail.google.com/mail/u/0/#label/%C4%90%C3%A0o+Li%C3%AAn/FMfcgxwHMGFjDdFWPwcblZdhHMnGgcXq)
 
