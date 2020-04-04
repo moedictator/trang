@@ -23,7 +23,7 @@ description: 'TVTS đặt lịch hẹn tương tác, nhưng có tương tác hay
 
 ![B&#xE1;o c&#xE1;o ki&#x1EC3;m tra t&#x1ED3;n](../../.gitbook/assets/ton-1.png)
 
-Tồn không hợp lệ":
+**Tồn không hợp lệ":**
 
 * Gửi cảnh báo đến quản lý qua Hagout
 * Điền form báo cáo lỗi, sau khi được quản lý xác nhận \(nếu cần\)
