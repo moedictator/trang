@@ -14,7 +14,7 @@ Bước 2**.** Paste tại ô Tìm kiếm "chính xác" trong hòm thư Storage
 
 ![Nh&#x1EDB; l&#x1EA5;y ng&#xE0;y tr&#x1EA3; k&#x1EBF;t qu&#x1EA3;](../../../.gitbook/assets/image.png)
 
-Bước 3. Điền báo cáo
+Bước 3. Điền kết quả
 
 ![](../../../.gitbook/assets/screenshot_12.png)
 
