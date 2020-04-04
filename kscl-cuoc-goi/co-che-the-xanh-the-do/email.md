@@ -54,7 +54,7 @@ Ngay **trong ngày** GV trả kết quả, TVTS cần thực hiện "Cuộc gọ
 * Chú ý sử dụng phù hợp về mặt ngữ nghĩa của câu, dùng các **từ nối** cho hợp lý.  
 * Với các từ mang ý nghĩa tiêu cực/quá nặng cần sử dụng các **từ ngữ giảm nhẹ hơn** và mang tính lịch sự nhưng cơ bản giữ được ý nghĩa cần truyền tải.
 
-#### **Thời gian học:**
+#### **Thời gian học**
 
 * Cần  bổ sung thời gian học **không bao gồm nghỉ lễ tết**
 
@@ -62,7 +62,7 @@ Ngay **trong ngày** GV trả kết quả, TVTS cần thực hiện "Cuộc gọ
 
 * Không cam kết đầu ra khi TVTS xin VỚT \(không phải là GV cho phép vớt\) --&gt; rất hiếm khi xảy ra
 
-#### **Khi nào cần gửi "Cam kết chất lượng"**
+#### **Khi nào cần gửi "Cam kết chất lượng"?**
 
 * Khuyến khích: gửi kèm email trả kết quả
 * Bắt buộc: level 8 \(sau khi HV hoàn thành 100% học phí\) - TVTS cần gửi email xác nhận kèm **nội quy học tập/cam kết chất lượng** trước khi ngày khóa học bắt đầu
