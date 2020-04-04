@@ -4,7 +4,7 @@ description: >-
   nội dung) hay không?
 ---
 
-# 3.Check email
+# 2.3.Check email
 
 ### 3.1. Check Số lượng email
 

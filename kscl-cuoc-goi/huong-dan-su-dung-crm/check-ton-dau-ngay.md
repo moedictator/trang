@@ -2,7 +2,7 @@
 description: 'TVTS đặt lịch hẹn tương tác, nhưng có tương tác hay không?'
 ---
 
-# 1.Check tồn C01.2
+# 2.1.Check tồn C01.2
 
 **3 ngày cuối tháng** chốt số được phép tồn nhưng phải giải quyết xong hết vào ngày đầu tiên đi làm của tháng tiếp theo
 

@@ -2,7 +2,7 @@
 description: TVTS thực hiện cuộc gọi có đạt chất lượng hay không?
 ---
 
-# 4.Check cuộc gọi
+# 2.4.Check cuộc gọi
 
 ## **Bước 1**
 
