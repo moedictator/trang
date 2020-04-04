@@ -20,7 +20,7 @@ Bước 3. Điền kết quả
 
 ### 3.2. Check chất lượng email
 
-* Vào hòm thư Storage để xem **những** email trả kết quả gần nhất. Nếu có thì vào form theo dõi email điền "Đã gửi"
+* Vào hòm thư Storage để xem **những** email trả kết quả gần nhất. Nếu có --&gt; điền "Đã gửi" tại form theo dõi email trên
 * Tiếp theo check chất lượng email đó kèm check cuộc gọi 6AB + 3A \(nếu có\)
 * Điền kết quả vào form: [http://bit.ly/39zZ1yM](http://bit.ly/39zZ1yM)
 
