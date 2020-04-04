@@ -17,13 +17,48 @@ Tìm cuộc gọi. Có 2 cách.
 
 ### **Cách 2.** Sử dụng bộ lọc
 
-![L&#xE0;m theo c&#xE1;c b&#x1B0;&#x1EDB;c &#x1EDF; check t&#x1ED3;n &#x111;&#x1EC3; v&#xE0;o &#x111;&#x1B0;&#x1EE3;c b&#x1ED9; l&#x1ECD;c n&#xE0;y nh&#xE9; ](../../.gitbook/assets/crm%20%281%29.png)
+![L&#xE0;m theo c&#xE1;c b&#x1B0;&#x1EDB;c &#x1EDF; gi&#x1EDB;i thi&#x1EC7;u s&#x1EED; d&#x1EE5;ng CRM &#x111;&#x1EC3; th&#x1EA5;y b&#x1ED9; l&#x1ECD;c n&#xE0;y nh&#xE9;](../../.gitbook/assets/crm%20%281%29.png)
 
-| Nội dung cần check | Bộ lọc |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">N&#x1ED9;i dung c&#x1EA7;n check</th>
+      <th style="text-align:left">B&#x1ED9; l&#x1ECD;c</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">H&#x1ECD;c vi&#xEA;n k&#xE8;m t&#xEA;n TVTS</td>
+      <td style="text-align:left">1 + 2</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>V&#x1EDB;i Cts <b>&#x111;&#x1B0;&#x1EE3;c giao</b> trong tu&#x1EA7;n,</p>
+        <p>TVTS <b>X </b>&#x111;&#xE3; ch&#x103;m s&#xF3;c level <b>Y </b>ntn?</p>
+      </td>
+      <td style="text-align:left">2 + 3 + 5</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>V&#x1EDB;i Cts <b>ch&#x103;m s&#xF3;c</b> trong tu&#x1EA7;n,</p>
+        <p>TVTS <b>X</b> &#x111;&#xE3; ch&#x103;m s&#xF3;c level <b>Y</b> ntn?</p>
+      </td>
+      <td style="text-align:left">2 + 3+ 7</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>| Nội dung cần check | Bộ lọc |
 | :--- | :--- |
 
 
-| HV kèm TVTS | 1+2 |
+| HV kèm TVTS                  | 1+2 |
 | :--- | :--- |
 
 

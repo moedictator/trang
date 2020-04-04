@@ -8,14 +8,15 @@ description: >-
 
 ### 3.1. Check Số lượng email
 
-* Mục đích để cảnh báo email đến **hạn chót** gửi
-* Điền lỗi "Chưa gửi email"
-
-![](../../../.gitbook/assets/screenshot_12.png)
-
 Bước 1. Từ file hứng SS điền: Copy tên HV đến **hạn chót**
 
 Bước 2**.** Paste tại ô Tìm kiếm "chính xác" trong hòm thư Storage
+
+![Nh&#x1EDB; l&#x1EA5;y ng&#xE0;y tr&#x1EA3; k&#x1EBF;t qu&#x1EA3;](../../../.gitbook/assets/image.png)
+
+Bước 3. Điền báo cáo
+
+![](../../../.gitbook/assets/screenshot_12.png)
 
 ### 3.2. Check chất lượng email
 
