@@ -19,7 +19,6 @@
   * [5.Làm việc online](kscl-cuoc-goi/5.lam-viec-online.md)
   * [6.Tạo BC kết quả công việc](kscl-cuoc-goi/tao-bao-cao-ket-qua-cong-viec.md)
   * [Tài liệu bổ trợ](kscl-cuoc-goi/tai-lieu-bo-tro/README.md)
-    * [5.Làm việc tại nhà](kscl-cuoc-goi/tai-lieu-bo-tro/5.lam-viec-tai-nha.md)
     * [Hệ thống level chi tiết & Quy trình TS](kscl-cuoc-goi/tai-lieu-bo-tro/he-thong-level-chi-tiet.md)
     * [Thông tin sản phẩm](kscl-cuoc-goi/tai-lieu-bo-tro/thong-tin-san-pham.md)
     * [Thông tin gói học](kscl-cuoc-goi/tai-lieu-bo-tro/thong-tin-goi-hoc.md)
