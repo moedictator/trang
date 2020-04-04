@@ -4,18 +4,16 @@ description: TVTS thực hiện cuộc gọi có đạt chất lượng hay khô
 
 # 2.4.Check cuộc gọi
 
-## **Bước 1**
+## **Bước 1.** Tìm cuộc gọi. Có 2 cách.
 
-Tìm cuộc gọi. Có 2 cách.
-
-### **Cách 1.** Bám theo "email trả kết quả"
+**Cách 1.** Bám theo "email trả kết quả"
 
 --&gt; check cuộc gọi của Cts. \(1-3 cuộc gọi\)
 
-* **Rủi ro 1:** Chỉ quan tâm đến các Cts thành công \(có email trả kết quả\). Không quan tâm các Cts chưa thành công. Điều này giống như: Đi vá những vết đạn trên thân máy bay hay là vá những vết đạn không nằm trên thân máy?
-* **Rủi ro 2:** Cuộc gọi đầy đủ thông tin không thuộc phạm vi tuần đánh gián
+* Rủi ro 1: Chỉ quan tâm đến các Cts thành công \(có email trả kết quả\). Không quan tâm các Cts chưa thành công. Điều này giống như: Đi vá những vết đạn trên thân máy bay hay là vá những vết đạn không nằm trên thân máy?
+* Rủi ro 2: Cuộc gọi đầy đủ thông tin lại không thuộc phạm vi tuần đánh gián
 
-### **Cách 2.** Sử dụng bộ lọc
+**Cách 2.** Sử dụng bộ lọc
 
 ![L&#xE0;m theo c&#xE1;c b&#x1B0;&#x1EDB;c &#x1EDF; gi&#x1EDB;i thi&#x1EC7;u s&#x1EED; d&#x1EE5;ng CRM &#x111;&#x1EC3; th&#x1EA5;y b&#x1ED9; l&#x1ECD;c n&#xE0;y nh&#xE9;](../../.gitbook/assets/crm%20%281%29.png)
 
@@ -46,57 +44,14 @@ Tìm cuộc gọi. Có 2 cách.
       <td style="text-align:left">2 + 3+ 7</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>Cho ph&#xE9;p l&#x1ECD;c &#x111;&#x1ED3;ng th&#x1EDD;i:</p>
+        <p>Nghe m&#xE1;y, kh&#xF4;ng li&#xEA;n l&#x1EA1;c &#x111;&#x1B0;&#x1EE3;c...</p>
+      </td>
+      <td style="text-align:left">4</td>
     </tr>
   </tbody>
-</table>| Nội dung cần check | Bộ lọc |
-| :--- | :--- |
-
-
-| HV kèm TVTS                  | 1+2 |
-| :--- | :--- |
-
-
-| Với các **cts được giao** trong tuần, **TVTS X** đã chăm sóc ntn với **level Y** | 2+3+5 |
-| :--- | :--- |
-
-
-| Với các **cts đã chăm sóc** trong tuần, **TVTS X** đã chăm sóc ntn với **level Y** | 2+3+7 |
-| :--- | :--- |
-
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">
-        <p>Cts &#x111;&#x1EBF;n <b>ng&#xE0;y h&#x1EB9;n</b> ch&#x103;m s&#xF3;c,</p>
-        <p>TVTS X c&#xF3; ch&#x103;m s&#xF3;c hay &#x111;&#x1EC3; t&#x1ED3;n</p>
-      </th>
-      <th style="text-align:left">2+6</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
-    <tr>
-      <th style="text-align:left">
-        <p>Ngo&#xE0;i ra, <b>B&#x1ED9; l&#x1ECD;c s&#x1ED1; 4</b> cho ph&#xE9;p l&#x1ECD;c
-          c&#xE1;c tr&#x1EA1;ng th&#xE1;i:</p>
-        <p>Nghe m&#xE1;y/Kh&#xF4;ng nh&#x1EA5;c m&#xE1;y/Kh&#xF4;ng li&#xEA;n l&#x1EA1;c
-          &#x111;&#x1B0;&#x1EE3;c/Sai s&#x1ED1;.</p>
-      </th>
-      <th style="text-align:left">2+4</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>## Bước 2
-
-Nghe ghi âm..
+</table>## Bước 2. Nghe ghi âm..
 
 ![](../../.gitbook/assets/3.png)
 
@@ -104,18 +59,18 @@ Nghe ghi âm..
 
 ![](../../.gitbook/assets/5-3.png)
 
-### Nếu không thấy cuộc gọi thì làm ntn?
+**\*Mẹo 1:** Nếu không thấy cuộc gọi thì làm ntn?
 
-* Cách 1. Xem lại số điện thoại đã điền đúng hay chưa. Chỉ có 2 loại định dạng được chấp nhận là: \(+84\)123... hoặc 0123.... Nếu chưa đúng thì sửa lại và nhấp "Cập nhật" rồi kiểm tra lại
+* Cách 1. Xem lại số điện thoại đã điền đúng hay chưa. Chỉ có 2 loại định dạng được chấp nhận là: **\(+84\)**123... hoặc **0**123.... Nếu chưa đúng thì sửa lại và nhấp "Cập nhật" rồi kiểm tra lại
 * Cách 2. Sdt đúng --&gt; Lấy **"Lịch sử VoiP"**
 
-### Hướng dẫn lấy Lịch sử VoiP
+**\*Mẹo 2:** Hướng dẫn lấy Lịch sử VoiP
 
 ![](../../.gitbook/assets/2-2.png)
 
-## **Bước 3**
+## **Bước 3. Ghi kết quả**
 
-Báo cáo kết quả đánh giá cuộc gọi: [https://forms.gle/Zc3fYdTbrqqwsd5G7](https://forms.gle/Zc3fYdTbrqqwsd5G7)
+Ghi kết quả đánh giá cuộc gọi[j: ps://forms.gle/Zc3fYdTbrqqwsd5G7](https://forms.gle/Zc3fYdTbrqqwsd5G7)
 
 * Có các tiêu chuẩn nào để đánh giá cuộc gọi từ L1-L3
 * Có các tiêu chuẩn nào để đánh giá cuộc gọi từ L5-L6...?
