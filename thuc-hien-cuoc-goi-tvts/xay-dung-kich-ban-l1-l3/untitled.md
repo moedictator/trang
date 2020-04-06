@@ -18,6 +18,12 @@ Hook Test + Hook SM/SA + **Đánh giá mức độ tiềm năng**
 
 ![V&#xEC; sao c&#x1EA7;n ch&#x1ECD;n Summit? S&#x1EF1; kh&#xE1;c bi&#x1EC7;t c&#x1EE7;a SM l&#xE0; g&#xEC;?](../../.gitbook/assets/4-3.png)
 
+Đánh giá mức độ tiềm năng của HV:
+
+* Nếu đang học TT TA khác thì khi nào xong?
+* Nếu chưa học TT thì khi nào có kế hoạch học, mục tiêu ra sao?
+* Mức độ đầu tư cho việc học TA ở trong khoảng nào?
+
 **Nguồn Cts Off:**
 
 **Cách 3.** Em là Trang, gọi đến từ Anh Ngữ Summit, Hiện SM đang có chương trình cho các bạn làm Kiểm tra TA **miễn phí** và **nhận quà**. Không biết **gia đình** có thể **sắp xếp thời gian** cho bạn tham gia chương trình được không ạ? Không . Dạ vâng, tức là bên em sẽ hỗ trợ cho các bạn làm bài tại trung tâm hoặc làm online tại nhà. Các bạn nhà hiện tại chắc là vẫn đang được nghỉ học phải không ạ? Thì có thể sắp xếp thời gian làm bài vào buổi sáng hoặc buổi chiều đều được ạ.
