@@ -8,7 +8,38 @@
 
 ## Kịch bản chi tiết
 
-|  |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Ch&#xE0;o, gi&#x1EDB;i thi&#x1EC7;u</td>
+      <td style="text-align:left">
+        <p>- Ch&#xE0;o anh/ch&#x1ECB;, cho em h&#x1ECF;i &#x111;&#xE2;y c&#xF3; ph&#x1EA3;i
+          sdt c&#x1EE7;a...</p>
+        <p>- Em nh&#x1EAD;n th&#xF4;ng tin l&#xE0; gia &#x111;&#xEC;nh minh &#x111;ang
+          quan t&#xE2;m t&#x1EDB;i ch&#x1B0;&#x1A1;ng tr&#xEC;nh h&#x1ECD;c TA cho
+          b&#x1EA1;n... nh&#xE0; m&#xEC;nh ph&#x1EA3;i kh&#xF4;ng &#x1EA1;?</p>
+        <p>- V&#x1EAD;y c&#xF3; th&#x1EC3; l&#xE0; b&#x1EA1;n nh&#xE0; m&#xEC;nh
+          &#x111;&#xE3; &#x111;&#x1EC3; l&#x1EA1;i th&#xF4;ng tin c&#x1EE7;a ph&#x1EE5;
+          huynh t&#x1EA1;i c&#xE1;c CT do SM t&#xE0;i tr&#x1EE3; t&#x1EA1;i tr&#x1B0;&#x1EDD;ng
+          c&#x1EE7;a b&#x1EA1;n.</p>
+        <p>- Kh&#xF4;ng bi&#x1EBF;t b&#xE2;y gi&#x1EDD; anh/ch&#x1ECB; c&#xF3; r&#x1EA3;nh
+          ch&#x1EEB;ng 5 ph&#xFA;t &#x111;&#x1EC3; em xin trao &#x111;&#x1ED5;i th&#xEA;m
+          v&#x1EC1; CT h&#x1ECD;c ph&#xF9; h&#x1EE3;p v&#x1EDB;i b&#x1EA1;n kh&#xF4;ng
+          &#x1EA1;?</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">B&#x1EAF;n SA, hook SM,</td>
+    </tr>
+  </tbody>
+</table>|  |  |
 | :--- | :--- |
 
 
@@ -24,9 +55,9 @@
           c&#xF3; k&#x1EBF; ho&#x1EA1;ch hay d&#x1EF1; &#x111;&#x1ECB;nh cho b&#x1EA1;n
           nh&#xE0; m&#xEC;nh luy&#x1EC7;n thi c&#xE1;c ch&#x1EE9;ng ch&#x1EC9;...
           <br
-          /><b>Cts t&#x1B0;&#x1A1;i:</b> Em nh&#x1EAD;n &#x111;&#x1B0;&#x1EE3;c th&#xF4;ng
-          tin l&#xE0; <b>gia &#x111;&#xEC;nh m&#xEC;nh</b> &#x111;ang quan t&#xE2;m
-          t&#x1EDB;i ch&#x1B0;&#x1A1;ng tr&#xEC;nh h&#x1ECD;c TA cho b&#x1EA1;n &#x111;&#xFA;ng
+          />Cts t&#x1B0;&#x1A1;i: Em nh&#x1EAD;n &#x111;&#x1B0;&#x1EE3;c th&#xF4;ng
+          tin l&#xE0; gia &#x111;&#xEC;nh m&#xEC;nh &#x111;ang quan t&#xE2;m t&#x1EDB;i
+          ch&#x1B0;&#x1A1;ng tr&#xEC;nh h&#x1ECD;c TA cho b&#x1EA1;n &#x111;&#xFA;ng
           kh&#xF4;ng &#x1EA1;?
           <br />- &#xC0;, v&#x1EAD;y c&#xF3; th&#x1EC3; l&#xE0; b&#x1EA1;n nh&#xE0; m&#xEC;nh
           &#x111;&#xE3; &#x111;&#x1EC3; l&#x1EA1;i th&#xF4;ng tin c&#x1EE7;a ph&#x1EE5;
@@ -92,35 +123,4 @@
 | Chốt | Xin email, chốt lịch Test \(Nơi ở của HV, thời gian có thể đến\) |
 | :--- | :--- |
 
-
-|  |  |
-| :--- | :--- |
-
-
-| HS đang học ở trung tâm khác rồi, không có nhu cầu học TA nữa | - Bạn **đang học đến** band điểm nào? theo học IE hay TF? --&gt; SM có chương trình ưu đãi kỷ niệm 10 năm... được thực hiện bài Test trình độ miễn phí, .... - Lợi ích bài Test: được các giáo viên có chuyên môn cao của SM chấm bài, đánh giá ưu và nhược điểm. Học tại mỗi trung tâm chất lượng đào tạo sẽ khác nhau. Để con xác định được trình độ hiện tại, cũng như các điểm cần cải thiện thì SM đang có chương trình cho kiểm tra miễn phí trình độ - Khi nào anh/chị muốn thay đổi môi trường học cho bạn hoặc nâng cao band điểm thì có thể liên hệ thêm với Summit. - Xin email, hỏi mục tiêu học, đã học tiếng Anh giao tiếp hay...? |
-| :--- | :--- |
-
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">M&#xEC;nh kh&#xF4;ng quan t&#xE2;m b&#x1EA1;n &#x1A1;i, gia &#x111;&#xEC;nh
-        c&#x169;ng kh&#xF4;ng c&#xF3; nhu c&#x1EA7;u/&#x111;i&#x1EC1;u ki&#x1EC7;n</th>
-      <th
-      style="text-align:left">
-        <ul>
-          <li>(Vui v&#x1EBB;) --&gt; SM &#x111;&#xE3; c&#xF3; h&#x1A1;n 10 n&#x103;m
-            kinh nghi&#x1EC7;m... Xin email g&#x1EED;i th&#xF4;ng tin v&#x1EC1; kh&#xF3;a
-            h&#x1ECD;c, khi n&#xE0;o...</li>
-          <li>(C&#x1EA1;u) --&gt;
-            <br />- V&#x1EAD;y khi n&#xE0;o c&#xF3; nhu c&#x1EA7;u luy&#x1EC7;n thi ch&#x1EE9;ng
-            ch&#x1EC9; Ti&#x1EBF;ng Anh ho&#x1EB7;c t&#x1B0; v&#x1EA5;n du h&#x1ECD;c
-            th&#xEC; m&#x1EDD;i anh/ch&#x1ECB; li&#xEA;n h&#x1EC7; l&#x1EA1;i v&#x1EDB;i
-            SM</li>
-        </ul>
-        </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>Vì các đối tượng khác nhau sẽ cần thay đổi Kịch bản cho phù hợp. Sau đây là một số gợi mở
 
