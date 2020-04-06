@@ -36,9 +36,9 @@ Hook Test + Hook SM/SA + **Đánh giá mức độ tiềm năng**
 
 ![](../../.gitbook/assets/2-11.png)
 
-* **Cts giới thiệu:**
+### **3.Cts giới thiệu:**
 
-Bước 1. Điền form. LInk...
+Bước 1. Điền form. Link...
 
 Bước 2. tại nhóm chat Sale Suport, nhắc SS lọc trùng giúp cts. Sau khi SS lọc trùng thì cts sẽ chuyển về CRM của mình
 
