@@ -35,8 +35,8 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">B&#x1EAF;n SA, hook SM,</td>
+      <td style="text-align:left">L&#xFD; do v&#xEC; sao c&#x1EA7;n ch&#x1ECD;n SM</td>
+      <td style="text-align:left">B&#x1EAF;n SA, hook SM, hook Test</td>
     </tr>
   </tbody>
 </table>|  |  |
