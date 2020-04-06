@@ -13,7 +13,9 @@ description: TVTS thực hiện cuộc gọi có đạt chất lượng hay khô
 * Rủi ro 1: Chỉ quan tâm đến các Cts thành công \(có email trả kết quả\). Không quan tâm các Cts chưa thành công. Điều này giống như: Đi vá những vết đạn trên thân máy bay hay là vá những vết đạn không nằm trên thân máy?
 * Rủi ro 2: Cuộc gọi đầy đủ thông tin lại không thuộc phạm vi tuần đánh gián
 
-**Cách 2.** Sử dụng bộ lọc
+**Cách 2.** Sử dụng bộ lọc 
+
+Dựa theo tình trạng tại thời điểm đó và chỉ tiêu các loại cuộc gọi cần kiểm tra để sử dụng bộ lọc phù hợp
 
 ![L&#xE0;m theo c&#xE1;c b&#x1B0;&#x1EDB;c &#x1EDF; gi&#x1EDB;i thi&#x1EC7;u s&#x1EED; d&#x1EE5;ng CRM &#x111;&#x1EC3; th&#x1EA5;y b&#x1ED9; l&#x1ECD;c n&#xE0;y nh&#xE9;](../../.gitbook/assets/crm%20%281%29.png)
 

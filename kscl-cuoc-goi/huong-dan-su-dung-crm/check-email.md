@@ -20,13 +20,8 @@ description: >-
 
 ### 3.2. Check chất lượng email
 
-**Bước 1:** Vào hòm thư Storage để xem **những** email trả kết quả gần nhất. 
-
-* Nếu không có --&gt; Bỏ qua
-* Nếu có --&gt; Kiểm tra chất lượng email theo yêu cầu ở phần "Cơ chế thẻ xanh - đỏ" và điền "Đã gửi" tại form theo dõi email trên. 
-
-**Bước 2**: Check chất lượng email kèm check cuộc gọi 6AB + 3A \(nếu có\)
-
+* Vào hòm thư Storage để xem **những** email trả kết quả gần nhất. Nếu có --&gt; điền "Đã gửi" tại form theo dõi email trên
+* Tiếp theo check chất lượng email đó kèm check cuộc gọi 6AB + 3A \(nếu có\)
 * Điền kết quả vào form: [http://bit.ly/39zZ1yM](http://bit.ly/39zZ1yM)
 
 ### 3.3. Check email L8
