@@ -1,5 +1,7 @@
 # 2.2.KB - Cuộc gọi lọc
 
+**Mục đích:** Hook Test + Hook SM/SA + **Đánh giá mức độ tiềm năng**
+
 **Cách 2.** Em là Trang, gọi đến từ Anh ngữ Summit, chuyên đào tạo chứng chỉ **IE, TF, SAT và TVDH.** Hiện nay SM đang có chương trình cho các bạn làm một bài **Test** kiểm tra trình độ miễn phí**/**.. Bài kiểm tra sẽ được các giảng viên có trình độ cao, nhiều năm kinh nghiệm giảng dạy đánh giá - Cũng là một cách để PH có thể biết con em mình cần bổ sung kiến thức phần nào ...**/**Thì không biết có thể hỗ trợ cho gia đình mình không ạ?
 
 ![L&#x1EE3;i &#xED;ch khi h&#x1ECD;c ch&#x1EE9;ng ch&#x1EC9; TA](../../.gitbook/assets/thap-1.png)
@@ -24,22 +26,11 @@
 
 * Không biết hiện tại anh/chị đã có kế  hoạch hay dự định cho bạn luyện thi chứng chỉ IE,TF, SAT?  
 * Gia đình mình có ai có nhu cầu luyện thi các chứng chỉ này không ạ?
+* Không --&gt; À, dạ, không biết là các bạn nhà mình vẫn đang trong độ tuổi đi học đúng không ạ?
 
-Không --&gt; À, dạ, không biết là các bạn nhà mình vẫn đang trong độ tuổi đi học đúng không ạ?
 
-* Với HS đang học ở **TT khác rồi** có 5 nội dung có thể khai thác và hook:
-* Học TA giao tiếp hay học thuật?
-* Học lâu chưa \(sắp hoàn thành chưa\)
-* Học đến band điểm nào rồi
-* Thi thử ở đâu chưa? --&gt; Hook Test
-* \(với HV đã học xong\) Sm có hợp tác với hội đồng Anh BC, nếu muốn đăng ký thi, Sm có thể hỗ trợ
-* Với lứa tuổi HS chưa có nhu cầu...
-* Với Cts Chưa có tên - tức là phụ huynh thì hỏi **gia đình**
-* Không --&gt; Vậy có thể cho em **xin email** để gửi các thông tin về Summit để khi anh/chị có nhu cầu có thể tiện liên hệ lại được không ạ? Summit là TT Anh Ngữ đã có hơn 10 năm kinh nghiệm trong lĩnh vực đà tạo chứng chỉ và TVDH...
 
 ![](../../.gitbook/assets/2-11.png)
-
-![](../../.gitbook/assets/3-7.png)
 
 * **Cts giới thiệu:**
 
