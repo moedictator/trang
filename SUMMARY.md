@@ -25,8 +25,6 @@
 * [Thực hiện công tác TVTS](thuc-hien-cuoc-goi-tvts/README.md)
   * [1.Hướng dẫn sử dụng phần mềm CRM](thuc-hien-cuoc-goi-tvts/huong-dan-goi-dien-bang-crm.md)
   * [2.Xây dựng KB L1-L3](thuc-hien-cuoc-goi-tvts/xay-dung-kich-ban-l1-l3/README.md)
-    * [Untitled](thuc-hien-cuoc-goi-tvts/xay-dung-kich-ban-l1-l3/untitled-2.md)
-    * [Untitled](thuc-hien-cuoc-goi-tvts/xay-dung-kich-ban-l1-l3/untitled-1.md)
     * [2.1.Cuộc gọi mẫu](thuc-hien-cuoc-goi-tvts/xay-dung-kich-ban-l1-l3/cuoc-goi-mau.md)
     * [2.2.KB - Cuộc gọi lọc](thuc-hien-cuoc-goi-tvts/xay-dung-kich-ban-l1-l3/untitled.md)
     * [2.3.KB - Cuộc gọi L1-L3](thuc-hien-cuoc-goi-tvts/xay-dung-kich-ban-l1-l3/kich-ban-mau.md)
