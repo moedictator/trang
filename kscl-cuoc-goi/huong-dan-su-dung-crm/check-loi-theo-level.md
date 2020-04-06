@@ -70,7 +70,7 @@ Dựa theo tình trạng tại thời điểm đó và chỉ tiêu các loại c
 
 ![](../../.gitbook/assets/2-2.png)
 
-## **Bước 3. Ghi kết quả**
+## **Bước 3. Ghi lại kết quả**
 
 Ghi kết quả đánh giá cuộc gọi[j: ps://forms.gle/Zc3fYdTbrqqwsd5G7](https://forms.gle/Zc3fYdTbrqqwsd5G7)
 
