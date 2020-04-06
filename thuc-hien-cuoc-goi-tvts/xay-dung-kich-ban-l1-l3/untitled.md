@@ -1,6 +1,10 @@
 # 2.2.KB - Cuộc gọi lọc
 
-**Mục đích:** Hook Test + Hook SM/SA + **Đánh giá mức độ tiềm năng**
+### 1.**Mục đích:** 
+
+Hook Test + Hook SM/SA + **Đánh giá mức độ tiềm năng**
+
+### **2.Cách gọi:**
 
 **Cách 2.** Em là Trang, gọi đến từ Anh ngữ Summit, chuyên đào tạo chứng chỉ **IE, TF, SAT và TVDH.** Hiện nay SM đang có chương trình cho các bạn làm một bài **Test** kiểm tra trình độ miễn phí**/**.. Bài kiểm tra sẽ được các giảng viên có trình độ cao, nhiều năm kinh nghiệm giảng dạy đánh giá - Cũng là một cách để PH có thể biết con em mình cần bổ sung kiến thức phần nào ...**/**Thì không biết có thể hỗ trợ cho gia đình mình không ạ?
 
