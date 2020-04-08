@@ -6,7 +6,7 @@ Hook Test + Hook SM/SA + **Đánh giá mức độ tiềm năng**
 
 ### **2.Cách gọi:**
 
-**Cách 1 \(new\):**
+**Cách 1.** \(mục đích lọc HV có tiềm năng\)
 
 <table>
   <thead>
@@ -26,15 +26,65 @@ Hook Test + Hook SM/SA + **Đánh giá mức độ tiềm năng**
           quan t&#xE2;m ... kh&#xF4;ng/Kh&#xF4;ng bi&#x1EBF;t c&#xF3; th&#x1EC3;
           h&#x1ED7; tr&#x1EE3; g&#xEC; cho gia &#x111;&#xEC;nh/em kh&#xF4;ng?</p>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>C&#xF3;/</p>
+        <p>kh&#xF4;ng</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">- T&#x1EA1;o thi&#x1EBF;t l&#x1EAD;p: Hi&#x1EC7;n t&#x1EA1;i SM &#x111;ang
-        c&#xF3; CT cho c&#xE1;c b&#x1EA1;n test th&#x1EED;</td>
-      <td style="text-align:left"></td>
+        c&#xF3; CT cho c&#xE1;c b&#x1EA1;n test th&#x1EED; tr&#xEC;nh &#x111;&#x1ED9;/&#x111;&#xE1;nh
+        gi&#xE1; hi&#x1EC7;u qu&#x1EA3; h&#x1ECD;c t&#x1EAD;p. B&#xE0;i Test &#x111;&#x1B0;&#x1EE3;c
+        c&#xE1;c GV c&#xF3; tr&#xEC;nh &#x111;&#x1ED9; cao c&#x1EE7;a SM &#x111;&#xE1;nh
+        gi&#xE1; c&#x1EA3; 4 k&#x1EF9; n&#x103;ng.. gi&#xFA;p con ch&#x1EC9; ra
+        &#x111;&#x1B0;&#x1EE3;c c&#xE1;c &#x1B0;u &#x111;i&#x1EC3;m v&#xE0;...
+        &#x111;i&#x1EC3;m c&#x1EA7;n c&#x1EA3;i thi&#x1EC7;n
+        <br />- Kh&#xF4;ng bi&#x1EBF;t em/b&#x1EA1;n &#x111;&#xE3; &#x111;i h&#x1ECD;c
+        &#x1EDF; TT n&#xE0;o ch&#x1B0;a? tr&#xEC;nh &#x111;&#x1ED9; &#x111;ang
+        &#x1EDF; m&#x1EE9;c n&#xE0;o?</td>
+      <td style="text-align:left">
+        <p>Th&#xED;ch/</p>
+        <p>l&#x1B0;&#x1EE1;ng l&#x1EF1;/Kh&#xF4;ng c&#xF3; NC</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>- M&#x1EE5;c ti&#xEA;u h&#x1ECD;c TA &#x111;&#x1EC3; ...?</p>
+        <p>- Chia s&#x1EBB;/&#x111;&#x1ED3;ng c&#x1EA3;m: L&#x1EE3;i &#xED;ch h&#x1ECD;c
+          TA...</p>
+      </td>
+      <td style="text-align:left">C&#xF3; m&#x1EE5;c ti&#xEA;u/Ch&#x1B0;a c&#xF3; m&#x1EE5;c ti&#xEA;u</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>- Hook: Tuy nhi&#xEA;n &#x111;&#x1EC3; &#x111;&#x1EA1;t &#x111;&#x1B0;&#x1EE3;c
+          m&#x1EE5;c ti&#xEA;u th&#xEC; c&#x1EA7;n c&#x1EA3; m&#x1ED9;t qu&#xE1;
+          tr&#xEC;nh h&#x1ECD;c t&#x1EAD;p l&#xE2;u d&#xE0;i.</p>
+        <p>- H&#x1ECF;i &#x111;&#x1ECB;a ch&#x1EC9; .... Gi&#x1EDB;i thi&#x1EC7;u
+          4 &#x111;&#x1ECB;a &#x111;i&#x1EC3;m SM &#x1EDF; HN. V&#x1EDB;i &#x111;&#x1ECB;a
+          ch&#x1EC9; v&#x1EEB;a r&#x1ED3;i th&#xEC; c&#x1A1; s&#x1EDF; ... l&#xE0;
+          g&#x1EA7;n nh&#x1EA5;t ph&#x1EA3;i kh&#xF4;ng?</p>
+        <p>- Em/B&#x1EA1;n/Anh-Ch&#x1ECB; &#x111;&#xE3; bi&#x1EBF;t v&#x1EC1; SM
+          ch&#x1B0;a?</p>
+        <p>--&gt; Gi&#x1EDB;i thi&#x1EC7;u: Hook SM, SA</p>
+      </td>
+      <td style="text-align:left">
+        <p>- &#x1EDE; trung t&#xE2;m/&#x1EDE; xa</p>
+        <p>- Bi&#x1EBF;t SM/Kh&#xF4;ng</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>Ch&#x1ED1;t: - Hook Test v&#x1EDB;i HV c&#xF3; <b>ti&#x1EC1;m n&#x103;ng</b>
+        </p>
+        <p>- Xin email + zalo</p>
+      </td>
+      <td style="text-align:left">Ch&#x1ED1;t/Ch&#x1B0;a ch&#x1ED1;t</td>
     </tr>
   </tbody>
-</table>**Cách 2.** Em là Trang, gọi đến từ Anh ngữ Summit, chuyên đào tạo chứng chỉ **IE, TF, SAT và TVDH.** Hiện nay SM đang có chương trình cho các bạn làm một bài **Test** kiểm tra trình độ miễn phí**/**.. Bài kiểm tra sẽ được các giảng viên có trình độ cao, nhiều năm kinh nghiệm giảng dạy đánh giá - Cũng là một cách để PH có thể biết con em mình cần bổ sung kiến thức phần nào ...**/**Thì không biết có thể hỗ trợ cho gia đình mình không ạ?
+</table>**Cách 2.** \(mục đích hook Test & lan tỏa thương hiệu\)
+
+Em là Trang, gọi đến từ Anh ngữ Summit, chuyên đào tạo chứng chỉ **IE, TF, SAT và TVDH.** Hiện nay SM đang có chương trình cho các bạn làm một bài **Test** kiểm tra trình độ miễn phí**/**.. Bài kiểm tra sẽ được các giảng viên có trình độ cao, nhiều năm kinh nghiệm giảng dạy đánh giá - Cũng là một cách để PH có thể biết con em mình cần bổ sung kiến thức phần nào ...**/**Thì không biết có thể hỗ trợ cho gia đình mình không ạ?
 
 ![L&#x1EE3;i &#xED;ch khi h&#x1ECD;c ch&#x1EE9;ng ch&#x1EC9; TA](../../.gitbook/assets/thap-1.png)
 
