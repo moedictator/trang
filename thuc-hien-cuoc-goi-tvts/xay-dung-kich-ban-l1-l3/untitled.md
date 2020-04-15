@@ -34,10 +34,11 @@ Hook Test + Hook SM/SA + **Đánh giá mức độ tiềm năng**
     <tr>
       <td style="text-align:left">- <b>T&#x1EA1;o thi&#x1EBF;t l&#x1EAD;p: </b>Hi&#x1EC7;n t&#x1EA1;i SM
         &#x111;ang c&#xF3; CT cho c&#xE1;c b&#x1EA1;n l&#xE0;m b&#xE0;i Test ki&#x1EC3;m
-        tra tr&#xEC;nh &#x111;&#x1ED9;/&#x111;&#xE1;nh gi&#xE1; hi&#x1EC7;u qu&#x1EA3;
-        h&#x1ECD;c t&#x1EAD;p. B&#xE0;i Test &#x111;&#x1B0;&#x1EE3;c c&#xE1;c GV
-        c&#xF3; tr&#xEC;nh &#x111;&#x1ED9; cao c&#x1EE7;a SM &#x111;&#xE1;nh gi&#xE1;
-        c&#x1EA3; 4 k&#x1EF9; n&#x103;ng.. gi&#xFA;p con ch&#x1EC9; ra &#x111;&#x1B0;&#x1EE3;c
+        tra tr&#xEC;nh &#x111;&#x1ED9; mi&#x1EC5;n ph&#xED;/c&#x169;ng nh&#x1B0;
+        gi&#xFA;p PH &#x111;&#xE1;nh gi&#xE1; hi&#x1EC7;u qu&#x1EA3; h&#x1ECD;c
+        t&#x1EAD;p. B&#xE0;i Test &#x111;&#x1B0;&#x1EE3;c c&#xE1;c GV c&#xF3; tr&#xEC;nh
+        &#x111;&#x1ED9; cao c&#x1EE7;a SM &#x111;&#xE1;nh gi&#xE1; c&#x1EA3; 4
+        k&#x1EF9; n&#x103;ng.. gi&#xFA;p con ch&#x1EC9; ra &#x111;&#x1B0;&#x1EE3;c
         c&#xE1;c &#x1B0;u &#x111;i&#x1EC3;m v&#xE0;... &#x111;i&#x1EC3;m c&#x1EA7;n
         c&#x1EA3;i thi&#x1EC7;n
         <br />- Kh&#xF4;ng bi&#x1EBF;t em/b&#x1EA1;n &#x111;&#xE3; &#x111;i h&#x1ECD;c
