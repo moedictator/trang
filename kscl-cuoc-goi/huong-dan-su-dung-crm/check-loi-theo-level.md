@@ -2,7 +2,7 @@
 description: TVTS thực hiện cuộc gọi có đạt chất lượng hay không?
 ---
 
-# 2.5.Check cuộc gọi
+# 2.6.Check cuộc gọi
 
 ## **Bước 1.** Tìm cuộc gọi. Có 2 cách.
 
