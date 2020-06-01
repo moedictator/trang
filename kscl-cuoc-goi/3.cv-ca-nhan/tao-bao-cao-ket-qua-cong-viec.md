@@ -1,4 +1,4 @@
-# 6.Tạo BC kết quả công việc
+# 3.4.Tạo BC kết quả CV
 
 Có 2 báo cáo cần thực hiện hàng tuần:
 
