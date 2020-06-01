@@ -16,6 +16,7 @@
     * [2.4.Check email](kscl-cuoc-goi/huong-dan-su-dung-crm/check-email.md)
     * [2.5.Check hotline](kscl-cuoc-goi/huong-dan-su-dung-crm/2.5.check-hotline.md)
     * [2.6.Check cuộc gọi](kscl-cuoc-goi/huong-dan-su-dung-crm/check-loi-theo-level.md)
+    * [2.7.Check CL tư vấn trực tiếp](kscl-cuoc-goi/huong-dan-su-dung-crm/2.7.check-cl-tu-van-tru-c-tiep.md)
   * [3.CV cá nhân](kscl-cuoc-goi/3.cv-ca-nhan/README.md)
     * [3.1.Check email cá nhân](kscl-cuoc-goi/3.cv-ca-nhan/4.check-email-ca-nhan.md)
     * [3.2.Tương tác QL cơ sở](kscl-cuoc-goi/3.cv-ca-nhan/5.-tuong-tac-ql-co-so.md)
