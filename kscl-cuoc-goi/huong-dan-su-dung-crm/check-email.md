@@ -16,7 +16,7 @@ description: >-
 
 **Bước 3.** Điền kết quả 
 
-![](../../.gitbook/assets/screenshot_12.png)
+![](../../.gitbook/assets/2%20%283%29.png)
 
 **Mẹo:** Liên tục check email mới đến thay vì copy paste chính xác tên học viên Test sẽ giúp kiểm soát gần như tối đa các rủi ro do SS/TVTS gõ sai tên HV. Tuy nhiên việc TVTS không CC sang hòm thư tổng thì không kiểm soát được
 
