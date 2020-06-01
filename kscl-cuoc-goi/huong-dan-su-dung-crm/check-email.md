@@ -54,6 +54,12 @@ description: >-
           nh&#xE2;&#x301;t co&#x301; th&#xEA;&#x309;.</p>
         <p>TH3: KLLD trong vo&#x300;ng 3 nga&#x300;y --&gt; V&#xE2;&#x303;n g&#x1B0;&#x309;i
           email tra&#x309; k&#xEA;&#x301;t qua&#x309;</p>
+        <p><b>&gt;&gt;L&#xF4;&#x303;i M01.1: </b>Ch&#x1B0;a g&#x1B0;&#x309;i - Qua&#x301;
+          ha&#x323;n (ca&#x309;nh ba&#x301;o, nh&#x103;&#x301;c nh&#x1A1;&#x309;)</p>
+        <p><b>&gt;&gt;L&#xF4;&#x303;i M01.2: </b>&#x110;a&#x303; g&#x1B0;&#x309;i
+          - Qua&#x301; ha&#x323;n (BP QLCL l&#x1B0;u y&#x301; theo do&#x303;i sa&#x301;t
+          sao h&#x1A1;n, tra&#x301;nh &#x111;&#xEA;&#x309; TH na&#x300;y xa&#x309;y
+          ra)</p>
       </td>
     </tr>
     <tr>
