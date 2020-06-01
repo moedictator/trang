@@ -20,7 +20,7 @@ description: >-
 
 |  |  |
 | :--- | :--- |
-| **1** | Các case đã check xong được tô vàng |
+| **1** | Các case đã check xong cần được tô vàng |
 | 2 | "Hạn gửi email". Sau khi HV có kết quả chấm bài \(thường trùng với ngày HV lên Test\)....................................................... |
 
 **Mẹo:** Liên tục check email mới đến thay vì copy paste chính xác tên học viên Test sẽ giúp kiểm soát gần như tối đa các rủi ro do SS/TVTS gõ sai tên HV. Tuy nhiên việc TVTS không CC sang hòm thư tổng thì không kiểm soát được
