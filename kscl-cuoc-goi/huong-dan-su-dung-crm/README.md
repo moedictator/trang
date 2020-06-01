@@ -11,7 +11,7 @@ description: hay là Hướng dẫn sử dụng CRM
 * Form báo cáo lỗi. Link: [https://forms.gle/Zc3fYdTbrqqwsd5G7](https://forms.gle/Zc3fYdTbrqqwsd5G7)
 * Email QLCL: storage.tvts@summit.edu.vn
 * Tài khoản QLCL tại phần mềm CRM: [https://mol.summit.edu.vn/](https://mol.summit.edu.vn/) 
-* **File báo cáo dữ liệu QLCL**: [http://bit.ly/398VuHP](http://bit.ly/398VuHP)
+* File báo cáo dữ liệu QLCL: [http://bit.ly/398VuHP](http://bit.ly/398VuHP)
 
 ### **HƯỚNG DẪN CHUNG TRUY CẬP CRM**
 

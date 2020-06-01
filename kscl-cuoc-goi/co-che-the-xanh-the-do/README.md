@@ -63,6 +63,8 @@ Cơ chế KSCL của Summit đề cao việc **cải thiện chất lượng TVT
 
 ![TH&#x1EBA; &#x110;&#x1ECE; - C&#xC2;&#x300;N C&#xC2;&#x323;P NH&#xC2;&#x323;T LA&#x323;I](../../.gitbook/assets/2-10.png)
 
+\*\*\*\*[**https://bit.ly/3coFjXL**](https://bit.ly/3coFjXL)\*\*\*\*
+
 **Lưu ý:**
 
 * Giảm 1 bậc thẻ đỏ khi doanh số \(DS\)/tuần &gt;= 80%
