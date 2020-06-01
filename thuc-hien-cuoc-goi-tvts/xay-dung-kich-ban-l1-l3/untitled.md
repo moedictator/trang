@@ -88,7 +88,9 @@ Hook Test + Hook SM/SA + **Đánh giá mức độ tiềm năng**
       <td style="text-align:left">Ch&#x1ED1;t/Ch&#x1B0;a ch&#x1ED1;t</td>
     </tr>
   </tbody>
-</table>**Cách 2.** \(mục đích hook Test & lan tỏa thương hiệu\)
+</table>
+
+**Cách 2.** \(mục đích hook Test & lan tỏa thương hiệu\)
 
 Em là Trang, gọi đến từ Anh ngữ Summit, chuyên đào tạo chứng chỉ **IE, TF, SAT và TVDH.** Hiện nay SM đang có chương trình cho các bạn làm một bài **Test** kiểm tra trình độ miễn phí**/**.. Bài kiểm tra sẽ được các giảng viên có trình độ cao, nhiều năm kinh nghiệm giảng dạy đánh giá - Cũng là một cách để PH có thể biết con em mình cần bổ sung kiến thức phần nào ...**/**Thì không biết có thể hỗ trợ cho gia đình mình không ạ?
 

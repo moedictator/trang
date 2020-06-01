@@ -53,7 +53,9 @@ Dựa theo tình trạng tại thời điểm đó và chỉ tiêu các loại c
       <td style="text-align:left">4</td>
     </tr>
   </tbody>
-</table>## Bước 2. Nghe ghi âm..
+</table>
+
+## Bước 2. Nghe ghi âm..
 
 ![](../../.gitbook/assets/3.png)
 

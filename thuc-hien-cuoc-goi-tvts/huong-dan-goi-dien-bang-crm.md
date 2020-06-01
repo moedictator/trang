@@ -22,7 +22,9 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">
@@ -50,7 +52,9 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table>## \(ii\) Level  ![](../.gitbook/assets/4-4.png)
+</table>
+
+## \(ii\) Level  ![](../.gitbook/assets/4-4.png)
 
 \(iii\) ??**A-7** ngày, **B-1** tháng, **6A-3** ngày, **5A,B-3** ngày.  
 Đề xuất cải tiến \(iii\):  
