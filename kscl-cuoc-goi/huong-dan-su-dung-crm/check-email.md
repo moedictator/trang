@@ -18,6 +18,8 @@ description: >-
 
 ![](../../.gitbook/assets/screenshot_12.png)
 
+**Mẹo:** Liên tục check email mới đến thay vì copy paste chính xác tên học viên Test sẽ giúp kiểm soát gần như tối đa các rủi ro do SS/TVTS gõ sai tên HV. Tuy nhiên việc TVTS không CC sang hòm thư tổng thì không kiểm soát được
+
 ### 3.2. Check chất lượng email
 
 **Bước 1:** Vào hòm thư Storage để xem **những** email trả kết quả gần nhất. 
