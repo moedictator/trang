@@ -16,9 +16,11 @@ description: hay là Hướng dẫn sử dụng CRM
 
 ### **HƯỚNG DẪN CHUNG TRUY CẬP CRM**
 
+Bước 1-2-3-4: Đăng nhập bằng TK SLCL/Đảo chiều mũi tên/Sale Manager/Kho tổng
+
 ![B&#x1B0;&#x1EDB;c 1-2-3-4](../../.gitbook/assets/mol.png)
 
-Bước 1-2-3-4: Đăng nhập bằng TK SLCL/Đảo chiều mũi tên/Sale Manager/Kho tổng
+
 
 ![B&#x1B0;&#x1EDB;c 5](../../.gitbook/assets/mol2.png)
 
