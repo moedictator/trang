@@ -44,7 +44,7 @@ Hook Test + Hook SM/SA + **Đánh giá mức độ tiềm năng**
           &#x111;&#x1ED9; cao c&#x1EE7;a SM &#x111;&#xE1;nh gi&#xE1; c&#x1EA3; 4
           k&#x1EF9; n&#x103;ng.. gi&#xFA;p con ch&#x1EC9; ra &#x111;&#x1B0;&#x1EE3;c
           c&#xE1;c &#x1B0;u &#x111;i&#x1EC3;m v&#xE0;... &#x111;i&#x1EC3;m c&#x1EA7;n
-          c&#x1EA3;i thi&#x1EC7;n
+          t&#xE2;&#x323;p trung c&#x1EA3;i thi&#x1EC7;n
           <br />(V&#x1EDB;i HS - Kh&#xF4;ng bi&#x1EBF;t em/b&#x1EA1;n &#x111;&#xE3; &#x111;i
           h&#x1ECD;c &#x1EDF; TT n&#xE0;o ch&#x1B0;a? tr&#xEC;nh &#x111;&#x1ED9;
           &#x111;ang &#x1EDF; m&#x1EE9;c n&#xE0;o?)</p>
