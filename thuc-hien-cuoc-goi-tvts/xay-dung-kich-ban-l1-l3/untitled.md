@@ -39,7 +39,7 @@ Hook Test + Hook SM/SA + **Đánh giá mức độ tiềm năng**
           gi&#xFA;p PH &#x111;&#xE1;nh gi&#xE1; hi&#x1EC7;u qu&#x1EA3; h&#x1ECD;c
           t&#x1EAD;p.
           <br />(V&#x1EDB;i PH: --&gt; Kh&#xF4;ng bi&#x1EBF;t ch&#x1ECB; c&#xF3; mu&#x1ED1;n
-          cho b&#x1EA1;n tham gia Test th&#x1EED; kh&#xF4;ng &#x1EA1;?)</p>
+          cho b&#x1EA1;n tham gia Test th&#x1EED; na&#x300;y kh&#xF4;ng &#x1EA1;?)</p>
         <p>- B&#xE0;i Test &#x111;&#x1B0;&#x1EE3;c c&#xE1;c GV c&#xF3; tr&#xEC;nh
           &#x111;&#x1ED9; cao c&#x1EE7;a SM &#x111;&#xE1;nh gi&#xE1; c&#x1EA3; 4
           k&#x1EF9; n&#x103;ng.. gi&#xFA;p con ch&#x1EC9; ra &#x111;&#x1B0;&#x1EE3;c
