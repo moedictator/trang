@@ -81,6 +81,10 @@ description: >-
   </tbody>
 </table>
 
+**Bước 4. Bôi vàng**
+
+Để hạn chế phần nào rủi ro bị xóa hàng từ file hứng
+
 **Mẹo:** Liên tục check email mới đến thay vì copy paste chính xác tên học viên Test sẽ giúp kiểm soát gần như tối đa các rủi ro do SS/TVTS gõ sai tên HV. Tuy nhiên việc TVTS không CC sang hòm thư tổng thì không kiểm soát được
 
 ### 3.2. Check chất lượng email
