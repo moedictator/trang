@@ -73,7 +73,7 @@ Hook Test + Hook SM/SA + **Đánh giá mức độ tiềm năng**
         <p>- <b>Hook</b>: Tuy nhi&#xEA;n &#x111;&#x1EC3; &#x111;&#x1EA1;t &#x111;&#x1B0;&#x1EE3;c
           m&#x1EE5;c ti&#xEA;u th&#xEC; c&#x1EA7;n c&#x1EA3; m&#x1ED9;t qu&#xE1;
           tr&#xEC;nh h&#x1ECD;c t&#x1EAD;p l&#xE2;u d&#xE0;i.</p>
-        <p>- <b>H&#x1ECF;i &#x111;&#x1ECB;a ch&#x1EC9;</b> .... Gi&#x1EDB;i thi&#x1EC7;u
+        <p>- <b>H&#x1ECF;i &#x111;&#x1ECB;a ch&#x1EC9;</b> ... Gi&#x1EDB;i thi&#x1EC7;u
           4 &#x111;&#x1ECB;a &#x111;i&#x1EC3;m SM &#x1EDF; HN. V&#x1EDB;i &#x111;&#x1ECB;a
           ch&#x1EC9; v&#x1EEB;a r&#x1ED3;i th&#xEC; c&#x1A1; s&#x1EDF; ... l&#xE0;
           g&#x1EA7;n nh&#x1EA5;t ph&#x1EA3;i kh&#xF4;ng?</p>
