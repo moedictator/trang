@@ -4,7 +4,7 @@
 
 Tại nguồn học viên
 
-* Bỏ check email: 1-1,Fulltest 1-1,TVDH,ACT,CSHV
+* Bỏ check email: 1-1,Fulltest 1-1,TVDH,ACT,CSHV,TVTDH
 * Chọn check email: SAT, đã có hẹn TVTS/TVTK,Giới thiệu,gọi lọc,hotline,vãng lại, nguồn khác,Fulltest của TVTS
 
 ### Mục đích check email?
