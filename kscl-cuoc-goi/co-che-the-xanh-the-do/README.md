@@ -59,15 +59,9 @@ Cơ chế KSCL của Summit đề cao việc **cải thiện chất lượng TVT
   </tbody>
 </table>
 
-![TH&#x1EBA; XANH](../../.gitbook/assets/1%20%283%29.png)
-
-![TH&#x1EBA; &#x110;&#x1ECE; - C&#xC2;&#x300;N C&#xC2;&#x323;P NH&#xC2;&#x323;T LA&#x323;I](../../.gitbook/assets/2-10.png)
-
-![](../../.gitbook/assets/3%20%284%29.png)
-
 ![](../../.gitbook/assets/1%20%284%29.png)
 
-
+![](../../.gitbook/assets/4%20%283%29.png)
 
 \*\*\*\*[**https://bit.ly/3coFjXL**](https://bit.ly/3coFjXL)\*\*\*\*
 
