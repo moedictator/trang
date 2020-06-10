@@ -70,9 +70,9 @@ Cập nhật cơ chế Thẻ Xanh - Đỏ tại: [**https://bit.ly/3coFjXL**](ht
 * Giảm 1 bậc thẻ đỏ khi doanh số \(DS\)/tuần &gt; 70%
 * Tăng 1 bậc thẻ đỏ khi cùng 1 lỗi mắc đến 3 lần/tuần
 
-### Code lỗi +CẦN CẬP NHẬT THÊM LỖI EMAIL
+### Code lỗi 
 
-![T&#xF3;m t&#x1EAF;t code l&#x1ED7;i](../../.gitbook/assets/l.png)
+![](../../.gitbook/assets/5.png)
 
 Định nghĩ chi tiết về các code lỗi xem tại page tiếp theo --&gt;
 
