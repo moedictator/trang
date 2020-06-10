@@ -63,12 +63,12 @@ Cơ chế KSCL của Summit đề cao việc **cải thiện chất lượng TVT
 
 ![](../../.gitbook/assets/4%20%283%29.png)
 
-\*\*\*\*[**https://bit.ly/3coFjXL**](https://bit.ly/3coFjXL)\*\*\*\*
+Cập nhật cơ chế Thẻ Xanh - Đỏ tại: [**https://bit.ly/3coFjXL**](https://bit.ly/3coFjXL)\*\*\*\*
 
-**Lưu ý:**
+**\*Lưu ý:**
 
-* Giảm 1 bậc thẻ đỏ khi doanh số \(DS\)/tuần &gt;= 80%
-* Tăng 1 bậc thẻ đỏ khi Hattrick - lặp lại 1 lỗi 3 lần/tuần
+* Giảm 1 bậc thẻ đỏ khi doanh số \(DS\)/tuần &gt; 70%
+* Tăng 1 bậc thẻ đỏ khi cùng 1 lỗi mắc đến 3 lần/tuần
 
 ### Code lỗi +CẦN CẬP NHẬT THÊM LỖI EMAIL
 
