@@ -1,9 +1,9 @@
 # Bộ phận KSCL
 
-## Bộ phận KSCL làm công việc gì? Thuộc hệ thống phòng ban nào?
+## Bộ phận QLCL làm công việc gì? Thuộc hệ thống phòng ban nào?
 
 * QLCL thuộc bộ phận ELT - Phòng Kinh Doanh
-* Kiểm soát các loại rủi ro trong quá trình TVTS. Là công việc để trả lời câu hỏi sau: **TVTS A có mắc lỗi B \(C01,... C05\) trong tuần không?**
+* Kiểm soát các loại rủi ro trong quá trình TVTS. Là công việc để trả lời câu hỏi sau: **TVTS A có mắc lỗi B \(C01... C05..\) trong tuần không?**
 
 ![](.gitbook/assets/87075000_3005021336195569_6658600623484698624_o.png)
 
