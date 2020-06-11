@@ -62,8 +62,10 @@ Hook Test + Hook SM/SA + **Đánh giá mức độ tiềm năng**
       <td style="text-align:left">
         <p>- <b>M&#x1EE5;c ti&#xEA;u h&#x1ECD;c TA &#x111;&#x1EC3; ..</b>.? <b>&#x110;i&#x323;nh h&#x1B0;&#x1A1;&#x301;ng ho&#x323;c t&#xE2;&#x323;p</b> trong
           t&#x1B0;&#x1A1;ng lai ntn?</p>
-        <p>- Chia s&#x1EBB;/&#x111;&#x1ED3;ng c&#x1EA3;m:<b> L&#x1EE3;i &#xED;ch</b> h&#x1ECD;c
-          TA...</p>
+        <p>- Chia s&#x1EBB;/&#x111;&#x1ED3;ng c&#x1EA3;m:<b> </b>
+        </p>
+        <p><b>-L&#x1EE3;i &#xED;ch h&#x1ECD;c TA...</b>
+        </p>
       </td>
       <td style="text-align:left">C&#xF3; m&#x1EE5;c ti&#xEA;u/Ch&#x1B0;a c&#xF3; m&#x1EE5;c ti&#xEA;u</td>
     </tr>
