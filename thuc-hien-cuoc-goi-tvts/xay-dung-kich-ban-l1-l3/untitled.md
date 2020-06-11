@@ -46,7 +46,7 @@ Hook Test + Hook SM/SA + **Đánh giá mức độ tiềm năng**
           tu&#xE2;&#x300;n. Ta&#x323;i 4 c&#x1A1; s&#x1EDF;:</p>
         <p>La&#x301;ng Ha&#x323;, C&#xE2;&#x300;u Gi&#xE2;&#x301;y, Ph&#xF4;&#x301;
           Hu&#xEA;&#x301;, Nguy&#xEA;&#x303;n V&#x103;n C&#x1B0;&#x300;.
-          <br /><b>(V&#x1EDB;i HS - Kh&#xF4;ng bi&#x1EBF;t em/b&#x1EA1;n &#x111;&#xE3; &#x111;i h&#x1ECD;c &#x1EDF; TT n&#xE0;o ch&#x1B0;a? tr&#xEC;nh &#x111;&#x1ED9; &#x111;ang &#x1EDF; m&#x1EE9;c n&#xE0;o?)</b>
+          <br /><b>(V&#x1EDB;i HS - Kh&#xF4;ng bi&#x1EBF;t hi&#xEA;&#x323;n em/b&#x1EA1;n &#x111;&#xE3; co&#x301; &#x111;i&#x323;nh h&#x1B0;&#x1A1;&#x301;ng ho&#x323;c TA ntn hay &#x111;a&#x303; h&#x1ECD;c &#x1EDF; TT n&#xE0;o ch&#x1B0;a? tr&#xEC;nh &#x111;&#x1ED9; &#x111;ang &#x1EDF; m&#x1EE9;c n&#xE0;o?)</b>
         </p>
       </td>
       <td style="text-align:left">
