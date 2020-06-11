@@ -70,13 +70,12 @@ Hook Test + Hook SM/SA + **Đánh giá mức độ tiềm năng**
         <p>- <b>Hook</b>: Tuy nhi&#xEA;n &#x111;&#x1EC3; &#x111;&#x1EA1;t &#x111;&#x1B0;&#x1EE3;c
           m&#x1EE5;c ti&#xEA;u th&#xEC; c&#x1EA7;n c&#x1EA3; m&#x1ED9;t qu&#xE1;
           tr&#xEC;nh h&#x1ECD;c t&#x1EAD;p l&#xE2;u d&#xE0;i.</p>
-        <p>- <b>H&#x1ECF;i &#x111;&#x1ECB;a ch&#x1EC9;</b> ... Gi&#x1EDB;i thi&#x1EC7;u
-          4 &#x111;&#x1ECB;a &#x111;i&#x1EC3;m SM &#x1EDF; HN. V&#x1EDB;i &#x111;&#x1ECB;a
-          ch&#x1EC9; v&#x1EEB;a r&#x1ED3;i th&#xEC; c&#x1A1; s&#x1EDF; ... l&#xE0;
-          g&#x1EA7;n nh&#x1EA5;t ph&#x1EA3;i kh&#xF4;ng?</p>
-        <p><b>- Em/B&#x1EA1;n/Anh-Ch&#x1ECB; &#x111;&#xE3; bi&#x1EBF;t v&#x1EC1; SM ch&#x1B0;a?</b>
+        <p><b>- Em/B&#x1EA1;n/Anh-Ch&#x1ECB; &#x111;&#xE3; bi&#x1EBF;t v&#x1EC1; SM ch&#x1B0;a? SM &#x111;a&#x303; co&#x301; h&#x1A1;n 10 n&#x103;m kinh nghi&#xEA;&#x323;m....</b>
         </p>
-        <p>--&gt; Gi&#x1EDB;i thi&#x1EC7;u: Hook SM, SA</p>
+        <p>--&gt; Gi&#x1EDB;i thi&#x1EC7;u: Hook SM, SA...</p>
+        <p>- SM hi&#xEA;&#x323;n co&#x301; 4 CS ta&#x323;i HN: 101 La&#x301;ng Ha&#x323;,
+          302 C&#xE2;&#x300;u Gi&#xE2;&#x301;y, 352 Ph&#xF4;&#x301; Hu&#xEA;&#x301;,
+          564 NVC</p>
       </td>
       <td style="text-align:left">
         <p>- &#x1EDE; trung t&#xE2;m/&#x1EDE; xa</p>
