@@ -91,7 +91,8 @@ Hook Test + Hook SM/SA + **Đánh giá mức độ tiềm năng**
     </tr>
     <tr>
       <td style="text-align:left">
-        <p>Ch&#x1ED1;t: - Hook Test v&#x1EDB;i HV c&#xF3; <b>ti&#x1EC1;m n&#x103;ng</b>
+        <p>Ch&#x1ED1;t:</p>
+        <p>- Hook Test v&#x1EDB;i HV c&#xF3; <b>ti&#x1EC1;m n&#x103;ng</b>
         </p>
         <p>- Xin email + zalo</p>
       </td>
