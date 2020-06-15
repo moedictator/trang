@@ -10,6 +10,13 @@ Bước 2. Gọi điện và note sale
 
 ![B&#x1B0;&#x1A1;&#x301;c 2](../.gitbook/assets/b2%20%281%29.png)
 
+Lưu ý: Với Cts phải gọi lại nhiều lần. Tại cột Note Sale ghi theo mẫu
+
+* Level cập nhật
+* Note sale: Ngày gần nhất ở dòng đầu
+
+![](../.gitbook/assets/b22.png)
+
 Bước 3: Báo cáo ngày
 
 ![](../.gitbook/assets/b3.png)
