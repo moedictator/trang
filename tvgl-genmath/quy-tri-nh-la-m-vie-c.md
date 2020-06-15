@@ -2,7 +2,7 @@
 
 File làm việc: [https://bit.ly/2UGdnbO](https://bit.ly/2UGdnbO)
 
-**Bước 1.** Điền cts nhận trong ngày
+### **Bước 1.** Điền cts nhận trong ngày
 
 ![B&#x1B0;&#x1A1;&#x301;c 1](../.gitbook/assets/b1.png)
 
@@ -10,7 +10,11 @@ File làm việc: [https://bit.ly/2UGdnbO](https://bit.ly/2UGdnbO)
 
 ![B&#x1B0;&#x1A1;&#x301;c 2](../.gitbook/assets/b2%20%281%29.png)
 
-**Lưu ý:** Với Cts phải gọi lại nhiều lần. Tại cột Note Sale ghi theo mẫu
+**\*Chuẩn bị:**
+
+Vào 3i kiểm tra lịch sử học tập của HV: Đã từng học hay đang học tại SM
+
+**\*Lưu ý:** Với Cts phải gọi lại nhiều lần. Tại cột Note Sale ghi theo mẫu
 
 * Level cập nhật
 * Note sale: Ngày gần nhất ở dòng đầu
