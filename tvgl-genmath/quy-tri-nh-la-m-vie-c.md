@@ -23,3 +23,6 @@ File làm việc: [https://bit.ly/2UGdnbO](https://bit.ly/2UGdnbO)
 
 **Bước 4**. Hỗ trợ HV lên VP Test --&gt; Bàn giao cts lên T4-T5
 
+* Hỗ trợ HV lên VP Test: Gọi điện trước - nhắc lịch Test
+* Khi HV lên đến VP --&gt; Bàn giao cho TVTK
+
