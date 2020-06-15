@@ -72,7 +72,7 @@ Cập nhật cơ chế Thẻ Xanh - Đỏ tại: [**https://bit.ly/3coFjXL**](ht
 
 ### Code lỗi 
 
-![](../../.gitbook/assets/5.png)
+![](../../.gitbook/assets/leeeee.png)
 
 Định nghĩ chi tiết về các code lỗi xem tại page tiếp theo --&gt;
 
