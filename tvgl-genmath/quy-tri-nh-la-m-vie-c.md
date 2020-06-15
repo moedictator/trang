@@ -1,6 +1,6 @@
 # Quy trình làm việc
 
-File làm việc: [https://bit.ly/2UGdnbO](https://bit.ly/2UGdnbO)
+Truy cập file làm việc: [https://bit.ly/2UGdnbO](https://bit.ly/2UGdnbO)
 
 ## **Bước 1.** Điền cts nhận trong ngày
 
