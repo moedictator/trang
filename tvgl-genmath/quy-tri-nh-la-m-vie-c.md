@@ -14,7 +14,7 @@ Truy cập file làm việc: [https://bit.ly/2UGdnbO](https://bit.ly/2UGdnbO)
 
 Vào **3i** kiểm tra lịch sử học tập của HV: Đã từng học hay đang học tại SM
 
-### **B2.1. Sử dụng kịch bản..........**
+### **B2.2. Sử dụng kịch bản..........**
 
 ### **B2.3. Điền level + Sale Note.**
 
