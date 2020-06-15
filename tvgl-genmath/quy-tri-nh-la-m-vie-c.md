@@ -29,7 +29,7 @@ Vào **3i** kiểm tra lịch sử học tập của HV: Đã từng học
 
 ![](../.gitbook/assets/b3.png)
 
-**Bước 4**. Hỗ trợ HV lên VP Test --&gt; Bàn giao cts lên T4-T5
+## **Bước 4**. Hỗ trợ HV lên VP Test/Bàn giao cts lên T4-T5
 
 * Hỗ trợ HV lên VP Test: Gọi điện trước - nhắc lịch Test - hỏi HV đang trên đường chưa?
 * Khi HV lên đến VP --&gt; Bàn giao cho TVTK
