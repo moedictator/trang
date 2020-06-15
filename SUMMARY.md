@@ -35,4 +35,5 @@
     * [2.4.Công thức rèn kỹ năng TVTS + FAQs xử lý từ chối](thuc-hien-cuoc-goi-tvts/xay-dung-kich-ban-l1-l3/ren-ky-nang.md)
   * [3.Báo cáo hàng ngày](thuc-hien-cuoc-goi-tvts/bao-cao-cong-viec-hang-ngay.md)
   * [4.Hỗ trợ Test 3A + Bàn giao cts L4](thuc-hien-cuoc-goi-tvts/4.ban-giao-cts-l4.md)
+* [TVGL Genmath](tvgl-genmath.md)
 
