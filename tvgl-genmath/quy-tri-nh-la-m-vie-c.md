@@ -26,3 +26,8 @@ File làm việc: [https://bit.ly/2UGdnbO](https://bit.ly/2UGdnbO)
 * Hỗ trợ HV lên VP Test: Gọi điện trước - nhắc lịch Test - hỏi HV đang trên đường chưa?
 * Khi HV lên đến VP --&gt; Bàn giao cho TVTK
 
+**Lưu ý:** 
+
+* Khi có HV lên VP/muốn học tiếp Junior thì bàn giao ngay --&gt; cho chị Thủy.
+* Khi PH/HV đang học tại SM yêu cầu thông tin --&gt; chuyển cho CSHV
+
