@@ -12,9 +12,9 @@
 
 ![](../../.gitbook/assets/kk.png)
 
-* Học phí gốc: 200 - 250k/giờ ~ chưa tính ưu đãi tại thời điểm/combo/đóng sớm.
-* Số buổi/cấp độ: 20 buổi ~ 5 tháng
-* Thời gian học: 1 buổi 2,5 giờ. 1 tuần - 1 buổi.
-* Đầu ra: Cam kết chất lượng cho từng cấp độ như sau:
-* Giáo trình: Ở cấp độ đầu tiền - Cơ bản sẽ sử dụng giáo trình Cambridge. Ở 2 cấp độ sau là giáo trình do SM tự biên soạn.
+* **Học phí gốc:** 200 - 250k/giờ ~ chưa tính ưu đãi tại thời điểm/combo/đóng sớm.
+* **Số buổi/cấp độ:** 20 buổi ~ 5 tháng
+* **Thời gian học:** 1 buổi 2,5 giờ. 1 tuần - 1 buổi.
+* **Đầu ra:** Cam kết chất lượng cho từng cấp độ như trên
+* **Giáo trình:** Ở cấp độ đầu tiền - Cơ bản sẽ sử dụng giáo trình Cambridge. Ở 2 cấp độ sau là giáo trình do SM tự biên soạn.
 
