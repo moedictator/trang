@@ -7,7 +7,7 @@
 * Tham gia các kỳ thi Toán Quốc tế được tổ chức tại**.....** như: **tháng 8** này có các kỳ thi.**.....**
 * Phát triển năng khiếu và TƯ DUY Toán học ứng dụng
 
-### Các kỳ thi có mất phí không?
+### Các kỳ thi?
 
 | Các kỳ thi MIỄN PHÍ | Các kỳ thi MẤT PHÍ |
 | :--- | :--- |
