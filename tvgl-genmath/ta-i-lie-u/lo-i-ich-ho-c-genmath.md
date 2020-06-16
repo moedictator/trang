@@ -9,7 +9,7 @@
 
 ### Các kỳ thi?
 
-* Sắp tới tham gia các kỳ thi IMC AMS được tổ chức vào **tháng 8** này. Hay tháng 9 là kỳ thi Olympic Toán Quốc tế châu Á AIMO cũng được tổ chức tại VN.
+* Sắp tới tham gia kỳ thi IMC AMS được tổ chức vào **tháng 8** này. Hay tháng 9 là kỳ thi Olympic Toán Quốc tế châu Á AIMO cũng được tổ chức tại VN.
 
 ![](../../.gitbook/assets/1%20%285%29.png)
 
