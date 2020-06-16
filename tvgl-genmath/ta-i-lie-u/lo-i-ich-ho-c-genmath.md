@@ -2,3 +2,8 @@
 
 ![](../../.gitbook/assets/loi-ich-cua-genmath-1-.png)
 
+**Lợi ích của Genmath**
+
+* Tham gia các kỳ thi Toán Quốc tế được tổ chức tại**.....** như: tháng 8 này có các kỳ thi.**.....**
+* \*\*\*\*
+
