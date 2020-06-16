@@ -4,6 +4,6 @@
 
 **Lợi ích của Genmath**
 
-* Tham gia các kỳ thi Toán Quốc tế được tổ chức tại**.....** như: tháng 8 này có các kỳ thi.**.....**
-* \*\*\*\*
+* Tham gia các kỳ thi Toán Quốc tế được tổ chức tại**.....** như: **tháng 8** này có các kỳ thi.**.....**
+* **Phát triển năng khiếu và TƯ DUY Toán học ứng dụng**
 
