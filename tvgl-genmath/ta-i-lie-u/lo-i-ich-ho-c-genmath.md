@@ -13,5 +13,8 @@
 
 ![](../../.gitbook/assets/1%20%285%29.png)
 
+### Vì sao nên chọn Genmath -  Summit?
 
+* Giáo viên
+* Chương trình học - Nội dung học - Phục vụ kỳ thi?
 
