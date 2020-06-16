@@ -18,3 +18,5 @@
 * Giáo viên
 * Chương trình học - Nội dung học - Phục vụ kỳ thi?
 
+![](../../.gitbook/assets/loi-ich-cua-genmath-2-.png)
+
