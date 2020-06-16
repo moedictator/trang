@@ -38,5 +38,6 @@
 * [TVGL Genmath](tvgl-genmath/README.md)
   * [Tài liệu](tvgl-genmath/ta-i-lie-u/README.md)
     * [Lợi ích học GenMath](tvgl-genmath/ta-i-lie-u/lo-i-ich-ho-c-genmath.md)
+    * [Đối tượng học, SP, gói học](tvgl-genmath/ta-i-lie-u/doi-tuo-ng-ho-c-sp-goi-ho-c.md)
   * [Quy trình làm việc](tvgl-genmath/quy-tri-nh-la-m-vie-c.md)
 
