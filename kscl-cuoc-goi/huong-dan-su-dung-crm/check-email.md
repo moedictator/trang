@@ -10,7 +10,7 @@ description: >-
 
 **Bước 1.** Từ file hứng SS điền Copy tên HV **đến hạn chót** [http://bit.ly/398VuHP](http://bit.ly/398VuHP)
 
-File QL tư vấn 1-1 [https://docs.google.com/spreadsheets/d/1LSwMlxOS39ieqOam41tvmcEUtIYunI7DOEvVch0nwJY/edit\#gid=367192471](https://docs.google.com/spreadsheets/d/1LSwMlxOS39ieqOam41tvmcEUtIYunI7DOEvVch0nwJY/edit#gid=367192471)
+File QL tư vấn 1-1: [https://bit.ly/2zEqVgF](https://bit.ly/2zEqVgF)
 
 **Bước 2.** Paste tại ô Tìm kiếm "chính xác" trong hòm thư storage.tvts@summit.edu.vn
 
