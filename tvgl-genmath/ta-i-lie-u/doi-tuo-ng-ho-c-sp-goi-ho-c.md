@@ -2,7 +2,7 @@
 
 ### Đối tượng học
 
-![](../../.gitbook/assets/dt.png)
+![](../../.gitbook/assets/dt%20%283%29.png)
 
 ### 3 cấp độ
 
