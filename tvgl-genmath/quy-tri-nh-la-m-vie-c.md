@@ -16,6 +16,15 @@ Vào **3i** kiểm tra lịch sử học tập của HV: Đã từng học
 
 ### **B2.2. Sử dụng kịch bản..........**
 
+**Công thức:**
+
+* Chào hỏi, tạo ấn tượng với KH
+* Khơi gợi sự tò mò, quan tâm
+* Khiến KH thích thú, mong muốn tham gia học
+* Thôi thúc KH hành động chốt Sale
+
+
+
 ### **B2.3. Điền level + Sale Note.**
 
 #### Với Cts phải gọi lại nhiều lần. Tại cột Note Sale ghi theo mẫu
