@@ -78,9 +78,7 @@
         <p><b>Hook, SA:</b>
         </p>
         <p>Toa&#x301;n TA GenMath &#x111;&#x1B0;&#x1A1;&#x323;c phu&#x323; tra&#x301;ch
-          b&#x1A1;&#x309;i th&#xE2;&#x300;y Nguy&#xEA;&#x303;n Trung Ki&#xEA;n ~
-          hi&#xEA;&#x323;n la&#x300; t&#xF4;&#x309; tr&#x1B0;&#x1A1;&#x309;ng T&#xF4;&#x309;
-          b&#xF4;&#x323; m&#xF4;n Toa&#x301;n TA tr&#x1B0;&#x1A1;&#x300;ng Newton.
+          b&#x1A1;&#x309;i th&#xE2;&#x300;y <b>Nguy&#xEA;&#x303;n Trung Ki&#xEA;n ~ hi&#xEA;&#x323;n la&#x300; t&#xF4;&#x309; tr&#x1B0;&#x1A1;&#x309;ng T&#xF4;&#x309; b&#xF4;&#x323; m&#xF4;n Toa&#x301;n TA tr&#x1B0;&#x1A1;&#x300;ng Newton</b>.
           Th&#xE2;&#x300;y &#x111;a&#x303; tham gia &#x111;a&#x300;o ta&#x323;o r&#xE2;&#x301;t
           nhi&#xEA;&#x300;u ca&#x301;c l&#x1B0;&#x301;a HS ho&#x323;c SAT.... da&#x300;nh
           gia&#x309;i cao trong ca&#x301;c ky&#x300; thi.</p>
