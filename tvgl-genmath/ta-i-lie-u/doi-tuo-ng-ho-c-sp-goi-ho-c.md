@@ -34,7 +34,7 @@
         </p>
         <p><b>Em la&#x300; Trang, go&#x323;i &#x111;&#xEA;&#x301;n t&#x1B0;&#x300; CT ho&#x323;c Toa&#x301;n TA cu&#x309;a SM. </b>
         </p>
-        <p><b>Nh&#xE2;n di&#x323;p ra m&#x103;&#x301;t CT ho&#x323;c m&#x1A1;&#x301;i, SM co&#x301; da&#x300;nh ca&#x301;c ph&#xE2;&#x300;n qua&#x300; tri &#xE2;n cho ca&#x301;c HV khi tham gia Test tri&#x300;nh &#x111;&#xF4;&#x323; Toa&#x301;n - TA mi&#xEA;&#x303;n phi&#x301; ta&#x323;i VP.</b>
+        <p><b>Nh&#xE2;n di&#x323;p RA M&#x102;&#x301;T CT ho&#x323;c m&#x1A1;&#x301;i, SM co&#x301; da&#x300;nh ca&#x301;c ph&#xE2;&#x300;n qua&#x300; tri &#xE2;n cho ca&#x301;c HV khi tham gia Test tri&#x300;nh &#x111;&#xF4;&#x323; Toa&#x301;n - TA mi&#xEA;&#x303;n phi&#x301; ta&#x323;i VP.</b>
         </p>
         <p></p>
         <p><b>*GenMath</b> - Toa&#x301;n TA ~Toa&#x301;n Song ng&#x1B0;&#x303; - hi&#xEA;&#x323;n
