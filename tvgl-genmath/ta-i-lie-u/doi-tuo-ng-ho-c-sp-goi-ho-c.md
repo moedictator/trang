@@ -36,6 +36,8 @@
         </p>
         <p><b>Nh&#xE2;n di&#x323;p SM RA M&#x102;&#x301;T CT ho&#x323;c m&#x1A1;&#x301;i, co&#x301; da&#x300;nh ca&#x301;c ph&#xE2;&#x300;n qua&#x300; tri &#xE2;n cho ca&#x301;c HV khi tham gia Test tri&#x300;nh &#x111;&#xF4;&#x323; mi&#xEA;&#x303;n phi&#x301; Toa&#x301;n - TA  ta&#x323;i VP.</b>
         </p>
+        <p><b>/Hi&#xEA;&#x323;n ta&#x323;i SM &#x111;ang co&#x301; ch&#x1B0;&#x1A1;ng tri&#x300;nh cho ca&#x301;c ba&#x323;n tham gia ba&#x300;i Test tri&#x300;nh &#x111;&#xF4;&#x323; Toa&#x301;n TA mi&#xEA;&#x303;n phi&#x301;</b>
+        </p>
         <p></p>
         <p><b>*GenMath</b> - Toa&#x301;n TA ~Toa&#x301;n Song ng&#x1B0;&#x303; - hi&#xEA;&#x323;n
           la&#x300; m&#xF4; hi&#x300;nh ho&#x323;c Toa&#x301;n m&#x1A1;&#x301;i ma&#x300;
