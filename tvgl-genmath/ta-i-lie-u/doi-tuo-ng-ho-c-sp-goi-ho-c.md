@@ -108,3 +108,5 @@
   </tbody>
 </table>
 
+\*Về thông tin này, em sẽ gửi ngay cho BP chuyên trách để liên hệ lại với chị sớm chị nhé.
+
