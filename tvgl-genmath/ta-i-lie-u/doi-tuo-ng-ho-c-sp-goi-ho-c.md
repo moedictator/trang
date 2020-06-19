@@ -49,10 +49,9 @@
           thi Toa&#x301;n qu&#xF4;&#x301;c t&#xEA;&#x301; &#x111;&#x1B0;&#x1A1;&#x323;c
           t&#xF4;&#x309; ch&#x1B0;&#x301;c ha&#x300;ng n&#x103;m ngay ta&#x323;i
           VN (vd:Kangaroo), g&#xE2;&#x300;n &#x111;&#xE2;y nh&#xE2;&#x301;t se&#x303;
-          la&#x300; ky&#x300; thi Toa&#x301;n ho&#x323;c tre&#x309; Qu&#xF4;&#x301;c
-          t&#xEA;&#x301; va&#x300;o tha&#x301;ng 8 na&#x300;y, tha&#x301;ng 9 na&#x300;y
-          la&#x300; vo&#x300;ng chung k&#xEA;&#x301;t AIMO Olympic Toa&#x301;n qu&#xF4;c
-          t&#xEA;&#x301; Ch&#xE2;u A&#x301;.</p>
+          la&#x300; ky&#x300; thi <em><b>Toa&#x301;n ho&#x323;c tre&#x309; Qu&#xF4;&#x301;c t&#xEA;&#x301; va&#x300;o tha&#x301;ng 8</b></em> na&#x300;y,
+          tha&#x301;ng 9 na&#x300;y la&#x300; vo&#x300;ng <em><b>chung k&#xEA;&#x301;t AIMO</b></em> Olympic
+          Toa&#x301;n qu&#xF4;c t&#xEA;&#x301; Ch&#xE2;u A&#x301;.</p>
       </td>
       <td style="text-align:left"></td>
     </tr>
