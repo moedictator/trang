@@ -38,20 +38,6 @@
         </p>
         <p><b>/Hi&#xEA;&#x323;n ta&#x323;i SM &#x111;ang co&#x301; ch&#x1B0;&#x1A1;ng tri&#x300;nh cho ca&#x301;c ba&#x323;n tham gia ba&#x300;i Test tri&#x300;nh &#x111;&#xF4;&#x323; Toa&#x301;n TA mi&#xEA;&#x303;n phi&#x301;</b>
         </p>
-        <p></p>
-        <p><b>*GenMath</b> - Toa&#x301;n TA ~Toa&#x301;n Song ng&#x1B0;&#x303; - hi&#xEA;&#x323;n
-          la&#x300; m&#xF4; hi&#x300;nh ho&#x323;c Toa&#x301;n m&#x1A1;&#x301;i ma&#x300;
-          BGD &#x111;&#x1B0;a ra, giu&#x301;p tre&#x309; pha&#x301;t tri&#xEA;&#x309;n
-          Toa&#x301;n ho&#x323;c t&#x1B0; duy, Toa&#x301;n &#x1B0;&#x301;ng du&#x323;ng,
-          va&#x300; co&#x301; c&#x1A1; h&#xF4;&#x323;i ti&#xEA;&#x301;p c&#xE2;&#x323;n
-          v&#x1A1;&#x301;i ca&#x301;c CT Toa&#x301;n qu&#xF4;&#x301;c t&#xEA;&#x301;.
-          Co&#x301; r&#xE2;&#x301;t nhi&#xEA;&#x300;u ca&#x301;c cu&#xF4;&#x323;c
-          thi Toa&#x301;n qu&#xF4;&#x301;c t&#xEA;&#x301; &#x111;&#x1B0;&#x1A1;&#x323;c
-          t&#xF4;&#x309; ch&#x1B0;&#x301;c ha&#x300;ng n&#x103;m ngay ta&#x323;i
-          VN (vd:Kangaroo), g&#xE2;&#x300;n &#x111;&#xE2;y nh&#xE2;&#x301;t se&#x303;
-          la&#x300; ky&#x300; thi <em><b>Toa&#x301;n ho&#x323;c tre&#x309; Qu&#xF4;&#x301;c t&#xEA;&#x301; va&#x300;o tha&#x301;ng 8</b></em> na&#x300;y,
-          tha&#x301;ng 9 na&#x300;y la&#x300; vo&#x300;ng <em><b>chung k&#xEA;&#x301;t AIMO</b></em> Olympic
-          Toa&#x301;n qu&#xF4;c t&#xEA;&#x301; Ch&#xE2;u A&#x301;.</p>
       </td>
       <td style="text-align:left"></td>
     </tr>
@@ -76,6 +62,8 @@
       <td style="text-align:left">
         <p><b>Hook, SA:</b>
         </p>
+        <p><b>Ta&#x323;i sao cho&#x323;n SUMMIT?</b>
+        </p>
         <p>Toa&#x301;n TA GenMath &#x111;&#x1B0;&#x1A1;&#x323;c phu&#x323; tra&#x301;ch
           b&#x1A1;&#x309;i th&#xE2;&#x300;y <b>Nguy&#xEA;&#x303;n Trung Ki&#xEA;n ~ hi&#xEA;&#x323;n la&#x300; t&#xF4;&#x309; tr&#x1B0;&#x1A1;&#x309;ng T&#xF4;&#x309; b&#xF4;&#x323; m&#xF4;n Toa&#x301;n TA tr&#x1B0;&#x1A1;&#x300;ng Newton</b>.
           Th&#xE2;&#x300;y &#x111;a&#x303; tham gia &#x111;a&#x300;o ta&#x323;o r&#xE2;&#x301;t
@@ -88,7 +76,30 @@
         <p>SA3: Giu&#x301;p ba&#x323;n co&#x301; m&#xF4;i tr&#x1B0;&#x1A1;&#x300;ng
           ho&#x323;c t&#xE2;&#x323;p cho&#x323;n lo&#x323;c, sy&#x303; s&#xF4;&#x301;
           l&#x1A1;&#x301;p nho&#x309;.</p>
+        <p><b>Ta&#x323;i sao c&#xE2;&#x300;n ho&#x323;c Toa&#x301;n TA GenMath?</b>
+        </p>
+        <p>Toa&#x301;n TA hi&#xEA;&#x323;n &#x111;ang la&#x300; xu h&#x1B0;&#x1A1;&#x301;ng
+          gia&#x301;o du&#x323;c m&#x1A1;&#x301;i, &#x111;ang &#x111;&#x1B0;&#x1A1;&#x323;c
+          BGD khuy&#xEA;&#x301;n khi&#x301;ch a&#x301;p du&#x323;ng. Kha&#x301;c
+          v&#x1A1;&#x301;i Toa&#x301;n TV, Toa&#x301;n TA giu&#x301;p tre&#x309;
+          pha&#x301;t tri&#xEA;&#x309;n nhi&#xEA;&#x300;u h&#x1A1;n v&#xEA;&#x300;
+          t&#x1B0; duy va&#x300; &#x1B0;&#x301;ng du&#x323;ng &#x111;&#x1B0;&#x1A1;&#x323;c
+          va&#x300;o cu&#xF4;&#x323;c s&#xF4;&#x301;ng nhi&#xEA;&#x300;u h&#x1A1;n.
+          Con co&#x300;n co&#x301; th&#xEA;&#x309; tham gia ca&#x301;c ky&#x300;
+          thi Toa&#x301;n qu&#xF4;&#x301;c t&#xEA;&#x301;, xin ho&#x323;c b&#xF4;&#x309;ng,
+          xe&#x301;t tuy&#xEA;&#x309;n th&#x103;&#x309;ng khi chuy&#xEA;&#x309;n
+          c&#xE2;&#x301;p</p>
       </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Co&#x301; r&#xE2;&#x301;t nhi&#xEA;&#x300;u ca&#x301;c cu&#xF4;&#x323;c
+        thi Toa&#x301;n qu&#xF4;&#x301;c t&#xEA;&#x301; &#x111;&#x1B0;&#x1A1;&#x323;c
+        t&#xF4;&#x309; ch&#x1B0;&#x301;c ha&#x300;ng n&#x103;m ngay ta&#x323;i
+        VN (vd:Kangaroo), g&#xE2;&#x300;n &#x111;&#xE2;y nh&#xE2;&#x301;t se&#x303;
+        la&#x300; ky&#x300; thi <em><b>Toa&#x301;n ho&#x323;c tre&#x309; Qu&#xF4;&#x301;c t&#xEA;&#x301; va&#x300;o tha&#x301;ng 8</b></em> na&#x300;y,
+        tha&#x301;ng 9 na&#x300;y la&#x300; vo&#x300;ng <em><b>chung k&#xEA;&#x301;t AIMO</b></em> Olympic
+        Toa&#x301;n qu&#xF4;c t&#xEA;&#x301; Ch&#xE2;u A&#x301;.</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
