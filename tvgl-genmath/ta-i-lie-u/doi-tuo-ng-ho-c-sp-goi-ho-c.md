@@ -34,10 +34,11 @@
         </p>
         <p><b>Em la&#x300; Trang, go&#x323;i &#x111;&#xEA;&#x301;n t&#x1B0;&#x300; CT ho&#x323;c Toa&#x301;n TA cu&#x309;a SM. </b>
         </p>
-        <p><b>Nh&#xE2;n di&#x323;p ra m&#x103;&#x301;t CT ho&#x323;c m&#x1A1;&#x301;i, SM co&#x301; da&#x300;nh ca&#x301;c ph&#xE2;&#x300;n qua&#x300; tri &#xE2;n cho HV khi t&#x1A1;&#x301;i tham gia Test tri&#x300;nh &#x111;&#xF4;&#x323; Toa&#x301;n - TA mi&#xEA;&#x303;n phi&#x301; ta&#x323;i VP a&#x323;!</b>
+        <p><b>Nh&#xE2;n di&#x323;p ra m&#x103;&#x301;t CT ho&#x323;c m&#x1A1;&#x301;i, SM co&#x301; da&#x300;nh ca&#x301;c ph&#xE2;&#x300;n qua&#x300; tri &#xE2;n cho HV khi t&#x1A1;&#x301;i VP tham gia Test tri&#x300;nh &#x111;&#xF4;&#x323; Toa&#x301;n - TA mi&#xEA;&#x303;n phi&#x301; a&#x323;!</b>
         </p>
-        <p><b>/Hi&#xEA;&#x323;n ta&#x323;i SM &#x111;ang co&#x301; ch&#x1B0;&#x1A1;ng tri&#x300;nh cho ca&#x301;c ba&#x323;n tham gia ba&#x300;i Test tri&#x300;nh &#x111;&#xF4;&#x323; Toa&#x301;n TA mi&#xEA;&#x303;n phi&#x301;</b>
-        </p>
+        <p>/Hi&#xEA;&#x323;n ta&#x323;i SM &#x111;ang co&#x301; ch&#x1B0;&#x1A1;ng
+          tri&#x300;nh cho ca&#x301;c ba&#x323;n tham gia ba&#x300;i Test tri&#x300;nh
+          &#x111;&#xF4;&#x323; Toa&#x301;n TA mi&#xEA;&#x303;n phi&#x301;</p>
       </td>
       <td style="text-align:left"></td>
     </tr>
