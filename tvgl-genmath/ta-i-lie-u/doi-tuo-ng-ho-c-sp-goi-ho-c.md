@@ -52,7 +52,7 @@
           co&#x301; d&#x1B0;&#x323; &#x111;i&#x323;nh tham gia ky&#x300; thi Toa&#x301;n
           trong n&#x1B0;&#x1A1;&#x301;c/qu&#xF4;&#x301;c na&#x300;o kh&#xF4;ng? (Co&#x301;
           d&#x1B0;&#x323; &#x111;i&#x323;nh d&#x1B0;&#x323; thi va&#x300;o h&#xEA;&#x323;
-          Cambridge,AP,IP....)
+          Cambridge, AP, IP....)
           <br />--&gt; Khi na&#x300;o d&#x1B0;&#x323; &#x111;i&#x323;nh thi? Co&#x301;
           c&#xE2;&#x300;n b&#xF4;&#x309; sung ki&#xEA;&#x301;n th&#x1B0;&#x301;c
           kh&#xF4;ng?</p>
