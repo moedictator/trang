@@ -2,6 +2,8 @@
 
 Truy cập file làm việc: [https://bit.ly/2UGdnbO](https://bit.ly/2UGdnbO)
 
+Loại trừ cts: [https://docs.google.com/spreadsheets/d/1SLrAJVEl2EUAquWg2rjga4AJTvGK8731Tmncj5nditE/edit\#gid=0](https://docs.google.com/spreadsheets/d/1SLrAJVEl2EUAquWg2rjga4AJTvGK8731Tmncj5nditE/edit#gid=0)
+
 ## **Bước 1.** Điền cts nhận trong ngày
 
 ![B&#x1B0;&#x1A1;&#x301;c 1](../.gitbook/assets/b1.png)
