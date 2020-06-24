@@ -36,9 +36,6 @@
         </p>
         <p><b>Nh&#xE2;n di&#x323;p SM ra m&#x103;&#x301;t CT ho&#x323;c m&#x1A1;&#x301;i, thi&#x300; co&#x301; da&#x300;nh ca&#x301;c ph&#xE2;&#x300;n qua&#x300; tri &#xE2;n cho HV khi t&#x1A1;&#x301;i VP tham gia Test tri&#x300;nh &#x111;&#xF4;&#x323; Toa&#x301;n - TA mi&#xEA;&#x303;n phi&#x301; a&#x323;!</b>
         </p>
-        <p>/Hi&#xEA;&#x323;n ta&#x323;i SM &#x111;ang co&#x301; ch&#x1B0;&#x1A1;ng
-          tri&#x300;nh cho ca&#x301;c ba&#x323;n tham gia ba&#x300;i Test tri&#x300;nh
-          &#x111;&#xF4;&#x323; Toa&#x301;n TA mi&#xEA;&#x303;n phi&#x301;</p>
       </td>
       <td style="text-align:left"></td>
     </tr>
@@ -98,8 +95,8 @@
         thi Toa&#x301;n qu&#xF4;&#x301;c t&#xEA;&#x301; &#x111;&#x1B0;&#x1A1;&#x323;c
         t&#xF4;&#x309; ch&#x1B0;&#x301;c ha&#x300;ng n&#x103;m ngay ta&#x323;i
         VN (vd:Kangaroo), g&#xE2;&#x300;n &#x111;&#xE2;y nh&#xE2;&#x301;t se&#x303;
-        la&#x300; ky&#x300; thi<em><b> OLYMPIC TO&#xC1;N H&#x1ECC;C &#xDA;C - AMC</b></em> &#x111;&#xE2;&#x300;u <em><b>tha&#x301;ng 8</b></em> na&#x300;y, <em><b>Kangaroo </b></em>cu&#xF4;&#x301;i
-        tha&#x301;ng 08, IMSO tha&#x301;ng 12/2020</td>
+        la&#x300; ky&#x300; thi<b> OLYMPIC TO&#xC1;N H&#x1ECC;C &#xDA;C - AMC</b> &#x111;&#xE2;&#x300;u <b>tha&#x301;ng 8</b> na&#x300;y, <b>Kangaroo </b>cu&#xF4;&#x301;i
+        tha&#x301;ng 08, <b>IMSO</b> tha&#x301;ng 12/2020</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
