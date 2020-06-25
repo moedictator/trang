@@ -34,7 +34,7 @@
         </p>
         <p><b>Em la&#x300; Trang, go&#x323;i &#x111;&#xEA;&#x301;n t&#x1B0;&#x300; CT ho&#x323;c Toa&#x301;n TA cu&#x309;a SM. </b>
         </p>
-        <p><b>Nh&#xE2;n di&#x323;p SM ra m&#x103;&#x301;t CT ho&#x323;c m&#x1A1;&#x301;i, thi&#x300; co&#x301; da&#x300;nh ca&#x301;c ph&#xE2;&#x300;n qua&#x300; tri &#xE2;n cho HV khi t&#x1A1;&#x301;i VP tham gia Test tri&#x300;nh &#x111;&#xF4;&#x323; Toa&#x301;n - TA mi&#xEA;&#x303;n phi&#x301; a&#x323;!</b>
+        <p><b>Nh&#xE2;n di&#x323;p SM ra m&#x103;&#x301;t CT ho&#x323;c m&#x1A1;&#x301;i, thi&#x300; co&#x301; da&#x300;nh ca&#x301;c ph&#xE2;&#x300;n qua&#x300; tri &#xE2;n cho HV khi tham gia Test tri&#x300;nh &#x111;&#xF4;&#x323; Toa&#x301;n - TA mi&#xEA;&#x303;n phi&#x301; ta&#x323;i VP a&#x323;!</b>
         </p>
       </td>
       <td style="text-align:left"></td>
