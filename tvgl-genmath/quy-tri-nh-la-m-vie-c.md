@@ -115,7 +115,6 @@ Kịch bản:
 
 ## **Bước 4**. Hỗ trợ HV lên VP Test/Bàn giao cts lên T4-T5
 
-* **Check xem HV đang là kho của ai để tag bạn ấy trong email Nhờ Test**
 * Hỗ trợ HV lên VP Test: Gọi điện trước - nhắc lịch Test - hỏi HV đang trên đường chưa?
 * Khi HV lên đến VP --&gt; Bàn giao cho TVTK
 
