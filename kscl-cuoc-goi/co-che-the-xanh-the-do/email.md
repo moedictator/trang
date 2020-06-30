@@ -1,4 +1,4 @@
-# Email M01 - M02
+# Email
 
 ### Phạm vi kiểm soát email?
 

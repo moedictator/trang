@@ -12,7 +12,7 @@ description: hay là Hướng dẫn sử dụng CRM
 * Phần mềm quản lý DL: [https://mol.summit.edu.vn](https://mol.summit.edu.vn)
 * Tài khoản CRM QLCL : quanlysale@summit.edu.vn
 * Tài khoản Email QLCL: storage.tvts@summit.edu.vn
-* **File báo cáo dữ liệu QLCL**: [http://bit.ly/398VuHP](http://bit.ly/398VuHP)
+* **BC dữ liệu QLCL**: [http://bit.ly/398VuHP](http://bit.ly/398VuHP)
 
 ### **HƯỚNG DẪN CHUNG TRUY CẬP CRM**
 
