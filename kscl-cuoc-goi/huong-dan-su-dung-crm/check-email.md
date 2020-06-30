@@ -1,7 +1,7 @@
 ---
 description: >-
-  Copy - Paste tên HV/Nhìn ngày trả kết quả + người trả/điền ngày/Chọn
-  "Đã gửi" & "Xong/BÔI VÀNG
+  TVTS có gửi email trả kết quả sau khi HV làm test đúng quy định (về thời gian,
+  nội dung) hay không?
 ---
 
 # 2.4.Check email
