@@ -23,14 +23,15 @@ description: 'TVTS đặt lịch hẹn tương tác, nhưng có tương tác hay
 
 ![B&#xE1;o c&#xE1;o ki&#x1EC3;m tra t&#x1ED3;n](../../.gitbook/assets/ton-1.png)
 
-**Tồn không hợp lệ:**
-
-* Gửi cảnh báo đến quản lý qua Hagout
-* Điền form báo cáo lỗi, sau khi được quản lý xác nhận \(nếu cần\)
-
 **Tồn hợp lệ:**
 
-* Cts mới bàn giao từ TVTS nghỉ off.
+* Cts mới bàn giao khi TVTS nghỉ off.
+* Cts bàn giao ngày hôm nay nhưng lại có lịch hẹn từ trước đó
+
+**Tồn không hợp lệ:**
+
+* Gửi cảnh báo đến quản lý qua Email hàng ngày
+* Điền form báo cáo lỗi, sau khi được quản lý xác nhận \(nếu cần\)
 
 ## **\*Mẹo**
 
