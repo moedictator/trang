@@ -89,6 +89,25 @@ File QL tư vấn 1-1: [https://bit.ly/2zEqVgF](https://bit.ly/2zEqVgF)
 
 **Mẹo:** Liên tục check email mới đến thay vì copy paste chính xác tên học viên Test sẽ giúp kiểm soát gần như tối đa các rủi ro do SS/TVTS gõ sai tên HV. Tuy nhiên việc TVTS không CC sang hòm thư tổng thì không kiểm soát được
 
+### CHECK EMAIL THEO CHIỀU NGƯỢC LẠI:
+
+LUỒNG: Từ hòm thư --&gt; check về file SS điền:
+
+**Bước 1:** Từ gmail, nhìn ngày hôm trước. 
+
+Câu hỏi là: **"Ngày X có bao nhiêu email trả kết quả?"**
+
+![](../../.gitbook/assets/screenshot_7.png)
+
+**Bước 2:** Điền vào form theo dõi với SS
+
+**Hiệu quả:**
+
+* SS quên không nhập file theo dõi
+* TVTS/TK nhập sai/thiếu tên HV
+
+
+
 ### 3.2. Check chất lượng email
 
 **Bước 1:** Vào hòm thư Storage để xem **những** email trả kết quả gần nhất. 
