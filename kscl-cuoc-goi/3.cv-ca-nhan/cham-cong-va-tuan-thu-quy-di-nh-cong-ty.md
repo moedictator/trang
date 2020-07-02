@@ -1,6 +1,8 @@
-# Chấm công và tuân thủ quy định Cty
+---
+description: BP QLCL
+---
 
-BP QLCL: 
+# Chấm công và tuân thủ quy định Cty
 
 ### Giờ làm việc 09h00 - 18h00
 
