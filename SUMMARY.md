@@ -22,6 +22,7 @@
     * [3.2.Tương tác QL cơ sở](kscl-cuoc-goi/3.cv-ca-nhan/5.-tuong-tac-ql-co-so.md)
     * [3.3.Làm việc online](kscl-cuoc-goi/3.cv-ca-nhan/5.lam-viec-online.md)
     * [3.4.Tạo BC kết quả CV](kscl-cuoc-goi/3.cv-ca-nhan/tao-bao-cao-ket-qua-cong-viec.md)
+    * [Chấm công và tuân thủ quy định công ty](kscl-cuoc-goi/3.cv-ca-nhan/cham-cong-va-tuan-thu-quy-di-nh-cong-ty.md)
   * [4.Tài liệu bổ trợ](kscl-cuoc-goi/tai-lieu-bo-tro/README.md)
     * [Hệ thống level chi tiết & Quy trình TS](kscl-cuoc-goi/tai-lieu-bo-tro/he-thong-level-chi-tiet.md)
     * [Thông tin sản phẩm](kscl-cuoc-goi/tai-lieu-bo-tro/thong-tin-san-pham.md)
