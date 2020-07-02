@@ -10,16 +10,16 @@ description: BP QLCL
 
 * **Nghỉ trưa** 1 tiếng 12h00 - 13h00. Cần chấm vân tay buổi trưa cách nhau tối thiểu 30 phút.
 * **Đi muộn** về sớm quá 5 phút phạt 50k/lần. \(Lưu ý: máy chấm công trễ 5 phút so với thực tế ~ thời gian gửi xe và đi bộ khu vực máy chấm công\). Bắt đầu phạt đi muộn từ lần thứ 3 trong trong tháng, khi đó sẽ thu tiền phạt của cả 2 lần đi muộn trước đó.
+* Khi có việc cá nhân cần ra ngoài/đi muộn/về sớm cần được sự đồng ý và xác nhận của quản lý. Và có thể bù giờ tiêu chuẩn theo một trong các cách sau:
+
+  **Cách 1:** Số giờ thiếu hôm trước - Bù đủ ngay trong ngày hôm sau
+
+  **Cách 2:** Tổng hợp số giờ thiếu của _các ngày_ - làm bù vào 1 or 1/2 ngày cụ thể.
 
 ### Ngày làm việc của T2 - CN 
 
 * **Được ~ bắt buộc** nghỉ 1,5 ngày/tuần.
 * Chỉ được phép làm thêm giờ **\(OT\)** trong các TH sau: Đi sự kiện/Thời gian cao điểm ~ chiến dịch khi được yêu cầu. Không được làm thêm giờ bởi: Cty không khuyến khích, nếu khối lượng công việc overload cần đề xuất tuyển thêm nhân viên.
-* Khi có việc cá nhân cần ra ngoài/đi muộn/về sớm cần được sự đồng ý và xác nhận của quản lý. Và có thể bù giờ tiêu chuẩn theo một trong các cách sau:
-
-**Cách 1:** Số giờ thiếu hôm trước - bù đủ ngay trong ngày hôm sau
-
-**Cách 2:** Tổng hợp số giờ thiếu của các ngày - làm bù vào 1 or 1/2 ngày cụ thể.
 
 <table>
   <thead>
