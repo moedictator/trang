@@ -2,7 +2,7 @@
 description: BP QLCL
 ---
 
-# Chấm công và tuân thủ quy định Cty
+# 3.5.Chấm công và tuân thủ quy định Cty
 
 **Số tay nhân viên** [https://bit.ly/2Vz7Wfe](https://bit.ly/2Vz7Wfe)
 
@@ -15,6 +15,8 @@ description: BP QLCL
   **Cách 1:** Số giờ thiếu hôm trước - Bù đủ ngay trong ngày hôm sau
 
   **Cách 2:** Tổng hợp số giờ thiếu của _các ngày_ - làm bù vào 1 or 1/2 ngày cụ thể.
+
+* **Nghỉ phép:** hoàn thành giấy xin nghỉ phép trong vòng 3 ngày gửi lại BP HCNS
 
 ### Ngày làm việc của T2 - CN 
 
