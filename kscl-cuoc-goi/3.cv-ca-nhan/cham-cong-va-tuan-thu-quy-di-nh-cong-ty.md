@@ -11,7 +11,7 @@ BP QLCL:
 
 * **Được ~ bắt buộc** nghỉ 1,5 ngày/tuần.
 * Chỉ được phép làm thêm giờ **\(OT\)** trong các TH sau: Đi sự kiện/Thời gian cao điểm ~ chiến dịch khi được yêu cầu. Không được làm thêm giờ bởi: Cty không khuyến khích, nếu khối lượng công việc overload cần đề xuất tuyển thêm nhân viên.
-* Khi có việc cá nhân, cần ra ngoài/đi muộn/về sớm cần được sự đồng ý bởi quản lý. Và có thể bù giờ tiêu chuẩn theo một trong các cách sau:
+* Khi có việc cá nhân cần ra ngoài/đi muộn/về sớm cần được sự đồng ý và xác nhận của quản lý. Và có thể bù giờ tiêu chuẩn theo một trong các cách sau:
 
 Cách 1: Số giờ thiếu hôm trước - bù đủ ngay trong ngày hôm sau
 
