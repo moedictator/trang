@@ -4,6 +4,8 @@ description: BP QLCL
 
 # Chấm công và tuân thủ quy định Cty
 
+**Số tay nhân viên** [https://bit.ly/2Vz7Wfe](https://bit.ly/2Vz7Wfe)
+
 ### Giờ làm việc 09h00 - 18h00
 
 * **Nghỉ trưa** 1 tiếng 12h00 - 13h00. Cần chấm vân tay buổi trưa cách nhau tối thiểu 30 phút.
