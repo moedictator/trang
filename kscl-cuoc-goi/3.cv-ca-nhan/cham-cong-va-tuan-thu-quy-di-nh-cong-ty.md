@@ -22,6 +22,7 @@ description: BP QLCL
 
 * **Được ~ bắt buộc** nghỉ 1,5 ngày/tuần.
 * Chỉ được phép làm thêm giờ **\(OT\)** trong các TH sau: Đi sự kiện/Thời gian cao điểm ~ chiến dịch khi được yêu cầu. Không được làm thêm giờ bởi: Cty không khuyến khích, nếu khối lượng công việc overload cần đề xuất tuyển thêm nhân viên. Giờ OT sẽ chỉ được tính khi làm đủ giờ tiêu chuẩn
+* NV chính thức có 1 ngày phép/tháng, và bắt buộc tham gia các khoản sau:
 
 ![](../../.gitbook/assets/screenshot_12%20%281%29.png)
 
