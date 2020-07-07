@@ -6,5 +6,8 @@ Check list công cụ đào tạo: [https://bit.ly/2UHEB1W](https://bit.ly/2UHE
 
 ![](../../.gitbook/assets/le%20%284%29.png)
 
+* Bổ sung thầy cô dạy 
+* CHốt lại nội dung, mục tiêu khóa học Essential
+
 
 
