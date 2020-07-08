@@ -6,9 +6,9 @@ description: >-
 
 # 2.4.Check email
 
-### Check hết email đã gửi
+1-Check hết email đã gửi
 
-Chuyển sang email chưa gửi: Lý do vì sao chưa gửi? Hợp lệ hay không? GV chấm bài ngày nào để xem đúng là **sắp đến hạn chưa**?
+2-Chuyển sang email chưa gửi: Lý do vì sao chưa gửi? Hợp lệ hay không? GV chấm bài ngày nào để xem đúng là **sắp đến hạn thật chưa hay cần thay đổi hạn**? - Xóa hàm - thay đổi hạn
 
 ### 3.1. Check Số lượng email
 
