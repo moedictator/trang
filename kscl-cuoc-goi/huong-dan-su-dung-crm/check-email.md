@@ -6,6 +6,10 @@ description: >-
 
 # 2.4.Check email
 
+### Check hết email đã gửi
+
+Chuyển sang email chưa gửi: Lý do vì sao chưa gửi? Hợp lệ hay không? GV chấm bài ngày nào để xem đúng là **sắp đến hạn chưa**?
+
 ### 3.1. Check Số lượng email
 
 **Bước 1.** Từ file hứng SS điền Copy tên HV **đến hạn chót** [http://bit.ly/398VuHP](http://bit.ly/398VuHP)
