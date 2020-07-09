@@ -6,11 +6,15 @@ description: >-
 
 # 2.4.Check email
 
+1-Check hết email đã gửi
+
+2-Chuyển sang email chưa gửi: Lý do vì sao chưa gửi? Hợp lệ hay không? GV chấm bài ngày nào để xem đúng là **sắp đến hạn thật chưa hay cần thay đổi hạn**? - Xóa hàm - thay đổi hạn
+
 ### 3.1. Check Số lượng email
 
 **Bước 1.** Từ file hứng SS điền Copy tên HV **đến hạn chót** [http://bit.ly/398VuHP](http://bit.ly/398VuHP)
 
-File QL tư vấn 1-1: [https://bit.ly/2zEqVgF](https://bit.ly/2zEqVgF)
+**File QL tư vấn 1-1**: [https://bit.ly/2zEqVgF](https://bit.ly/2zEqVgF)
 
 **Bước 2.** Paste tại ô Tìm kiếm "chính xác" trong hòm thư storage.tvts@summit.edu.vn
 
