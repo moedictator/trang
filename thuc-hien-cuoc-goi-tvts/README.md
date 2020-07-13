@@ -1,5 +1,11 @@
 # Thực hiện công tác TVTS
 
+## MỤC TIÊU 6 THÁNG GỌI ĐIỆN TVGL:
+
+* Nắm vững nghiệp vụ, logic vận hành sản phẩm chi tiết
+* Gọi TVGL tốt lên, mém mém TVTS
+* Nghe đủ cuộc gọi để nhận ra cuộc gọi cần gì, có thể xử lý tình huống ntn thì là tốt, màu sắc giữa các sale sẽ khác nhau để nhận định đúng sai không mang tính nhỏ lẻ lắt nhắt, cảm tính.
+
 ## MỤC TIÊU CÔNG VIỆC:
 
 * Không nhất định phải mời được Test mà cân bằng **50-50** giữ việc giới thiệu về SM và lợi ích của việc làm Test
