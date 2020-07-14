@@ -115,5 +115,7 @@
 
 \*Về thông tin này, em sẽ gửi ngay cho BP chuyên trách để liên hệ lại với chị sớm chị nhé.
 
-![](../../.gitbook/assets/genmath.jpg)
+
+
+![](../../.gitbook/assets/4%20%285%29.png)
 
