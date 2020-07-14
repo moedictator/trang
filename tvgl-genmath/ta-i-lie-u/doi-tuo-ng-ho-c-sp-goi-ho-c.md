@@ -4,13 +4,13 @@
 
 ![](../../.gitbook/assets/dt%20%283%29.png)
 
-### 3 cấp độ
-
-![](../../.gitbook/assets/kh.png)
-
 ### Học phí & Thời gian học & Đầu ra
 
-![](../../.gitbook/assets/kk.png)
+![](../../.gitbook/assets/1%20%287%29.png)
+
+![](../../.gitbook/assets/2%20%286%29.png)
+
+![](../../.gitbook/assets/3%20%286%29.png)
 
 * **Học phí gốc:** 200 - 250k/giờ ~ chưa tính ưu đãi tại thời điểm/combo/đóng sớm.
 * **Số buổi/cấp độ:** 20 buổi ~ **4,5 tháng**
