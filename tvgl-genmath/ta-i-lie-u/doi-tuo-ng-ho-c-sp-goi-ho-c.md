@@ -6,10 +6,6 @@
 
 ### 
 
-![](../../.gitbook/assets/1%20%288%29.png)
-
-![](../../.gitbook/assets/2%20%287%29.png)
-
 ### Học phí & Thời gian học & Đầu ra
 
 ![](../../.gitbook/assets/3%20%286%29.png)
