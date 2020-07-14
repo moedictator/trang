@@ -65,6 +65,16 @@
           Th&#xE2;&#x300;y &#x111;a&#x303; tham gia &#x111;a&#x300;o ta&#x323;o r&#xE2;&#x301;t
           nhi&#xEA;&#x300;u ca&#x301;c l&#x1B0;&#x301;a HS ho&#x323;c SAT.... da&#x300;nh
           gia&#x309;i cao trong ca&#x301;c ky&#x300; thi.</p>
+        <p><b>C&#xF4; Phan Nam Mai:</b> la&#x300; m&#xF4;&#x323;t trong nh&#x1B0;&#x303;ng
+          GV co&#x301; tha&#x300;nh ti&#x301;ch gia&#x309;ng da&#x323;y d&#xE2;&#x303;n
+          &#x111;&#xE2;&#x300;u ta&#x323;i SM, giu&#x301;p HV &#x111;a&#x323;t &#x111;i&#xEA;&#x309;m
+          Tu&#x301; Ta&#x300;i IB, SAT Toa&#x301;n cao, gia&#x300;nh nhi&#xEA;&#x300;u
+          ho&#x323;c b&#xF4;&#x309;ng co&#x301; gia&#x301; tri&#x323; l&#x1A1;&#x301;n,
+          c&#xF4; cu&#x303;ng gia&#x300;nh &#x111;&#x1B0;&#x1A1;&#x323;c nhi&#xEA;&#x300;u
+          tha&#x300;nh ti&#x301;ch ho&#x323;c t&#xE2;&#x323;p l&#x1A1;&#x301;n nh&#x1B0;
+          ho&#x323;c b&#xF4;&#x309;ng Toa&#x300;n ph&#xE2;&#x300;n A*Star, ASEAN
+          cu&#x309;a CP Singapore, &#x111;a&#x323;t &#x111;i&#xEA;&#x309;m tuy&#xEA;&#x323;t
+          &#x111;&#xF4;&#x301;i Tu&#x301; Ta&#x300;i IB 45/45...</p>
         <p>SA1: &#x110;&#xF4;&#x323;i ngu&#x303; GV co&#x301; chuy&#xEA;n m&#xF4;n,
           CL cao</p>
         <p>SA2: Ba&#x300;i ki&#xEA;&#x309;m tra &#x111;&#xE2;&#x300;u va&#x300;o
