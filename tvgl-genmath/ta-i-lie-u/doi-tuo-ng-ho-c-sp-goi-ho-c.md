@@ -115,7 +115,7 @@
 
 \*Về thông tin này, em sẽ gửi ngay cho BP chuyên trách để liên hệ lại với chị sớm chị nhé.
 
-
+ ![&#x1F31F;](https://mail.google.com/mail/e/1f31f) **Đã Test là có quà:** Học viên đến Summit làm test trình độ Toán Tiếng Anh GenMath \(online/offline\) được bốc thăm một trong các phần quà: Vé xem phim CGV/ Khẩu trang/ Bình nước/ Túi bút
 
 ![](../../.gitbook/assets/4%20%285%29.png)
 
