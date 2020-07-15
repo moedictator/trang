@@ -62,9 +62,11 @@
         </p>
         <p>Toa&#x301;n TA GenMath &#x111;&#x1B0;&#x1A1;&#x323;c phu&#x323; tra&#x301;ch
           b&#x1A1;&#x309;i th&#xE2;&#x300;y <b>Nguy&#xEA;&#x303;n Trung Ki&#xEA;n ~ hi&#xEA;&#x323;n la&#x300; t&#xF4;&#x309; tr&#x1B0;&#x1A1;&#x309;ng T&#xF4;&#x309; b&#xF4;&#x323; m&#xF4;n Toa&#x301;n TA tr&#x1B0;&#x1A1;&#x300;ng Newton</b>.
-          Th&#xE2;&#x300;y &#x111;a&#x303; tham gia &#x111;a&#x300;o ta&#x323;o r&#xE2;&#x301;t
-          nhi&#xEA;&#x300;u ca&#x301;c l&#x1B0;&#x301;a HS ho&#x323;c SAT.... da&#x300;nh
-          gia&#x309;i cao trong ca&#x301;c ky&#x300; thi.</p>
+          Th&#xE2;&#x300;y &#x111;a&#x303; co&#x301; nhi&#xEA;&#x300;u n&#x103;m
+          d&#xE2;&#x303;n nhi&#xEA;&#x300;u l&#x1B0;&#x301;a HS &#x111;i thi ca&#x301;c
+          ky&#x300; thi Toa&#x301;n QT, va&#x300; gia&#x300;nh nhi&#xEA;&#x300;u
+          huy ch&#x1B0;&#x1A1;ng va&#x300;ng, ba&#x323;c, &#x111;&#xF4;&#x300;ng
+          a&#x323;..</p>
         <p><b>C&#xF4; Phan Nam Mai:</b> la&#x300; m&#xF4;&#x323;t trong nh&#x1B0;&#x303;ng
           GV co&#x301; tha&#x300;nh ti&#x301;ch gia&#x309;ng da&#x323;y d&#xE2;&#x303;n
           &#x111;&#xE2;&#x300;u ta&#x323;i SM, giu&#x301;p HV &#x111;a&#x323;t &#x111;i&#xEA;&#x309;m
