@@ -18,7 +18,7 @@ Chấm công, đi muộn, về sớm, nghỉ phép, bù giờ tiêu chuẩn, ngh
 
 * **Nghỉ phép:** hoàn thành giấy xin nghỉ phép trong vòng 3 ngày gửi lại BP HCNS
 
-### Ngày làm việc của T2 - CN 
+### Ngày làm việc từ T2 - CN 
 
 * **Được ~ bắt buộc** nghỉ 1,5 ngày/tuần.
 * Chỉ được phép làm thêm giờ **\(OT\)** trong các TH sau: Đi sự kiện/Thời gian cao điểm ~ chiến dịch khi được yêu cầu. Không được làm thêm giờ bởi: Cty không khuyến khích, nếu khối lượng công việc overload cần đề xuất tuyển thêm nhân viên. Giờ OT sẽ chỉ được tính khi làm đủ giờ tiêu chuẩn
