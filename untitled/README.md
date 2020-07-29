@@ -68,6 +68,8 @@ description: >-
 
 ### Các chứng từ, giấy tờ liên quan để xác nhận đủ công làm việc
 
+* Email check công bổ sung
+* BẢNG CHẤM CÔNG BỔ SUNG: Ghi "Lý do không check vân 
 * Tờ theo dõi làm việc: gồm 3 mặt: Mặt 1 - Lý do không check vân tay \(**bao g**ồm cả về sớm, đi muộn khác giờ quy định 09h - 12h - 13h00 - 18h00, nếu làm nửa ngày thì 09h 00 - 13h00, 14h00- 18h00, làm ở chi nhánh khác mà không có vân tay\) - Còn làm thêm giờ thì Mặt 2 - Nghỉ phép thì ghi vào tờ riêng. 
 * {{Đi sự kiện ghi vào đâu? nếu ở giờ HC làm việc thì ghi ở lý do không check vân tay, nếu đi S}}}
 * trong vòng 3 ngày cần làm đủ 2 việc: 1-Xin email xác nhận của QL, CC HCNS,  phải lên xin chữ ký của HCNS. trường hợp không xin được chữ ký QL. **"Trong TH không xin được chữ ký QL và HCNS trong 3 ngày thì BẮT BUỘC  có email check công bổ sung có CC HCNS" - c Liên**
