@@ -36,6 +36,8 @@ Xem chi tiết tại Nhóm kín: Hội chị em bán hàng bằng đam mê
 
 ![](../../.gitbook/assets/f10.png)
 
+Nếu con được học hỏi nhều cái mới, được tương tác và cạnh tranh với bạn bè, được hướng dẫn với GV tốt thì có lẽ sẽ giúp con rút ngắn thời gian học tập, tạo sức bật nhanh.
+
 ![](../../.gitbook/assets/f11.png)
 
 ![](../../.gitbook/assets/f12.png)
