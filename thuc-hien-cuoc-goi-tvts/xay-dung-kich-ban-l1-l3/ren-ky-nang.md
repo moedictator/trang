@@ -26,7 +26,7 @@ Xem chi tiết tại Nhóm kín: Hội chị em bán hàng bằng đam mê
 
 ![](../../.gitbook/assets/f5.png)
 
-![](../../.gitbook/assets/f6.png)
+![D&#x1EEB;ng &#x111;&#x1EBF;n tr&#x1B0;&#x1EDD;ng, nh&#x1B0;ng kh&#xF4;ng d&#x1EEB;ng h&#x1ECD;c](../../.gitbook/assets/f6.png)
 
 ![](../../.gitbook/assets/f7.png)
 
