@@ -1,10 +1,53 @@
+---
+description: >-
+  Chấm công, đi muộn, về sớm, nghỉ phép, bù giờ tiêu chuẩn, nghỉ bù - do làm
+  tăng ca công việc phát sinh
+---
+
 # Chấm công
 
 **Số tay nhân viên** [https://bit.ly/2Vz7Wfe](https://bit.ly/2Vz7Wfe)
 
+### Giờ làm việc của BP QLCLDV:
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Th&#xE1;ng</td>
+      <td style="text-align:left"><b>C&#xF4;ng ti&#xEA;u chu&#x1EA9;n =</b> T&#x1ED5;ng s&#x1ED1; ng&#xE0;y
+        c&#x1EE7;a th&#xE1;ng - 1,5 ng&#xE0;y ngh&#x1EC9;/tu&#x1EA7;n (th&#x1B0;&#x1EDD;ng
+        t&#xED;nh T7 = 0,5 ng&#xE0;y ngh&#x1EC9;, CN = 1 ng&#xE0;y ngh&#x1EC9;)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Ng&#xE0;y</td>
+      <td style="text-align:left">T2-CN. Ngh&#x1EC9; 1,5 ng&#xE0;y linh ho&#x1EA1;t ~ mi&#x1EC5;n &#x111;&#x1EA3;m
+        b&#x1EA3;o &#x111;&#x1B0;&#x1EE3;c kh&#x1ED1;i l&#x1B0;&#x1EE3;ng v&#xE0;
+        ti&#x1EBF;n &#x111;&#x1ED9; c&#xF4;ng vi&#x1EC7;c</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Gi&#x1EDD;</td>
+      <td style="text-align:left">
+        <p>- Fulltime: 09h00 - 18h00</p>
+        <p>- Partime: N&#x1EBF;u l&#xE0;m bu&#x1ED5;i s&#xE1;ng 09h - 13h00 ho&#x1EB7;c
+          08h00 - 12h00. N&#x1EBF;u l&#xE0;m bu&#x1ED5;i chi&#x1EC1;u 14h00 - 18h00</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Ngh&#x1EC9; tr&#x1B0;a</td>
+      <td style="text-align:left">1 ti&#xEA;&#x301;ng 12h00 - 13h00. C&#xE2;&#x300;n ch&#xE2;&#x301;m v&#xE2;n
+        tay bu&#xF4;&#x309;i tr&#x1B0;a ca&#x301;ch nhau t&#xF4;&#x301;i thi&#xEA;&#x309;u
+        30 phu&#x301;t.</td>
+    </tr>
+  </tbody>
+</table>
 
 
-Chấm công, đi muộn, về sớm, nghỉ phép, bù giờ tiêu chuẩn, nghỉ bù - do làm tăng ca công việc phát sinh
 
 * Tờ theo dõi làm việc: gồm 3 mặt: Mặt 1 - Lý do không check vân tay \(**bao g**ồm cả về sớm, đi muộn khác giờ quy định 09h - 12h - 13h00 - 18h00, nếu làm nửa ngày thì 09h 00 - 13h00, 14h00- 18h00, làm ở chi nhánh khác mà không có vân tay\) - Còn làm thêm giờ thì Mặt 2 - Nghỉ phép thì ghi vào tờ riêng. 
 * {{Đi sự kiện ghi vào đâu? nếu ở giờ HC làm việc thì ghi ở lý do không check vân tay, nếu đi S}}}
