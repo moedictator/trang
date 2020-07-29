@@ -9,7 +9,7 @@ Chấm công, đi muộn, về sớm, nghỉ phép, bù giờ tiêu chuẩn, ngh
 ### Giờ làm việc 09h00 - 18h00
 
 * **Nghỉ trưa** 1 tiếng 12h00 - 13h00. Cần chấm vân tay buổi trưa cách nhau tối thiểu 30 phút.
-* **Đi muộn** về sớm quá 5 phút phạt 50k/lần. \(Lưu ý: máy chấm công trễ 5 phút so với thực tế ~ thời gian gửi xe và đi bộ khu vực máy chấm công\). Bắt đầu phạt đi muộn từ lần thứ 3 trong trong tháng, khi đó sẽ thu tiền phạt của cả 2 lần đi muộn trước đó.
+* **Đi muộn** về sớm quá 5 phút phạt 50k/lần. \(Lưu ý: máy chấm công trễ 5 phút so với thực tế ~ thời gian gửi xe và đi bộ khu vực máy chấm công\). Bắt đầu phạt _**đi muộn/về sớm từ lần thứ 3**_ trong trong tháng, khi đó sẽ thu tiền phạt của cả 2 lần đi muộn trước đó.
 * Khi có việc cá nhân cần ra ngoài/đi muộn/về sớm cần được sự đồng ý và xác nhận của quản lý. Và có thể bù giờ tiêu chuẩn theo một trong các cách sau:
 
   **Cách 1:** Số giờ thiếu hôm trước - Bù đủ ngay trong ngày hôm sau
