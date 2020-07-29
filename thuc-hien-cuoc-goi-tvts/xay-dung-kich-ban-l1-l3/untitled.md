@@ -42,7 +42,7 @@ Hook Test + Hook SM/SA + **Đánh giá mức độ tiềm năng**
           c&#xE1;c &#x1B0;u &#x111;i&#x1EC3;m v&#xE0;... &#x111;i&#x1EC3;m c&#x1EA7;n
           t&#xE2;&#x323;p trung c&#x1EA3;i thi&#x1EC7;n.</p>
         <p>Ba&#x300;i Test &#x111;&#x1B0;&#x1A1;&#x323;c th&#x1B0;&#x323;c hi&#xEA;&#x323;n
-          t&#x1B0;&#x300; 8h - 6h chi&#xEA;&#x300;u ca&#x301;c nga&#x300;y trong
+          t&#x1B0;&#x300; 8h - 5h chi&#xEA;&#x300;u ca&#x301;c nga&#x300;y trong
           tu&#xE2;&#x300;n. Ta&#x323;i 4 c&#x1A1; s&#x1EDF;:</p>
         <p>La&#x301;ng Ha&#x323;, C&#xE2;&#x300;u Gi&#xE2;&#x301;y, Ph&#xF4;&#x301;
           Hu&#xEA;&#x301;, Nguy&#xEA;&#x303;n V&#x103;n C&#x1B0;&#x300;.
