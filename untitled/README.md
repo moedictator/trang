@@ -34,7 +34,7 @@ Chấm công, đi muộn, về sớm, nghỉ phép, bù giờ tiêu chuẩn, ngh
 
 ### Bảo hểm và các khoản bắt buộc phải đóng:
 
-![](.gitbook/assets/screenshot_12%20%281%29.png)
+![](../.gitbook/assets/screenshot_12%20%281%29.png)
 
 <table>
   <thead>
