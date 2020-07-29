@@ -28,7 +28,7 @@
     * [Hệ thống level chi tiết & Quy trình TS](kscl-cuoc-goi/tai-lieu-bo-tro/he-thong-level-chi-tiet.md)
     * [Thông tin sản phẩm](kscl-cuoc-goi/tai-lieu-bo-tro/thong-tin-san-pham.md)
     * [Thông tin gói học](kscl-cuoc-goi/tai-lieu-bo-tro/thong-tin-goi-hoc.md)
-* [Thực hiện công tác TVTS](thuc-hien-cuoc-goi-tvts/README.md)
+* [TVTS - TVGL](thuc-hien-cuoc-goi-tvts/README.md)
   * [1.Hướng dẫn sử dụng phần mềm CRM](thuc-hien-cuoc-goi-tvts/huong-dan-goi-dien-bang-crm.md)
   * [2.Xây dựng KB L1-L3](thuc-hien-cuoc-goi-tvts/xay-dung-kich-ban-l1-l3/README.md)
     * [2.1.Cuộc gọi mẫu](thuc-hien-cuoc-goi-tvts/xay-dung-kich-ban-l1-l3/cuoc-goi-mau.md)
