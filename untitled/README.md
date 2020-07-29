@@ -41,8 +41,8 @@ description: >-
     <tr>
       <td style="text-align:left">Ngh&#x1EC9; tr&#x1B0;a</td>
       <td style="text-align:left">1 ti&#xEA;&#x301;ng 12h00 - 13h00. C&#xE2;&#x300;n ch&#xE2;&#x301;m v&#xE2;n
-        tay bu&#xF4;&#x309;i tr&#x1B0;a ca&#x301;ch nhau t&#xF4;&#x301;i thi&#xEA;&#x309;u
-        30 phu&#x301;t. T&#x1EE9;c 1 ng&#xE0;y c&#x1EA7;n <b>ch&#x1EA5;m v&#xE2;n tay 4 l&#x1EA7;n</b>
+        tay bu&#xF4;&#x309;i tr&#x1B0;a ca&#x301;ch nhau t&#xF4;&#x301;i thi&#xEA;&#x309;u<em> 30 phu&#x301;t</em>.
+        T&#x1EE9;c 1 ng&#xE0;y c&#x1EA7;n <b>ch&#x1EA5;m v&#xE2;n tay 4 l&#x1EA7;n</b>
       </td>
     </tr>
     <tr>
