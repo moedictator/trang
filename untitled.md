@@ -1,10 +1,18 @@
 # Chấm công
 
+**Số tay nhân viên** [https://bit.ly/2Vz7Wfe](https://bit.ly/2Vz7Wfe)
+
+
+
 Chấm công, đi muộn, về sớm, nghỉ phép, bù giờ tiêu chuẩn, nghỉ bù - do làm tăng ca công việc phát sinh
 
+* Tờ theo dõi làm việc: gồm 3 mặt: Mặt 1 - Lý do không check vân tay \(**bao g**ồm cả về sớm, đi muộn khác giờ quy định 09h - 12h - 13h00 - 18h00, nếu làm nửa ngày thì 09h 00 - 13h00, 14h00- 18h00, làm ở chi nhánh khác mà không có vân tay\) - Còn làm thêm giờ thì Mặt 2 - Nghỉ phép thì ghi vào tờ riêng. 
+* {{Đi sự kiện ghi vào đâu? nếu ở giờ HC làm việc thì ghi ở lý do không check vân tay, nếu đi S}}}
+* trong vòng 3 ngày cần làm đủ 2 việc: 1-Xin email xác nhận của QL, CC HCNS,  phải lên xin chữ ký của HCNS. trường hợp không xin được chữ ký QL. **"Trong TH không xin được chữ ký QL và HCNS trong 3 ngày thì BẮT BUỘC  có email check công bổ sung có CC HCNS" - c Liên**
 
 
-**Số tay nhân viên** [https://bit.ly/2Vz7Wfe](https://bit.ly/2Vz7Wfe)
+
+\*\*\*\*
 
 ### Giờ làm việc 09h00 - 18h00
 
@@ -22,7 +30,9 @@ Chấm công, đi muộn, về sớm, nghỉ phép, bù giờ tiêu chuẩn, ngh
 
 * **Được ~ bắt buộc** nghỉ 1,5 ngày/tuần.
 * Chỉ được phép làm thêm giờ **\(OT\)** trong các TH sau: Đi sự kiện/Thời gian cao điểm ~ chiến dịch khi được yêu cầu. Không được làm thêm giờ bởi: Cty không khuyến khích, nếu khối lượng công việc overload cần đề xuất tuyển thêm nhân viên. Giờ OT sẽ chỉ được tính khi làm đủ giờ tiêu chuẩn
-* NV chính thức có 1 ngày phép/tháng, và bắt buộc tham gia các khoản sau:
+* NV chính thức có 1 ngày phép/tháng.
+
+### Bảo hểm và các khoản bắt buộc phải đóng:
 
 ![](.gitbook/assets/screenshot_12%20%281%29.png)
 
