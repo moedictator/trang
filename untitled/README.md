@@ -45,8 +45,26 @@ description: >-
         30 phu&#x301;t. T&#x1EE9;c 1 ng&#xE0;y c&#x1EA7;n <b>ch&#x1EA5;m v&#xE2;n tay 4 l&#x1EA7;n</b>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">C&#xF4;ng b&#x1ED5; sung, OT</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x110;i s&#x1EDB;m, v&#x1EC1; mu&#x1ED9;n</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">L&#xE0;m b&#xF9; gi&#x1EDD; TC</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Ngh&#x1EC9; b&#xF9; gi&#x1EDD; TC</td>
+      <td style="text-align:left"></td>
+    </tr>
   </tbody>
 </table>
+
+### Các chứng từ, giấy tờ liên quan để xác nhận đủ công làm việc
 
 
 
