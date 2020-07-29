@@ -26,14 +26,14 @@ description: >-
     </tr>
     <tr>
       <td style="text-align:left">Ng&#xE0;y</td>
-      <td style="text-align:left">T2-CN. Ngh&#x1EC9; 1,5 ng&#xE0;y linh ho&#x1EA1;t ~ mi&#x1EC5;n &#x111;&#x1EA3;m
-        b&#x1EA3;o &#x111;&#x1B0;&#x1EE3;c kh&#x1ED1;i l&#x1B0;&#x1EE3;ng v&#xE0;
-        ti&#x1EBF;n &#x111;&#x1ED9; c&#xF4;ng vi&#x1EC7;c</td>
+      <td style="text-align:left"><b>T2-CN. Ngh&#x1EC9; 1,5</b> ng&#xE0;y linh ho&#x1EA1;t ~ mi&#x1EC5;n
+        &#x111;&#x1EA3;m b&#x1EA3;o &#x111;&#x1B0;&#x1EE3;c kh&#x1ED1;i l&#x1B0;&#x1EE3;ng
+        v&#xE0; ti&#x1EBF;n &#x111;&#x1ED9; c&#xF4;ng vi&#x1EC7;c</td>
     </tr>
     <tr>
       <td style="text-align:left">Gi&#x1EDD;</td>
       <td style="text-align:left">
-        <p>- Fulltime: 09h00 - 18h00</p>
+        <p>- <b>Fulltime</b>: 09h00 - 18h00</p>
         <p>- Partime: N&#x1EBF;u l&#xE0;m bu&#x1ED5;i s&#xE1;ng 09h - 13h00 ho&#x1EB7;c
           08h00 - 12h00. N&#x1EBF;u l&#xE0;m bu&#x1ED5;i chi&#x1EC1;u 14h00 - 18h00</p>
       </td>
@@ -42,7 +42,8 @@ description: >-
       <td style="text-align:left">Ngh&#x1EC9; tr&#x1B0;a</td>
       <td style="text-align:left">1 ti&#xEA;&#x301;ng 12h00 - 13h00. C&#xE2;&#x300;n ch&#xE2;&#x301;m v&#xE2;n
         tay bu&#xF4;&#x309;i tr&#x1B0;a ca&#x301;ch nhau t&#xF4;&#x301;i thi&#xEA;&#x309;u
-        30 phu&#x301;t.</td>
+        30 phu&#x301;t. T&#x1EE9;c 1 ng&#xE0;y c&#x1EA7;n <b>ch&#x1EA5;m v&#xE2;n tay 4 l&#x1EA7;n</b>
+      </td>
     </tr>
   </tbody>
 </table>
