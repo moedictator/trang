@@ -22,13 +22,15 @@ description: >-
       <td style="text-align:left">Th&#xE1;ng</td>
       <td style="text-align:left"><b>C&#xF4;ng ti&#xEA;u chu&#x1EA9;n =</b> T&#x1ED5;ng s&#x1ED1; ng&#xE0;y
         c&#x1EE7;a th&#xE1;ng - 1,5 ng&#xE0;y ngh&#x1EC9;/tu&#x1EA7;n (th&#x1B0;&#x1EDD;ng
-        t&#xED;nh T7 = 0,5 ng&#xE0;y ngh&#x1EC9;, CN = 1 ng&#xE0;y ngh&#x1EC9;)</td>
+        t&#xED;nh T7 = 0,5 ng&#xE0;y ngh&#x1EC9;, CN = 1 ng&#xE0;y ngh&#x1EC9;).</td>
     </tr>
     <tr>
       <td style="text-align:left">Ng&#xE0;y</td>
       <td style="text-align:left"><b>T2-CN. Ngh&#x1EC9; 1,5</b> ng&#xE0;y linh ho&#x1EA1;t ~ mi&#x1EC5;n
         &#x111;&#x1EA3;m b&#x1EA3;o &#x111;&#x1B0;&#x1EE3;c kh&#x1ED1;i l&#x1B0;&#x1EE3;ng
-        v&#xE0; ti&#x1EBF;n &#x111;&#x1ED9; c&#xF4;ng vi&#x1EC7;c</td>
+        v&#xE0; ti&#x1EBF;n &#x111;&#x1ED9; c&#xF4;ng vi&#x1EC7;c v&#xE0; &#x110;&#x1EE6;
+        C&#xD4;NG C&#x1EE6;A TH&#xC1;NG &#x110;&#xD3; v&#x1EDB;i c&#xE1;c tu&#x1EA7;n
+        c&#xF3; giao thoa c&#x1EE7;a 2 th&#xE1;ng.</td>
     </tr>
     <tr>
       <td style="text-align:left">Gi&#x1EDD;</td>
@@ -65,8 +67,6 @@ description: >-
 </table>
 
 ### Các chứng từ, giấy tờ liên quan để xác nhận đủ công làm việc
-
-
 
 * Tờ theo dõi làm việc: gồm 3 mặt: Mặt 1 - Lý do không check vân tay \(**bao g**ồm cả về sớm, đi muộn khác giờ quy định 09h - 12h - 13h00 - 18h00, nếu làm nửa ngày thì 09h 00 - 13h00, 14h00- 18h00, làm ở chi nhánh khác mà không có vân tay\) - Còn làm thêm giờ thì Mặt 2 - Nghỉ phép thì ghi vào tờ riêng. 
 * {{Đi sự kiện ghi vào đâu? nếu ở giờ HC làm việc thì ghi ở lý do không check vân tay, nếu đi S}}}
