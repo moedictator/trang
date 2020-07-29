@@ -38,9 +38,9 @@
   * [3.Báo cáo hàng ngày](thuc-hien-cuoc-goi-tvts/bao-cao-cong-viec-hang-ngay.md)
   * [4.Hỗ trợ Test 3A + Bàn giao cts L4](thuc-hien-cuoc-goi-tvts/4.ban-giao-cts-l4.md)
 * [TVGL Genmath](tvgl-genmath/README.md)
-  * [Tài liệu](tvgl-genmath/ta-i-lie-u/README.md)
-    * [Lợi ích học GenMath](tvgl-genmath/ta-i-lie-u/lo-i-ich-ho-c-genmath.md)
-    * [Đối tượng học, SP, gói học](tvgl-genmath/ta-i-lie-u/doi-tuo-ng-ho-c-sp-goi-ho-c.md)
-    * [FAQ](tvgl-genmath/ta-i-lie-u/faq.md)
+  * [FAQ](tvgl-genmath/faq.md)
+  * [KB: Đối tượng học, SP, gói học](tvgl-genmath/doi-tuo-ng-ho-c-sp-goi-ho-c.md)
+  * [Lợi ích học GenMath](tvgl-genmath/lo-i-ich-ho-c-genmath.md)
+  * [Tài liệu](tvgl-genmath/ta-i-lie-u.md)
   * [Quy trình làm việc](tvgl-genmath/quy-tri-nh-la-m-vie-c.md)
 

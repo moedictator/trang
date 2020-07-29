@@ -1,6 +1,6 @@
 # TVGL Genmath
 
-Theo dõi lộ trình GenMath [https://mail.google.com/mail/u/0/\#search/Quy+tr%C3%ACnh+theo+d%C3%B5i+k%E1%BA%BFt+qu%E1%BA%A3+test+GEnmath/FMfcgxwHMGGpqSGdjhDzzjXTCKwXMqCQ](https://mail.google.com/mail/u/0/#search/Quy+tr%C3%ACnh+theo+d%C3%B5i+k%E1%BA%BFt+qu%E1%BA%A3+test+GEnmath/FMfcgxwHMGGpqSGdjhDzzjXTCKwXMqCQ)
+Theo dõi lộ trình GenMath [https://bit.ly/2X5e1Ro](https://bit.ly/2X5e1Ro)
 
 | Giọng điệu TV | Phản ứng KH |
 | :--- | :--- |

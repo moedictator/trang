@@ -10,6 +10,8 @@ description: >-
 
 2-Chuyển sang email chưa gửi: Lý do vì sao chưa gửi? Hợp lệ hay không? GV chấm bài ngày nào để xem đúng là **sắp đến hạn thật chưa hay cần thay đổi hạn**? - Xóa hàm - thay đổi hạn
 
+3-Tháo bộ lọc kiểm tra xem có sót case nào không
+
 ### 3.1. Check Số lượng email
 
 **Bước 1.** Từ file hứng SS điền Copy tên HV **đến hạn chót** [http://bit.ly/398VuHP](http://bit.ly/398VuHP)
