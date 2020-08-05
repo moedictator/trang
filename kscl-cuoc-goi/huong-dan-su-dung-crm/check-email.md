@@ -6,6 +6,21 @@ description: >-
 
 # 2.4.Check email
 
+### Lưu ý:
+
+Với các email chưa gửi, cần check thực sự là chưa gửi thật hay không. 
+
+| Cách check theo | Quản lý rủi ro |
+| :--- | :--- |
+| Tên chính xác của HV | Tìm thấy nhanh nhất |
+| Email của HV và PH | Tên HV trên tiêu đề không chính xác/không trùng với SS ghi |
+| Email gửi từ TVTS | PHHS thay email mới để nhận kết quả/Tên HV sai... --&gt; Cách này khá tối ưu, nhưng mất nhiều thời gian hơn |
+| MOL, quá trình chăm sóc note đã gửi email | quên CC |
+
+ email PHHS \(TVTS điền sai tên HV/gmail thích missing\), email từ TVTS \(PHHS đổi email khác/tên HV bị điền sai\), MOL
+
+
+
 1-Check hết email đã gửi
 
 2-Chuyển sang email chưa gửi: Lý do vì sao chưa gửi? Hợp lệ hay không? GV chấm bài ngày nào để xem đúng là **sắp đến hạn thật chưa hay cần thay đổi hạn**? - Xóa hàm - thay đổi hạn
