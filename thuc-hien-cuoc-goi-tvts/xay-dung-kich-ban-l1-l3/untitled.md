@@ -21,7 +21,8 @@ Hook Test + Hook SM/SA + **Đánh giá mức độ tiềm năng**
       <td style="text-align:left">
         <p><b>- Gi&#x1EDB;i thi&#x1EC7;u: Em l&#xE0; Trang, g&#x1ECD;i &#x111;&#x1EBF;n t&#x1EEB; Anh ng&#x1EEF; Summit - hi</b>&#x1EC7;n
           &#x111;ang l&#xE0; &#x111;&#x1A1;n v&#x1ECB; d&#x1EAB;n &#x111;&#x1EA7;u
-          c&#x1EA3; n&#x1B0;&#x1EDB;c v&#x1EC1; <b>&#x111;&#xE0;o t&#x1EA1;o c&#xE1;c ch&#x1EE9;ng ch&#x1EC9; IE,TF,SAT v&#xE0; TVDH. </b>
+          c&#x1EA3; n&#x1B0;&#x1EDB;c v&#x1EC1; t&#x1EC9; l&#x1EC7; HV &#x111;&#x1EA1;t
+          &#x111;i&#x1EC3;m cao<b>&#x111;&#xE0;o t&#x1EA1;o c&#xE1;c ch&#x1EE9;ng ch&#x1EC9; IE,TF,SAT v&#xE0; TVDH. </b>
         </p>
         <p>- <b>L&#x1ECD;c nhu c&#x1EA7;u:</b> Hi&#x1EC7;n t&#x1EA1;i m&#xEC;nh c&#xF3;
           quan t&#xE2;m ... kh&#xF4;ng/Kh&#xF4;ng bi&#x1EBF;t c&#xF3; th&#x1EC3;
