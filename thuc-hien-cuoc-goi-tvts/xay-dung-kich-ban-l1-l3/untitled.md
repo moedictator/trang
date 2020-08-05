@@ -19,7 +19,7 @@ Hook Test + Hook SM/SA + **Đánh giá mức độ tiềm năng**
   <tbody>
     <tr>
       <td style="text-align:left">
-        <p><b>- Gi&#x1EDB;i thi&#x1EC7;u: Em l&#xE0; Trang, g&#x1ECD;i &#x111;&#x1EBF;n t&#x1EEB; Anh ng&#x1EEF; Summit, hi</b>&#x1EC7;n
+        <p><b>- Gi&#x1EDB;i thi&#x1EC7;u: Em l&#xE0; Trang, g&#x1ECD;i &#x111;&#x1EBF;n t&#x1EEB; Anh ng&#x1EEF; Summit - hi</b>&#x1EC7;n
           &#x111;ang l&#xE0; &#x111;&#x1A1;n v&#x1ECB; d&#x1EAB;n &#x111;&#x1EA7;u
           c&#x1EA3; n&#x1B0;&#x1EDB;c v&#x1EC1; <b>&#x111;&#xE0;o t&#x1EA1;o c&#xE1;c ch&#x1EE9;ng ch&#x1EC9; IE,TF,SAT v&#xE0; TVDH. </b>
         </p>
@@ -35,6 +35,8 @@ Hook Test + Hook SM/SA + **Đánh giá mức độ tiềm năng**
     <tr>
       <td style="text-align:left">
         <p><b>- T&#x1EA1;o thi&#x1EBF;t l&#x1EAD;p: Hi&#x1EC7;n t&#x1EA1;i SM &#x111;ang c&#xF3; CT cho c&#xE1;c b&#x1EA1;n l&#xE0;m b&#xE0;i Test ki&#x1EC3;m tra tr&#xEC;nh &#x111;&#x1ED9; mi&#x1EC5;n ph&#xED;/c&#x169;ng nh&#x1B0; gi&#xFA;p PH &#x111;&#xE1;nh gi&#xE1; hi&#x1EC7;u qu&#x1EA3; h&#x1ECD;c t&#x1EAD;p. </b>
+        </p>
+        <p><b>- Kh&#xF4;ng bi&#x1EBF;t l&#xE0; trong th&#x1EDD;i gian n&#xE0;y, b&#x1EA1;n nh&#xE0; m&#xEC;nh c&#xF3; k&#x1EBF; ho&#x1EA1;ch mu&#x1ED1;n n&#xE2;ng cao tr&#xEC;nh &#x111;&#x1ED9; ti&#x1EBF;ng Anh kh&#xF4;ng &#x1EA1;?</b>
           <br
           />(V&#x1EDB;i PH: --&gt; Kh&#xF4;ng bi&#x1EBF;t ch&#x1ECB; c&#xF3; mu&#x1ED1;n
           cho b&#x1EA1;n tham gia kh&#xF4;ng &#x1EA1;?)</p>
