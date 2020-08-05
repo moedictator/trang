@@ -39,7 +39,7 @@ Ngay **trong ngày** GV trả kết quả, TVTS cần thực hiện "Cuộc gọ
 
 * M01.1. **Chưa gửi email khi đế hạn** \(QLCL nhắc rồi mà vẫn không gửi đúng hạn\)
 * M01.2. **Đã gửi nhưng quá hạn** \(QLCL không kịp nhắc nhở, nhưng bạn đã gửi, mỗi tội vẫn quá hạn\)
-* **Lúc QLCL check đã quá hạn mà vẫn chưa gửi thì là M01.1. Không thay đổi lỗi ban đầu chọn, trong bất kỳ trường hợp nào \(trừ quên CC\), nếu đã xong thì chọn trạng thái đã giải quyết**
+* **Lúc QLCL check đã quá hạn mà vẫn chưa gửi thì là M01.1. Không thay đổi lỗi ban đầu chọn, trong bất kỳ trường hợp nào \(trừ quên CC\), nếu đã xong thì chọn trạng thái đã giải quyết** 
 * M02.1 Gửi sai kết quả so với GV chấm bài
 * M02.2. Thiếu nội dung "Không cam kết đầu ra" với HV xin vớt
 * M02.3. Thiếu lộ trình
