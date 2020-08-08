@@ -47,4 +47,7 @@
   * [FAQ](untitled/faq.md)
   * [FAQ](untitled/untitled-1.md)
 * [Nghiên cứu về hook SM](nghien-cuu-ve-hook-sm.md)
+* [Tạo video/hình ảnh](tao-video-hinh-anh/README.md)
+  * [Canvas](tao-video-hinh-anh/canvas.md)
+  * [Proshow](tao-video-hinh-anh/proshow.md)
 
