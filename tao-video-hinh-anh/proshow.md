@@ -4,7 +4,7 @@
 
 ![](../.gitbook/assets/screenshot_3%20%281%29.png)
 
-|  |  |
+| ProShow |  |
 | :--- | :--- |
 | Folder List |  |
 | Edit |  |
