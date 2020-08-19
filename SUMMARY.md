@@ -10,7 +10,7 @@
     * [C05](kscl-cuoc-goi/co-che-the-xanh-the-do/c05.md)
     * [Email M01 - M02](kscl-cuoc-goi/co-che-the-xanh-the-do/email.md)
   * [2.Quy trình KSCL](kscl-cuoc-goi/huong-dan-su-dung-crm/README.md)
-    * [Làm báo cáo ngày](kscl-cuoc-goi/huong-dan-su-dung-crm/la-m-bao-cao-nga-y.md)
+    * [Báo cáo ngày](kscl-cuoc-goi/huong-dan-su-dung-crm/la-m-bao-cao-nga-y.md)
     * [2.1.Check tồn C01.2](kscl-cuoc-goi/huong-dan-su-dung-crm/check-ton-dau-ngay.md)
     * [2.2.Check Sale Report C02](kscl-cuoc-goi/huong-dan-su-dung-crm/4.check-khoi-luong-cv-c02.md)
     * [2.3.Check hiệu suất](kscl-cuoc-goi/huong-dan-su-dung-crm/2.3.check-hieu-suat.md)
