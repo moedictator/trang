@@ -21,6 +21,7 @@
     * [2.8.Check SMS](kscl-cuoc-goi/huong-dan-su-dung-crm/2.8.check-sms.md)
     * [2.9. Check cts online](kscl-cuoc-goi/huong-dan-su-dung-crm/2.9.-check-cts-online.md)
   * [3.CV cá nhân](kscl-cuoc-goi/3.cv-ca-nhan/README.md)
+    * [Check lại BC lỗi, trước khi làm báo cáo tuần](kscl-cuoc-goi/3.cv-ca-nhan/check-lai-bc-loi-truoc-khi-lam-bao-cao-tuan.md)
     * [3.1.Check email cá nhân](kscl-cuoc-goi/3.cv-ca-nhan/4.check-email-ca-nhan.md)
     * [3.2.Tương tác QL cơ sở](kscl-cuoc-goi/3.cv-ca-nhan/5.-tuong-tac-ql-co-so.md)
     * [3.3.Làm việc online](kscl-cuoc-goi/3.cv-ca-nhan/5.lam-viec-online.md)
