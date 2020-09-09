@@ -29,6 +29,8 @@ Với các email chưa gửi, cần check thực sự là chưa gửi thật hay
 
 **File QL tư vấn 1-1**: [https://bit.ly/2zEqVgF](https://bit.ly/2zEqVgF)
 
+File GenMath Test: [https://docs.google.com/spreadsheets/d/1H4orTkzJ\_G2ErxbNQr-iT7CqAJNC-71VMIzuDIGcR5Q/edit\#gid=850857682](https://docs.google.com/spreadsheets/d/1H4orTkzJ_G2ErxbNQr-iT7CqAJNC-71VMIzuDIGcR5Q/edit#gid=850857682)
+
 **Bước 2.** Paste tại ô Tìm kiếm "chính xác" trong hòm thư storage.tvts@summit.edu.vn
 
 ![Nh&#x1EDB; l&#x1EA5;y ng&#xE0;y tr&#x1EA3; k&#x1EBF;t qu&#x1EA3;](../../.gitbook/assets/image.png)
