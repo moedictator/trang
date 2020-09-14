@@ -148,3 +148,9 @@ Câu hỏi là: **"Ngày X có bao nhiêu email trả kết quả?"**
 
 **Bước 3**. Điền báo cáo
 
+
+
+### Lưu ý về TH chấp nhận trả muộn kết quả:
+
+![](../../.gitbook/assets/screenshot_8.png)
+
