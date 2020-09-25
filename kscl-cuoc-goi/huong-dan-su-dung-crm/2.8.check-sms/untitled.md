@@ -31,11 +31,14 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">N&#x1ED9;i dung SMS</td>
+      <td style="text-align:left"><b>N&#x1ED9;i dung SMS</b>
+      </td>
       <td style="text-align:left">Theo M&#x1EAA;U d&#x1B0;&#x1EDB;i &#x111;&#xE2;y, kh&#xF4;ng d&#x1EA5;u</td>
       <td
       style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
+
+
 
