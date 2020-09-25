@@ -1,3 +1,8 @@
+---
+description: >-
+  https://mail.google.com/mail/u/0/?tab=rm&ogbl#label/Ms.%C4%90%C3%A0o+Li%C3%AAn/FMfcgxwJXLmmHNWlHCjTtJLKTWwffqSM
+---
+
 # Quy định gửi SMS
 
 <table>
