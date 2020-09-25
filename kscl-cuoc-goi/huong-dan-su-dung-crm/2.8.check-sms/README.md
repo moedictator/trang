@@ -4,7 +4,7 @@
 
 #### 1.Level nào được sms?
 
-![](../../.gitbook/assets/screenshot_2.png)
+![](../../../.gitbook/assets/screenshot_2.png)
 
 #### 2.Nội dung sms yêu cầu gì?
 
@@ -27,4 +27,6 @@
 * Nội dung đúng/sai? \(Tên TVTS? - Tên + Địa chỉ Cơ sở SM\)
 * SL ký tự có quá nhiều?
 * ...?
+
+[https://mail.google.com/mail/u/0/?tab=rm&ogbl\#label/Ms.%C4%90%C3%A0o+Li%C3%AAn/FMfcgxwJXLmmHNWlHCjTtJLKTWwffqSM](https://mail.google.com/mail/u/0/?tab=rm&ogbl#label/Ms.%C4%90%C3%A0o+Li%C3%AAn/FMfcgxwJXLmmHNWlHCjTtJLKTWwffqSM)
 
