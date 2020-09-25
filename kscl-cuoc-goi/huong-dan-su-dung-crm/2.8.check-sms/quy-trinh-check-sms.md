@@ -9,7 +9,7 @@ Các rủi ro có thể xuất hiện khi TVTS gửi SMS:
 * SMS không gửi được do chứa từ cấm
 * SL ký tự &gt;160
 * **Nội dung** nhắc lịch Test cho HV cụ thể được nhắn qua MOL
-* **Nội dung** quảng cáo, ưu đãi thể hiện trong file đặt hàng SS
+* **Nội dung** quảng cáo, ưu đãi thể hiện trong file đặt hàng SS                                   Check vào **thứ 5 hàng tuần** [https://bit.ly/3j3ki9c](https://bit.ly/3j3ki9c)
 
 
 
