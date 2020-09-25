@@ -14,7 +14,9 @@
 | 8 | **Nội dung** nhắc lịch Test cho HV cụ thể được nhắn qua MOL |
 | 9 | **Nội dung** quảng cáo, ưu đãi thể hiện trong file đặt hàng SS                                   Check vào **thứ 5 hàng tuần** [https://bit.ly/3j3ki9c](https://bit.ly/3j3ki9c) |
 
-\*\*\*\*
+**Bước 1.** Vào Lịch sử SMS
+
+![&#x110;&#x1EA3;o chi&#x1EC1;u m&#x169;i t&#xEA;n --&amp;gt; Click &quot;L&#x1ECB;ch s&#x1EED; SMS&quot;](../../../.gitbook/assets/1%20%289%29.png)
 
 
 
