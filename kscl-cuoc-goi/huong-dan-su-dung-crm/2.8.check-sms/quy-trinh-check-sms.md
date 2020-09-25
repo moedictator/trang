@@ -18,5 +18,13 @@
 
 ![&#x110;&#x1EA3;o chi&#x1EC1;u m&#x169;i t&#xEA;n --&amp;gt; Click &quot;L&#x1ECB;ch s&#x1EED; SMS&quot;](../../../.gitbook/assets/1%20%289%29.png)
 
+Bước 2. Lọc SMS
+
+![](../../../.gitbook/assets/2%20%288%29.png)
+
+**Bước 3.** Điền nội dung nhận xét SMS [https://bit.ly/3j1RxK9](https://bit.ly/3j1RxK9)
+
+![](../../../.gitbook/assets/3%20%288%29.png)
+
 
 
