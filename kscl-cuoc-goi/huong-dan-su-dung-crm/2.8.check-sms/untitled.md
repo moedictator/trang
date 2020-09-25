@@ -19,14 +19,22 @@
       <td style="text-align:left">2A, 3AB, 4, 5AB, 6AB, 7, 8</td>
     </tr>
     <tr>
-      <td style="text-align:left">SMS qua k&#xEA;nh n&#xE0;o?</td>
-      <td style="text-align:left">- M&#x1EDD;i Test cho HV c&#x1EE5; th&#x1EC3;</td>
-      <td style="text-align:left">--&gt; MOL c&#xE1; nh&#xE2;n. H&#x1B0;&#x1EDB;ng d&#x1EAB;n:</td>
+      <td style="text-align:left"><b>SMS qua k&#xEA;nh n&#xE0;o?</b>
+      </td>
+      <td style="text-align:left">
+        <p>- M&#x1EDD;i Test cho HV c&#x1EE5; th&#x1EC3;</p>
+        <p>- Qu&#x1EA3;ng c&#xE1;o, &#x1B0;u &#x111;&#xE3;i</p>
+      </td>
+      <td style="text-align:left">
+        <p>--&gt; MOL c&#xE1; nh&#xE2;n. Link</p>
+        <p>--&gt; &#x110;&#x1EB7;t h&#xE0;ng SS. Link</p>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">N&#x1ED9;i dung SMS</td>
+      <td style="text-align:left">Theo M&#x1EAA;U d&#x1B0;&#x1EDB;i &#x111;&#xE2;y, kh&#xF4;ng d&#x1EA5;u</td>
+      <td
+      style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
