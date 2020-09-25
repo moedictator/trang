@@ -1,6 +1,5 @@
 ---
-description: >-
-  https://mail.google.com/mail/u/0/?tab=rm&ogbl#label/Ms.%C4%90%C3%A0o+Li%C3%AAn/FMfcgxwJXLmmHNWlHCjTtJLKTWwffqSM
+description: 'Cập nhật quy định theo email: https://bit.ly/3j3pGJs'
 ---
 
 # Quy định gửi SMS
