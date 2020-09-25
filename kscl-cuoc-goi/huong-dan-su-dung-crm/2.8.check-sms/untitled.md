@@ -26,8 +26,10 @@
         <p>- Qu&#x1EA3;ng c&#xE1;o, &#x1B0;u &#x111;&#xE3;i</p>
       </td>
       <td style="text-align:left">
-        <p>--&gt; MOL c&#xE1; nh&#xE2;n. Link</p>
-        <p>--&gt; &#x110;&#x1EB7;t h&#xE0;ng SS. Link</p>
+        <p>--&gt; MOL c&#xE1; nh&#xE2;n. Link<a href="https://docs.google.com/document/d/1lZ48KUsGVpNPL0ud2e-PCrfUZzHrTioO8utCSArjh6c/edit">:</a>
+        </p>
+        <p>--&gt; &#x110;&#x1EB7;t h&#xE0;ng SS. Link<a href="https://docs.google.com/spreadsheets/d/1kbZHSL1R3-s6mI1M8unuHVLpBv1aAXTmx72_7kK3g40/edit?ts=5f6d9f7d#gid=2038238363">:</a>
+        </p>
       </td>
     </tr>
     <tr>
