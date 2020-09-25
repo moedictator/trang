@@ -19,6 +19,7 @@
     * [2.6.Check cuộc gọi](kscl-cuoc-goi/huong-dan-su-dung-crm/check-loi-theo-level.md)
     * [2.7.Check CL tư vấn trực tiếp](kscl-cuoc-goi/huong-dan-su-dung-crm/2.7.check-cl-tu-van-tru-c-tiep.md)
     * [2.8.Check SMS](kscl-cuoc-goi/huong-dan-su-dung-crm/2.8.check-sms.md)
+    * [Untitled](kscl-cuoc-goi/huong-dan-su-dung-crm/untitled.md)
     * [2.9. Check cts online](kscl-cuoc-goi/huong-dan-su-dung-crm/2.9.-check-cts-online.md)
   * [3.CV cá nhân](kscl-cuoc-goi/3.cv-ca-nhan/README.md)
     * [Check lại BC lỗi, trước khi làm báo cáo tuần](kscl-cuoc-goi/3.cv-ca-nhan/check-lai-bc-loi-truoc-khi-lam-bao-cao-tuan.md)
