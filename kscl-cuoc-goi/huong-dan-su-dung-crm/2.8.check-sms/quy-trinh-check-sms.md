@@ -13,8 +13,9 @@
 | 7 | SMS cho level không được phép sms |
 | 8 | **Nội dung** nhắc lịch Test cho HV cụ thể được nhắn qua MOL |
 | 9 | **Nội dung** quảng cáo, ưu đãi thể hiện trong file đặt hàng SS                                   Check vào **thứ 5 hàng tuần** [https://bit.ly/3j3ki9c](https://bit.ly/3j3ki9c) |
+| 10 | **Nội dung** đúng/sai? \(Tên TVTS?/Tên + Địa chỉ Cơ sở SM\) |
 
-**QUY TRÌNH CHECK SMS**
+### **QUY TRÌNH CHECK SMS**
 
 **Bước 1.** Vào Lịch sử SMS
 
