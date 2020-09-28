@@ -164,7 +164,9 @@ description: >-
 
 
 
-
+|  |  |
+| :--- | :--- |
+|  | Nếu off linh hoạt 1,5 ngày trong tuần sẽ không phải xin chữ ký HCNS |
 
 
 
