@@ -8,7 +8,7 @@ description: >-
 
 **Số tay nhân viên** [https://bit.ly/2Vz7Wfe](https://bit.ly/2Vz7Wfe)
 
-Nộp giấy chấm công trước 12h trưa ngày 28/09
+Nộp giấy chấm công trước **12h trưa** ngày 28/09
 
 ### Giờ làm việc của BP QLCLDV:
 
