@@ -6,6 +6,8 @@ description: 'TVTS đặt lịch hẹn tương tác, nhưng có tương tác hay
 
 **3 ngày cuối tháng** chốt số được phép tồn nhưng **phải giải quyết xong hết vào ngày đầu tiên đi làm** của tháng tiếp theo
 
+**CHECK THÊM CTS BÀN GIAO TRONG NGÀY ĐÃ GIẢI QUYẾT HẾT CHƯA**
+
 **Bước 1.** Mở tài liệu
 
 * Form báo cáo lỗi:[ ](http://bit.ly/39zZ1yM)[http://bit.ly/39zZ1yM](http://bit.ly/39zZ1yM)
