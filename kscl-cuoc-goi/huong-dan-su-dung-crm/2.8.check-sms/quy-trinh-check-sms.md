@@ -15,7 +15,7 @@
 | 9 | **Nội dung** quảng cáo, ưu đãi thể hiện trong file đặt hàng SS                                   Check vào **thứ 5 hàng tuần** [https://bit.ly/3j3ki9c](https://bit.ly/3j3ki9c) |
 | 10 | **Nội dung** đúng/sai? \(Tên TVTS?/Tên + Địa chỉ Cơ sở SM\) |
 
-### **QUY TRÌNH CHECK SMS**
+### **QUY TRÌNH CHECK SMS h**àng ngày
 
 **Bước 1.** Vào Lịch sử SMS
 
@@ -29,5 +29,7 @@
 
 ![](../../../.gitbook/assets/3%20%288%29.png)
 
+### QUY TRÌNH CHECK SMS hàng tuần
 
+dffsdf
 
