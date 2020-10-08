@@ -31,5 +31,5 @@
 
 ### QUY TRÌNH CHECK SMS hàng tuần
 
-dffsdf
+1. Check level của sms đặt hàng gửi
 
