@@ -53,6 +53,7 @@
   * [FAQ](untitled/untitled-1.md)
 * [Nghiên cứu về hook SM](nghien-cuu-ve-hook-sm.md)
 * [Tạo video/hình ảnh](tao-video-hinh-anh/README.md)
+  * [Hình ảnh](tao-video-hinh-anh/hinh-anh.md)
   * [Canvas](tao-video-hinh-anh/canvas/README.md)
     * [Lưu thiết kế](tao-video-hinh-anh/canvas/luu-thiet-ke.md)
     * [Tạo thiết kế](tao-video-hinh-anh/canvas/tao-thiet-ke.md)
