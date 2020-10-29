@@ -31,5 +31,13 @@
 
 ### QUY TRÌNH CHECK SMS hàng tuần
 
+Bổ sung các rủi ro có thể có với SMS hàng tuần
+
+| STT | Rủi ro với SMS hàng tuần |
+| :--- | :--- |
+| 1 | MOL note sms đặt hàng SS nhưng không có trong DS đặt hàng |
+| 2 |  **SMS** với các Level C, các CTS sai số, không có SĐT |
+| 3 | Nội dung nên linh hoạt, không nên luôn luôn là ưu đãi sẽ khiến nhờn thông tin, nên nhắn thêm về nhận diện thương hiệu và tăng độ thân thiết với KH |
+
 1. Check level của sms đặt hàng gửi
 
