@@ -33,11 +33,11 @@ File GenMath Test: [https://docs.google.com/spreadsheets/d/1H4orTkzJ\_G2ErxbNQr-
 
 **Bước 2.** Paste tại ô Tìm kiếm "chính xác" trong hòm thư storage.tvts@summit.edu.vn
 
-![Nh&#x1EDB; l&#x1EA5;y ng&#xE0;y tr&#x1EA3; k&#x1EBF;t qu&#x1EA3;](../../.gitbook/assets/image.png)
+![Nh&#x1EDB; l&#x1EA5;y ng&#xE0;y tr&#x1EA3; k&#x1EBF;t qu&#x1EA3;](../../../.gitbook/assets/image.png)
 
 **Bước 3.** Điền kết quả 
 
-![](../../.gitbook/assets/2%20%283%29.png)
+![](../../../.gitbook/assets/2%20%283%29.png)
 
 <table>
   <thead>
@@ -116,7 +116,7 @@ LUỒNG: Từ hòm thư --&gt; check về file SS điền:
 
 Câu hỏi là: **"Ngày X có bao nhiêu email trả kết quả?"**
 
-![](../../.gitbook/assets/screenshot_7.png)
+![](../../../.gitbook/assets/screenshot_7.png)
 
 **Bước 2:** Điền vào form theo dõi với SS
 
@@ -142,7 +142,7 @@ Câu hỏi là: **"Ngày X có bao nhiêu email trả kết quả?"**
 
 **Bước 1.** Từ email chuyển khoản học phí, có tiêu đề **"CK...."**
 
-![](../../.gitbook/assets/61.png)
+![](../../../.gitbook/assets/61.png)
 
 **Bước 2.** Tìm theo tên học viên và sale, để kiểm tra TVTS đã gửi email xác nhận học phí và gửi **"cam kết chất lượng"** hay chưa?
 
@@ -152,5 +152,5 @@ Câu hỏi là: **"Ngày X có bao nhiêu email trả kết quả?"**
 
 ### Lưu ý về TH chấp nhận trả muộn kết quả:
 
-![](../../.gitbook/assets/screenshot_8.png)
+![](../../../.gitbook/assets/screenshot_8.png)
 
