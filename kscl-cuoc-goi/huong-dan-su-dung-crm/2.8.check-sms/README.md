@@ -1,4 +1,4 @@
-# 2.8.Check SMS
+# 2.5.Check SMS
 
 ### Check SMS hàng ngày
 
