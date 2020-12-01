@@ -28,6 +28,7 @@
     * [2.9.Check ABC](kscl-cuoc-goi/huong-dan-su-dung-crm/2.9.check-abc.md)
     * [2.10.Check CL tư vấn trực tiếp](kscl-cuoc-goi/huong-dan-su-dung-crm/2.7.check-cl-tu-van-tru-c-tiep.md)
   * [3.CV cá nhân](kscl-cuoc-goi/3.cv-ca-nhan/README.md)
+    * [Tập làm báo cáo ngày](kscl-cuoc-goi/3.cv-ca-nhan/tap-lam-bao-cao-ngay.md)
     * [Check lại BC lỗi, trước khi làm báo cáo tuần](kscl-cuoc-goi/3.cv-ca-nhan/check-lai-bc-loi-truoc-khi-lam-bao-cao-tuan.md)
     * [3.1.Check email cá nhân](kscl-cuoc-goi/3.cv-ca-nhan/4.check-email-ca-nhan.md)
     * [3.2.Tương tác QL cơ sở](kscl-cuoc-goi/3.cv-ca-nhan/5.-tuong-tac-ql-co-so.md)
