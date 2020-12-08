@@ -4,7 +4,7 @@ description: >-
   "Đã gửi" & "Xong/BÔI VÀNG
 ---
 
-# 2.4.Check email
+# 2.7.Check email
 
 ### Lưu ý:
 
