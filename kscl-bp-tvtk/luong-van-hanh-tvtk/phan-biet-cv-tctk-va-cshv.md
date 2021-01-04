@@ -14,9 +14,8 @@
       <td style="text-align:left">Trong, sau kh&#xF3;a &#x111;&#x1EA7;u/gi&#x1EEF;a combo</td>
       <td style="text-align:left">
         <ul>
-          <li>Cu&#x1ED1;i kh&#xF3;a (theo d&#xF5;i &#x111;&#x1EC3; xem c&#xF3; th&#x1EC3;
-            ph&#xE1;t sinh ti&#x1EC1;n hay kh&#xF4;ng v&#xE0; conver khi kh&#x1EA3;
-            n&#x103;ng ph&#xE1;t sinh ti&#x1EC1;n)</li>
+          <li>Theo d&#xF5;i HV &#x111;&#x1EC3; xem c&#xF3; th&#x1EC3; convert ra ti&#x1EC1;n
+            hay kh&#xF4;ng (cu&#x1ED1;i kh&#xF3;a)</li>
           <li>Up sale (cu&#x1ED1;i combo)</li>
           <li>Cross sale SP # (Junior l&#xEA;n IE, IE l&#xEA;n SAT, TA sang GenMath)</li>
         </ul>
