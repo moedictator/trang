@@ -44,7 +44,7 @@
   * [Luồng vận hành TVTK](kscl-bp-tvtk/luong-van-hanh-tvtk/README.md)
     * [Hệ thống level Tái ký](kscl-bp-tvtk/luong-van-hanh-tvtk/he-thong-level-tai-ky.md)
     * [Phân biệt cv TCTK và CSHV](kscl-bp-tvtk/luong-van-hanh-tvtk/phan-biet-cv-tctk-va-cshv.md)
-  * [Check cuộc gọi](kscl-bp-tvtk/check-cuoc-goi.md)
+  * [Check cuộc gọi TVTK](kscl-bp-tvtk/check-cuoc-goi.md)
 * [TVTS - TVGL](thuc-hien-cuoc-goi-tvts/README.md)
   * [1.Hướng dẫn sử dụng phần mềm CRM](thuc-hien-cuoc-goi-tvts/huong-dan-goi-dien-bang-crm.md)
   * [2.Xây dựng KB L1-L3](thuc-hien-cuoc-goi-tvts/xay-dung-kich-ban-l1-l3/README.md)
