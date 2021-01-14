@@ -10,7 +10,7 @@
 
 ![](../../.gitbook/assets/sat-1.png)
 
-Bài Test đầu vào
+### Bài Test đầu vào
 
 ![](../../.gitbook/assets/1%20%286%29.png)
 
