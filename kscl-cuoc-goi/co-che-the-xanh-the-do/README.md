@@ -64,7 +64,7 @@ Cơ chế KSCL của Summit đề cao việc **cải thiện chất lượng TVT
 
 ![](../../.gitbook/assets/4%20%283%29.png)
 
-Cập nhật cơ chế Thẻ Xanh - Đỏ tại: t.ly/1yTt
+Cập nhật cơ chế Thẻ Xanh - Đỏ tại: t.ly/1yTt 
 
 **\*Lưu ý:**
 
