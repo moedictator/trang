@@ -17,11 +17,11 @@ description: 'TVTS đặt lịch hẹn tương tác, nhưng có tương tác hay
 
 Gõ tên TVTS/Điền ngày check tồn/Xem tên level gì: nếu 7,8,C thì hợp lệ, nếu khác thì kiểm tra lịch làm việc.
 
-![](../../../.gitbook/assets/3-1.png)
+![](../../.gitbook/assets/3-1.png)
 
 ### **Bước 3**. Điền báo cáo
 
-![B&#xE1;o c&#xE1;o ki&#x1EC3;m tra t&#x1ED3;n](../../../.gitbook/assets/ton-1.png)
+![B&#xE1;o c&#xE1;o ki&#x1EC3;m tra t&#x1ED3;n](../../.gitbook/assets/ton-1.png)
 
 **Tồn hợp lệ:**
 
