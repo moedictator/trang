@@ -27,8 +27,9 @@ Cơ chế KSCL của Summit đề cao việc **cải thiện chất lượng TVT
       <td style="text-align:left">- T&#x1EB7;ng cts t&#x1B0;&#x1A1;i cho TVTS c&#xF3; Th&#x1EBB; Xanh
         <br
         />- Gi&#x1EA3;m cts, kh&#x1ED1;i l&#x1B0;&#x1EE3;ng c&#xF4;ng vi&#x1EC7;c
-        cho TVTS c&#xF3; Th&#x1EBB; &#x110;&#x1ECF; &#x111;&#x1EC3; &#x111;&#x1EA7;u
-        t&#x1B0; ho&#xE0;n thi&#x1EC7;n k&#x1EF9; n&#x103;ng, nghi&#x1EC7;p v&#x1EE5;.</td>
+        cho TVTS c&#xF3; Th&#x1EBB; &#x110;&#x1ECF; &#x111;&#x1EC3; d&#xE0;nh th&#x1EDD;i
+        gian &#x111;&#x1EA7;u t&#x1B0; ho&#xE0;n thi&#x1EC7;n k&#x1EF9; n&#x103;ng,
+        nghi&#x1EC7;p v&#x1EE5;.</td>
     </tr>
     <tr>
       <td style="text-align:left">L&#x1EE3;i &#xED;ch</td>
