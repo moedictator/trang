@@ -3,7 +3,7 @@
 ## Bộ phận QLCL làm công việc gì? Thuộc hệ thống phòng ban nào?
 
 * QLCL tiền thân thuộc bộ phận ELT - Phòng Kinh Doanh, từ 01/01/2021 tách ra  trở thành BP riêng biệt, phụ trách các mảng: TVTS, TVGL, TVTK, CSHV
-* Kiểm soát các loại rủi ro trong quy trình tuyển sinh, chăm sóc HV. Là công việc để trả lời câu hỏi sau: Nhân viên **X có mắc lỗi Y \(C01... C05..\) trong tuần hay không?**
+* Kiểm soát các loại rủi ro trong quy trình tuyển sinh, chăm sóc HV. Là công việc để trả lời các câu hỏi sau: Nhân viên **X có mắc lỗi Y \(C01... C05..\) trong tuần hay không?** Đưa ra cảnh báo gì? Đề xuất phòng tránh rủi ro ra sao?
 
 ![](.gitbook/assets/87075000_3005021336195569_6658600623484698624_o.png)
 
