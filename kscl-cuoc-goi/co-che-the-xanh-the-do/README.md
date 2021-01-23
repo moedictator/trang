@@ -8,7 +8,7 @@ description: >-
 
 ### Giới thiệu chung
 
-Cơ chế KSCL của Summit đề cao việc **cải thiện chất lượng TVTS** lên hàng đầu. Vì vậy chúng tôi chấp nhận những sai sót và tập trung và kế hoạch, giải pháp cải thiện chất lượng. Hệ thống cơ chế Thẻ Xanh/Đỏ chỉ nhằm mục tiêu: cảnh báo/giúp đỡ các TVTS trong quá trình nâng cao trình độ, tạo động lực/động viên TVTS duy trì, phát triển thế mạnh sẵn có hoặc tiềm tàng.
+Cơ chế KSCL của Summit đề cao việc **cải thiện chất lượng TVTS** lên hàng đầu. Vì vậy chúng tôi chấp nhận những sai sót và tập trung và kế hoạch, giải pháp cải thiện chất lượng. Hệ thống cơ chế Thẻ Xanh/Đỏ chỉ nhằm mục tiêu: cảnh báo/giúp đỡ các TV trong quá trình nâng cao trình độ, tạo động lực/động viên TV duy trì, phát triển thế mạnh sẵn có hoặc tiềm tàng.
 
 ![](../../.gitbook/assets/quality-management-systems700x438-700x438.jpg)
 
@@ -27,8 +27,9 @@ Cơ chế KSCL của Summit đề cao việc **cải thiện chất lượng TVT
       <td style="text-align:left">- T&#x1EB7;ng cts t&#x1B0;&#x1A1;i cho TVTS c&#xF3; Th&#x1EBB; Xanh
         <br
         />- Gi&#x1EA3;m cts, kh&#x1ED1;i l&#x1B0;&#x1EE3;ng c&#xF4;ng vi&#x1EC7;c
-        cho TVTS c&#xF3; Th&#x1EBB; &#x110;&#x1ECF; &#x111;&#x1EC3; &#x111;&#x1EA7;u
-        t&#x1B0; ho&#xE0;n thi&#x1EC7;n k&#x1EF9; n&#x103;ng, nghi&#x1EC7;p v&#x1EE5;.</td>
+        cho TVTS c&#xF3; Th&#x1EBB; &#x110;&#x1ECF; &#x111;&#x1EC3; d&#xE0;nh th&#x1EDD;i
+        gian &#x111;&#x1EA7;u t&#x1B0; ho&#xE0;n thi&#x1EC7;n k&#x1EF9; n&#x103;ng,
+        nghi&#x1EC7;p v&#x1EE5;.</td>
     </tr>
     <tr>
       <td style="text-align:left">L&#x1EE3;i &#xED;ch</td>
@@ -53,8 +54,8 @@ Cơ chế KSCL của Summit đề cao việc **cải thiện chất lượng TVT
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">BP</td>
-      <td style="text-align:left">TVTS - Team leader TVTS - SS - QLCL. (SS ch&#x1EC9; h&#x1ED7; tr&#x1EE3;)</td>
+      <td style="text-align:left">Quy tr&#xEC;nh ph&#x1ED1;i h&#x1EE3;p</td>
+      <td style="text-align:left">TVTS/TVGL/TVTK &lt;--&gt; <b>Team leader </b> &lt;--&gt; QLCL</td>
     </tr>
   </tbody>
 </table>
@@ -63,7 +64,7 @@ Cơ chế KSCL của Summit đề cao việc **cải thiện chất lượng TVT
 
 ![](../../.gitbook/assets/4%20%283%29.png)
 
-Cập nhật cơ chế Thẻ Xanh - Đỏ tại: [**https://bit.ly/3coFjXL**](https://bit.ly/30s0hTm)\*\*\*\*
+Cập nhật cơ chế Thẻ Xanh - Đỏ tại: t.ly/1yTt 
 
 **\*Lưu ý:**
 
