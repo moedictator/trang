@@ -58,7 +58,7 @@ Ngay **trong ngày** GV trả kết quả, TVTS cần thực hiện "Cuộc gọ
 
 #### **Thời gian học**
 
-* Cần  bổ sung thời gian học **không bao gồm nghỉ lễ tết**
+* Cần bổ sung thời gian học **không bao gồm nghỉ lễ tết**
 
 #### **Khi nào cần "Không cam kết đầu ra"?**
 
