@@ -11,8 +11,8 @@
 
 ### Mục tiêu:
 
-* Đảm bảo HV **tiếp nhận kiến thức chủ động** \(không bị động - chỉ nghe\)
-* Đặt **hiệu quả** lên hàng đầu. Đảm bảo Hv training xong làm được luôn và người training nắm đc kết quả làm việc của hv, Gitbook được thiết theo logic hành động.
+* Đảm bảo NV **tiếp nhận kiến thức chủ động** \(không bị động - chỉ nghe\)
+* Đặt **hiệu quả** lên hàng đầu. Đảm bảo NV training xong làm được luôn và người training nắm đc kết quả làm việc của NV, nên Gitbook này được thiết theo logic hành động.
 * Hiệu quả **tra cứu** tối đa. HV sau quá trình training có thể sẽ làm được ngay nhưng sẽ chưa thể nhớ hết nội dung. Gitbook này cũng được thiết kế với ngôn từ, thao tác tra cứu **tinh giản** nhất.
 
 ### Kế hoạch training
