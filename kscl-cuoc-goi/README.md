@@ -2,7 +2,7 @@
 description: Tránh thông báo các lỗi nghiêm trọng vào 3 ngày cuối tháng
 ---
 
-# KSCL bộ phận TVTS-TVGL
+# KSCL bộ phận TVTS
 
 Ngoài các mã lỗi, TVTS có thể mắc:
 
