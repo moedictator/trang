@@ -55,7 +55,7 @@ Cơ chế KSCL của Summit đề cao việc **cải thiện chất lượng TVT
     </tr>
     <tr>
       <td style="text-align:left">Quy tr&#xEC;nh ph&#x1ED1;i h&#x1EE3;p</td>
-      <td style="text-align:left">TVTS/TVGL/TVTK &lt;--&gt; <b>Team leader TVTS</b> &lt;--&gt; QLCL</td>
+      <td style="text-align:left">TVTS/TVGL/TVTK &lt;--&gt; <b>Team leader </b> &lt;--&gt; QLCL</td>
     </tr>
   </tbody>
 </table>
