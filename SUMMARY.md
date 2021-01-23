@@ -12,7 +12,6 @@
   * [2.Quy trình KSCL](kscl-cuoc-goi/huong-dan-su-dung-crm/README.md)
     * [Báo cáo ngày](kscl-cuoc-goi/huong-dan-su-dung-crm/la-m-bao-cao-nga-y.md)
     * [2.1.Check tồn C01.2](kscl-cuoc-goi/huong-dan-su-dung-crm/check-ton-dau-ngay/README.md)
-      * [Tồn ngày hẹn chăm sóc](kscl-cuoc-goi/huong-dan-su-dung-crm/check-ton-dau-ngay/ton-ngay-hen-cham-soc.md)
       * [Tồn ngày bàn giao cts](kscl-cuoc-goi/huong-dan-su-dung-crm/check-ton-dau-ngay/ton-ngay-ban-giao-cts.md)
     * [2.2.Check Sale Report C02](kscl-cuoc-goi/huong-dan-su-dung-crm/4.check-khoi-luong-cv-c02.md)
     * [2.3.Check hiệu suất](kscl-cuoc-goi/huong-dan-su-dung-crm/2.3.check-hieu-suat.md)
