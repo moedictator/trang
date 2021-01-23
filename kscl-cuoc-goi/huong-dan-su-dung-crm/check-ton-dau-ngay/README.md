@@ -33,13 +33,7 @@ description: 'TVTS đặt lịch hẹn tương tác, nhưng có tương tác hay
 * Gửi cảnh báo đến quản lý qua Email hàng ngày
 * Điền form báo cáo lỗi, sau khi được quản lý xác nhận \(nếu cần\)
 
-## **\*Mẹo**
-
-**\*Mẹo 1 check tồn nhanh:**
-
-Dựa vào ngày nghỉ off để điền ngày check tồn sẽ ra được ngay là bạn tồn đúng quy định không?
-
-**\*Mẹo 2 giảm rủi ro nhầm lẫn:**
+## **\*Mẹo giảm rủi ro nhầm lẫn:**
 
 Check hết một loạt số lượng tồn rồi kiểm tra lịch làm việc của tất cả để biết ai tồn hợp lệ ai không.
 
