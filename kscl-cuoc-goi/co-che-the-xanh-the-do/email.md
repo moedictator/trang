@@ -9,8 +9,8 @@ Tại nguồn học viên
 
 ### Mục đích check email?
 
-* **Cảnh báo** hàng ngày \(buổi trưa\) với các email _đến hạn chót_ gửi
-* **Nội dung email** trả kết quả có đáp ứng được nhu cầu của KH?
+* Cảnh báo email _sắp đến hạn, quá hạn_ gửi kết quả
+* Cảnh báo nội dung email chưa chính xác 
 
 ### Công cụ nào hỗ trợ check email?
 
