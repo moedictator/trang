@@ -62,7 +62,7 @@ Ngay **trong ngày** GV trả kết quả, TVTS cần thực hiện "Cuộc gọ
 
 #### **Khi nào cần "Không cam kết đầu ra"?**
 
-* Không cam kết đầu ra khi TVTS xin VỚT \(không phải là GV cho phép vớt\) --&gt; rất hiếm khi xảy ra
+* Không cam kết đầu ra khi TVTS xin VỚT \(không phải là GV cho phép vớt\)
 
 #### **Khi nào cần gửi "Cam kết chất lượng"?**
 
