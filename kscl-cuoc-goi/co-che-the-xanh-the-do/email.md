@@ -16,8 +16,8 @@ Tại nguồn học viên
 
 * Đăng nhập CRM với TK Quản lý Sale: [https://mol.summit.edu.vn](https://mol.summit.edu.vn)
 * Hòm thư Quản lý sale: storage.tvts@summit.edu.vn
-* **Báo cáo Excel**: [https://t.ly/qojC](https://t.ly/qojC)
-* Form báo cáo lỗi: [https://t.ly/cVLD](https://t.ly/cVLD)
+* **Báo cáo theo dõi tại Google Sheet**: [https://t.ly/qojC](https://t.ly/qojC)
+* Form điền báo cáo lỗi: [https://t.ly/cVLD](https://t.ly/cVLD)
 
 ### **Quy định về gửi email**
 
