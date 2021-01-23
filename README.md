@@ -13,7 +13,7 @@
 
 * Đảm bảo NV **tiếp nhận kiến thức chủ động** \(không bị động - chỉ nghe\)
 * Đặt **hiệu quả** lên hàng đầu. Đảm bảo NV training xong làm được luôn và người training nắm đc kết quả làm việc của NV, nên Gitbook này được thiết theo logic hành động.
-* Hiệu quả **tra cứu** tối đa. HV sau quá trình training có thể sẽ làm được ngay nhưng sẽ chưa thể nhớ hết nội dung. Gitbook này cũng được thiết kế với ngôn từ, thao tác tra cứu **tinh giản** nhất.
+* Hiệu quả **tra cứu** tối đa. NV sau quá trình training có thể sẽ thực hành tốt công việc nhưng sẽ chưa thể ghi nhớ hết toàn bộ nội dung, nên Gitbook này cũng được thiết kế với ngôn từ, thao tác tra cứu **tinh giản** nhất.
 
 ### Kế hoạch training
 
@@ -27,7 +27,7 @@
   <tbody>
     <tr>
       <td style="text-align:left">B&#x1B0;&#x1EDB;c 1. Chu&#x1EA9;n b&#x1ECB;</td>
-      <td style="text-align:left">G&#x1EED;i Gitbook &#x111;&#x1EC3; HV t&#x1EF1; &#x111;&#x1ECD;c</td>
+      <td style="text-align:left">G&#x1EED;i Gitbook &#x111;&#x1EC3; NV t&#x1EF1; &#x111;&#x1ECD;c</td>
     </tr>
     <tr>
       <td style="text-align:left">B&#x1B0;&#x1EDB;c 2. Training</td>
