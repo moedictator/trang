@@ -33,7 +33,12 @@ Ngay **trong ngày** GV trả kết quả, TVTS cần thực hiện "Cuộc gọ
 
 ### 2. Quy định nội dung gửi \(CL\)
 
-![Minh h&#x1ECD;a c&#x1A1; b&#x1EA3;n](../../.gitbook/assets/004.png)
+| Một số điểm cần tập trung khi check CL email |
+| :--- |
+| Tên HV |
+| Tên sản phẩm |
+| Kết quả Test |
+| Ưu đãi học phí |
 
 ### **2.1. Code lỗi Email cơ bản**
 
@@ -77,5 +82,5 @@ Ngay **trong ngày** GV trả kết quả, TVTS cần thực hiện "Cuộc gọ
 
 ## **Email mẫu**
 
-[https://mail.google.com/mail/u/0/\#label/%C4%90%C3%A0o+Li%C3%AAn/FMfcgxwHMGFjDdFWPwcblZdhHMnGgcXq](https://mail.google.com/mail/u/0/#label/%C4%90%C3%A0o+Li%C3%AAn/FMfcgxwHMGFjDdFWPwcblZdhHMnGgcXq)
+[https://t.ly/GkxW](https://t.ly/GkxW)
 
