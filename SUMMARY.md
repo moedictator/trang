@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Bộ phận KSCL](README.md)
-* [KSCL bộ phận TVTS,GL](kscl-cuoc-goi/README.md)
+* [KSCL bộ phận TVTS-GL](kscl-cuoc-goi/README.md)
   * [1.Cơ chế Thẻ Xanh-Đỏ](kscl-cuoc-goi/co-che-the-xanh-the-do/README.md)
     * [C01-Lịch hẹn](kscl-cuoc-goi/co-che-the-xanh-the-do/c01.md)
     * [C03-Miss quy trình](kscl-cuoc-goi/co-che-the-xanh-the-do/c03.md)
