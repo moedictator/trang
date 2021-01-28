@@ -8,10 +8,10 @@ description: 'TVTS đặt lịch hẹn tương tác, nhưng có tương tác hay
 
 ### **Bước 1.** Mở tài liệu
 
-* Form báo cáo lỗi:[ ](http://bit.ly/39zZ1yM)[http://bit.ly/39zZ1yM](http://bit.ly/39zZ1yM)
-* **Báo cáo check**: [**http://bit.ly/3bDIUEM**](http://bit.ly/3bDIUEM)\*\*\*\*
+* Form báo cáo lỗi:[ ](http://bit.ly/39zZ1yM)[https://t.ly/DnYo](https://t.ly/DnYo)
+* **Báo cáo check**: [https://t.ly/TIh3](https://t.ly/TIh3)
 * Vào CRM bằng: [https://mol.summit.edu.vn](https://mol.summit.edu.vn) 
-* **Lịch nghỉ off:** [http://bit.ly/39z5Ima](http://bit.ly/39z5Ima)
+* **Lịch nghỉ off:** [https://t.ly/iwtS](https://t.ly/iwtS)
 
 ### **Bước 2.** Kiểm tra Tồn ngày hẹn/Tồn ngày giao
 
