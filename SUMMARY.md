@@ -72,4 +72,5 @@
     * [Tạo thiết kế](tao-video-hinh-anh/canvas/tao-thiet-ke.md)
   * [Proshow](tao-video-hinh-anh/proshow.md)
 * [Bộ nhận diện level](bo-nhan-dien-level.md)
+* [Làm sao để NV gắn bó?](lam-sao-de-nv-gan-bo.md)
 
