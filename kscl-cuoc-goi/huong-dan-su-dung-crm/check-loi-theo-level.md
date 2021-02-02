@@ -74,7 +74,7 @@ Dựa theo tình trạng tại thời điểm đó và chỉ tiêu các loại c
 
 ## **Bước 3. Ghi lại kết quả**
 
-Ghi kết quả đánh giá cuộc gọi[j: ps://forms.gle/Zc3fYdTbrqqwsd5G7](https://forms.gle/Zc3fYdTbrqqwsd5G7)
+Ghi kết quả đánh giá cuộc gọi: [https://t.ly/DnYo](https://t.ly/DnYo)
 
 * Có các tiêu chuẩn nào để đánh giá cuộc gọi từ L1-L3
 * Có các tiêu chuẩn nào để đánh giá cuộc gọi từ L5-L6...?
