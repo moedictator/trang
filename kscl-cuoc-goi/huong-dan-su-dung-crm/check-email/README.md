@@ -146,7 +146,7 @@ Câu hỏi là: **"Ngày X có bao nhiêu email trả kết quả?"**
 
 **Bước 2.** Tìm theo tên học viên và sale, để kiểm tra TVTS đã gửi email xác nhận học phí và gửi **"cam kết chất lượng"** hay chưa?
 
-**Bước 3**. Điền báo cáo
+**Bước 3**. Điền báo cáo [https://t.ly/DnYo](https://t.ly/DnYo)
 
 
 
