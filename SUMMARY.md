@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Bộ phận KSCL](README.md)
-* [KSCL bộ phận TVTS-TVGL](kscl-cuoc-goi/README.md)
+* [KSCL BP TVTS-TVGL](kscl-cuoc-goi/README.md)
   * [1.Cơ chế Thẻ Xanh-Đỏ](kscl-cuoc-goi/co-che-the-xanh-the-do/README.md)
     * [C01-Lịch hẹn tái chăm sóc](kscl-cuoc-goi/co-che-the-xanh-the-do/c01.md)
     * [C02-Khối lượng CV](kscl-cuoc-goi/co-che-the-xanh-the-do/c02.md)
@@ -45,6 +45,7 @@
   * [Check cuộc gọi TVTK](kscl-bp-tvtk/check-cuoc-goi.md)
   * [Kỹ năng chốt combo Tái Ký](kscl-bp-tvtk/ky-nang-chot-combo-tai-ky.md)
   * [Hệ thống level tái ký](kscl-bp-tvtk/he-thong-level-tai-ky.md)
+* [KSCL BP CSHV](kscl-bp-cshv.md)
 * [TVTS - TVGL](thuc-hien-cuoc-goi-tvts/README.md)
   * [1.Hướng dẫn sử dụng phần mềm CRM](thuc-hien-cuoc-goi-tvts/huong-dan-goi-dien-bang-crm.md)
   * [2.Xây dựng KB L1-L3](thuc-hien-cuoc-goi-tvts/xay-dung-kich-ban-l1-l3/README.md)
