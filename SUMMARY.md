@@ -47,6 +47,7 @@
   * [Hệ thống level tái ký](kscl-bp-tvtk/he-thong-level-tai-ky.md)
 * [KSCL BP CSHV](kscl-bp-cshv/README.md)
   * [Công thức tính HP: bảo lưu, chuyển nhượng, hoàn](kscl-bp-cshv/cong-thuc-tinh-hp-bao-luu-chuyen-nhuong-hoan.md)
+  * [Cam kết chất lượng](kscl-bp-cshv/cam-ket-chat-luong.md)
 * [TVTS - TVGL](thuc-hien-cuoc-goi-tvts/README.md)
   * [1.Hướng dẫn sử dụng phần mềm CRM](thuc-hien-cuoc-goi-tvts/huong-dan-goi-dien-bang-crm.md)
   * [2.Xây dựng KB L1-L3](thuc-hien-cuoc-goi-tvts/xay-dung-kich-ban-l1-l3/README.md)
