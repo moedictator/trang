@@ -12,7 +12,7 @@
 | 6 | SL ký tự &gt;160 |
 | 7 | SMS cho level không được phép sms |
 | 8 | **Nội dung** nhắc lịch Test cho HV cụ thể được nhắn qua MOL |
-| 9 | **Nội dung** quảng cáo, ưu đãi thể hiện trong file đặt hàng SS                                   Check vào **thứ 5 hàng tuần** [https://bit.ly/3j3ki9c](https://bit.ly/3j3ki9c) |
+| 9 | **Nội dung** quảng cáo, ưu đãi thể hiện trong file đặt hàng SS                                   Check vào **thứ 5 hàng tuần** [https://tinyurl.com/y8kdttfa](https://tinyurl.com/y8kdttfa) |
 | 10 | **Nội dung** đúng/sai? \(Tên TVTS?/Tên + Địa chỉ Cơ sở SM\) |
 
 ### **QUY TRÌNH CHECK SMS h**àng ngày
