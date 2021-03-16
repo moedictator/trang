@@ -12,5 +12,5 @@
 
 * Tại Hòm thư Storage
 
-![From l&#x1EA7;n l&#x1B0;&#x1EE3;tt&#x1EEB;ng TV](../../../.gitbook/assets/3%20%2811%29.png)
+![From l&#x1EA7;n l&#x1B0;&#x1EE3;t t&#x1EEB;ng TV](../../../.gitbook/assets/3%20%2811%29.png)
 
