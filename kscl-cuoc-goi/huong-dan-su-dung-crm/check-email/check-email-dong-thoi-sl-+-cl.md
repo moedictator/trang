@@ -19,7 +19,7 @@
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">STT</th>
+      <th style="text-align:left">V&#xED; d&#x1EE5;</th>
       <th style="text-align:left">M&#x1EB9;o qu&#x1EA3;n l&#xFD; v&#xE0; ph&#xE1;t hi&#x1EC7;n r&#x1EE7;i
         ro check s&#xF3;t d&#x1EF1;a v&#xE0;o m&#x1ED9;t s&#x1ED1; &#x111;i&#x1EC3;m
         d&#x1EC5; th&#x1EA5;y khi &#x111;&#x1ED1;i chi&#x1EBF;u ng&#xE0;y tr&#x1EA3;
