@@ -14,7 +14,7 @@
 
 ![From l&#x1EA7;n l&#x1B0;&#x1EE3;t t&#x1EEB;ng TV](../../../.gitbook/assets/3%20%2811%29.png)
 
-Bước 3. Đối chiếu 2 file trên và điền kết quả vào sheet 7. Check SL đến email nào thì check luôn CL đến đó.
+**Bước 3.** Đối chiếu 2 file trên và điền kết quả vào sheet 7. Check SL đến email nào thì check luôn CL đến đó.
 
 <table>
   <thead>
