@@ -53,7 +53,7 @@
       <td style="text-align:left">Kh&#xF4;ng th&#x1EA5;y lu&#x1ED3;ng email Test &#x111;&#x1EA7;u v&#xE0;o</td>
       <td
       style="text-align:left"></td>
-        <td style="text-align:left">Y&#xEA;u c&#x1EA7;u CC</td>
+        <td style="text-align:left">Y&#xEA;u c&#x1EA7;u SS cc email</td>
     </tr>
     <tr>
       <td style="text-align:left">VD4</td>
