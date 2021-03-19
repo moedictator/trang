@@ -20,7 +20,7 @@
       * [Quy trình check SMS](kscl-cuoc-goi/huong-dan-su-dung-crm/2.8.check-sms/quy-trinh-check-sms.md)
     * [2.6. Check cts online](kscl-cuoc-goi/huong-dan-su-dung-crm/2.9.-check-cts-online.md)
     * [2.7.Check email](kscl-cuoc-goi/huong-dan-su-dung-crm/check-email/README.md)
-      * [Check email đồng thời SL + CL](kscl-cuoc-goi/huong-dan-su-dung-crm/check-email/check-email-dong-thoi-sl-+-cl.md)
+      * [&lt;MỚI&gt; Check email đồng thời SL + CL](kscl-cuoc-goi/huong-dan-su-dung-crm/check-email/check-email-dong-thoi-sl-+-cl.md)
       * [Check SL](kscl-cuoc-goi/huong-dan-su-dung-crm/check-email/check-sl-1.md)
       * [Check CL](kscl-cuoc-goi/huong-dan-su-dung-crm/check-email/check-cl.md)
     * [2.8.Check cuộc gọi](kscl-cuoc-goi/huong-dan-su-dung-crm/check-loi-theo-level.md)

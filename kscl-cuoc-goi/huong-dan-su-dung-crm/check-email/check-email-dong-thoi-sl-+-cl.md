@@ -1,4 +1,4 @@
-# Check email đồng thời SL + CL
+# &lt;MỚI&gt; Check email đồng thời SL + CL
 
 **Bước 1.** Tại Sheet 7. Check email, mở bộ lọc cá nhân với 2 điều kiện
 
