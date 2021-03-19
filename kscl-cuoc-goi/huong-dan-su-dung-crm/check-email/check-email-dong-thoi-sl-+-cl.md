@@ -43,7 +43,8 @@
       <td style="text-align:left">GV ch&#x1B0;a ch&#x1EA5;m b&#xE0;i (c&#x1ED9;t T tr&#x1ED1;ng d&#x1EEF;
         li&#x1EC7;u) --&gt; TV ch&#x1B0;a th&#x1EC3; g&#x1EED;i email</td>
       <td style="text-align:left">SS ch&#x1B0;a nh&#x1EAD;p th&#xF4;ng tin d&#xF9; GV &#x111;&#xE3; ch&#x1EA5;m
-        b&#xE0;i r&#x1ED3;i</td>
+        b&#xE0;i r&#x1ED3;i/SS nh&#x1EAD;p sai ng&#xE0;y GV tr&#x1EA3; k&#x1EBF;t
+        qu&#x1EA3;</td>
       <td style="text-align:left">Check lu&#x1ED3;ng email Test &#x111;&#x1EA7;u v&#xE0;o &#x111;&#x1EC3;
         c&#xF3; ng&#xE0;y GV ch&#x1EA5;m ch&#xED;nh x&#xE1;c</td>
     </tr>
