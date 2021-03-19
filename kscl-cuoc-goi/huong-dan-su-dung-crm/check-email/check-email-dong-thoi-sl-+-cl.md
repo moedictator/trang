@@ -57,8 +57,8 @@
     <tr>
       <td style="text-align:left">VD4</td>
       <td style="text-align:left">SS nh&#x1EAD;p sai ng&#xE0;y GV ch&#x1EA5;m Test --&gt; Sai th&#xF4;ng
-        tin ti&#x1EBF;n &#x111;&#x1ED9; cv GV, sai th&#xF4;ng tin h&#x1EA1;n g&#x1EED;i
-        email do QLCL check</td>
+        tin ti&#x1EBF;n &#x111;&#x1ED9; cv GV --&gt; sai th&#xF4;ng tin h&#x1EA1;n
+        g&#x1EED;i email do QLCL check</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
         <ul>
