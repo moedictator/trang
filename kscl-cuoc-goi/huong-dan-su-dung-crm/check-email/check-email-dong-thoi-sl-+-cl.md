@@ -25,7 +25,7 @@
         d&#x1EC5; th&#x1EA5;y khi &#x111;&#x1ED1;i chi&#x1EBF;u ng&#xE0;y tr&#x1EA3;
         k&#x1EBF;t qu&#x1EA3; c&#x1EE7;a GV/TV v&#xE0; ng&#xE0;y HV l&#xEA;n l&#xE0;m
         Test</th>
-      <th style="text-align:left">V&#x1EAB;n c&#xF2;n r&#x1EE7;i ro</th>
+      <th style="text-align:left">R&#x1EE7;i ro ti&#x1EBF;p theo</th>
       <th style="text-align:left">Kh&#x1EAF;c ph&#x1EE5;c</th>
     </tr>
   </thead>
@@ -67,13 +67,20 @@
         </ul>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">VD5</td>
+      <td style="text-align:left">Email qu&#xE1; h&#x1EA1;n/S&#x1EAF;p &#x111;&#x1EBF;n h&#x1EA1;n --&gt;
+        V&#xE0;o tra l&#x1ECB;ch s&#x1EED; ch&#x103;m s&#xF3;c MOL &#x111;&#x1EC3;
+        t&#xEC;m hi&#x1EC3;u nguy&#xEA;n nh&#xE2;n</td>
+      <td style="text-align:left">SS nh&#x1EAD;p sai t&#xEA;n TV</td>
+      <td style="text-align:left">D&#x1EF1;a theo m&#xE3; HV check MOL</td>
+    </tr>
   </tbody>
 </table>
 
 ### Ngoài các rủi ro vẫn tồn tại, quy trình mới này giải quyết các rủi ro gì?
 
-* SS ghi sai tên TV thể hiện trên file hứng --&gt; Đến hạn trả kết quả cần CHECK theo mã HV để tra ra **TV nào đang CS, CS đến trình trạng nào rồi mà vẫn chưa gửi email**
-
+* 
 
 
 
