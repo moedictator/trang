@@ -70,3 +70,7 @@
   </tbody>
 </table>
 
+### Ngoài các rủi ro vẫn tồn tại, quy trình mới này giải quyết các rủi ro gì?
+
+
+
