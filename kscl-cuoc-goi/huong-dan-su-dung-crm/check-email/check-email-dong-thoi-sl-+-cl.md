@@ -72,5 +72,7 @@
 
 ### Ngoài các rủi ro vẫn tồn tại, quy trình mới này giải quyết các rủi ro gì?
 
+* SS ghi sai tên TV thể hiện trên file hứng --&gt; CHECK theo mã HV để tra ra TV nào đang CS
+* 
 
 
