@@ -70,8 +70,8 @@
     <tr>
       <td style="text-align:left">VD5</td>
       <td style="text-align:left">Email qu&#xE1; h&#x1EA1;n/S&#x1EAF;p &#x111;&#x1EBF;n h&#x1EA1;n --&gt;
-        V&#xE0;o tra l&#x1ECB;ch s&#x1EED; ch&#x103;m s&#xF3;c MOL &#x111;&#x1EC3;
-        t&#xEC;m hi&#x1EC3;u nguy&#xEA;n nh&#xE2;n</td>
+        Tra l&#x1ECB;ch s&#x1EED; ch&#x103;m s&#xF3;c MOL &#x111;&#x1EC3; t&#xEC;m
+        hi&#x1EC3;u nguy&#xEA;n nh&#xE2;n</td>
       <td style="text-align:left">SS nh&#x1EAD;p sai t&#xEA;n TV</td>
       <td style="text-align:left">D&#x1EF1;a theo m&#xE3; HV check MOL</td>
     </tr>
