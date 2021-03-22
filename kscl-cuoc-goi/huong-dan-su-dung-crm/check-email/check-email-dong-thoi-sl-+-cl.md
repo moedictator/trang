@@ -75,6 +75,13 @@
       <td style="text-align:left">SS nh&#x1EAD;p sai t&#xEA;n TV</td>
       <td style="text-align:left">D&#x1EF1;a theo m&#xE3; HV check MOL</td>
     </tr>
+    <tr>
+      <td style="text-align:left">VD6</td>
+      <td style="text-align:left">TV tr&#x1EA3; h&#x1ED9; k&#x1EBF;t qu&#x1EA3; cho TV kh&#xE1;c</td>
+      <td
+      style="text-align:left"></td>
+        <td style="text-align:left">D&#x1EF1;a theo m&#xE3; HV check theo th&#xF4;ng tin HV</td>
+    </tr>
   </tbody>
 </table>
 
