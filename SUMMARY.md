@@ -24,7 +24,7 @@
       * [Check SL](kscl-cuoc-goi/huong-dan-su-dung-crm/check-email/check-sl-1.md)
       * [Check CL](kscl-cuoc-goi/huong-dan-su-dung-crm/check-email/check-cl.md)
     * [2.8.Check cuộc gọi](kscl-cuoc-goi/huong-dan-su-dung-crm/check-loi-theo-level.md)
-    * [2.9.Check ABC](kscl-cuoc-goi/huong-dan-su-dung-crm/2.9.check-abc.md)
+    * [2.9.Check email CKCL với L8CK](kscl-cuoc-goi/huong-dan-su-dung-crm/2.9.check-abc.md)
     * [2.10.Check CL tư vấn trực tiếp](kscl-cuoc-goi/huong-dan-su-dung-crm/2.7.check-cl-tu-van-tru-c-tiep.md)
     * [2.11.Check CL cuộc gọi L6 + email trả kết quả](kscl-cuoc-goi/huong-dan-su-dung-crm/2.11.check-cl-cuoc-goi-l6-+-email-tra-ket-qua.md)
   * [3.CV cá nhân](kscl-cuoc-goi/3.cv-ca-nhan/README.md)
