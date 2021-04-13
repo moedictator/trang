@@ -47,6 +47,7 @@
   * [Kỹ năng chốt combo Tái Ký](kscl-bp-tvtk/ky-nang-chot-combo-tai-ky.md)
   * [Hệ thống level tái ký](kscl-bp-tvtk/he-thong-level-tai-ky.md)
 * [KSCL BP CSHV](kscl-bp-cshv/README.md)
+  * [Tiến độ QT](kscl-bp-cshv/tien-do-qt.md)
   * [Công thức tính HP: bảo lưu, chuyển nhượng, hoàn](kscl-bp-cshv/cong-thuc-tinh-hp-bao-luu-chuyen-nhuong-hoan.md)
   * [Cam kết chất lượng](kscl-bp-cshv/cam-ket-chat-luong.md)
 * [TVTS - TVGL](thuc-hien-cuoc-goi-tvts/README.md)
