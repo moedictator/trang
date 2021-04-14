@@ -4,6 +4,8 @@ description: TVTS thực hiện cuộc gọi có đạt chất lượng hay khô
 
 # 2.8.Check cuộc gọi
 
+Lỗi C05 - Không hook SM \(với cts cũ nhưng đã quá 3 tháng chưa liên hệ vẫn cần hook SM khi tái chăm sóc\) \(220246\) **- BỎ, chỉ khuyến khích, không bắt buộc**
+
 ## **Bước 1.** Tìm cuộc gọi. Có 2 cách.
 
 **Cách 1.** Bám theo "email trả kết quả"
