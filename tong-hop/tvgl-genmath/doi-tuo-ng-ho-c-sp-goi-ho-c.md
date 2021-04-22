@@ -2,13 +2,13 @@
 
 ### Đối tượng học
 
-![](../.gitbook/assets/dt%20%283%29.png)
+![](../../.gitbook/assets/dt%20%283%29.png)
 
 ### 
 
 ### Học phí & Thời gian học & Đầu ra
 
-![](../.gitbook/assets/3%20%286%29.png)
+![](../../.gitbook/assets/3%20%286%29.png)
 
 * **Học phí gốc:** 200 - 250k/giờ ~ chưa tính ưu đãi tại thời điểm/combo/đóng sớm.
 * **Số buổi/cấp độ:** 20 buổi ~ **4,5 tháng**
@@ -127,5 +127,5 @@
 
  ![&#x1F31F;](https://mail.google.com/mail/e/1f31f) **Đã Test là có quà:** Học viên đến Summit làm test trình độ Toán Tiếng Anh GenMath \(online/offline\) được bốc thăm một trong các phần quà: vé CGV/ Voucher vẽ tranh thư giãn tại Lumiart/ balo/ bình nước/ khẩu trang/ túi bút
 
-![](../.gitbook/assets/4%20%285%29.png)
+![](../../.gitbook/assets/4%20%285%29.png)
 

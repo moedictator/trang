@@ -17,7 +17,7 @@
         <p>- &#x110;i&#x1EC1;n s&#x1ED1; v&#xE0; g&#x1ECD;i nh&#xE9;</p>
       </th>
       <th style="text-align:left">
-        <img src="../.gitbook/assets/1.png" alt/>
+        <img src="../../.gitbook/assets/1.png" alt/>
       </th>
     </tr>
   </thead>
@@ -40,13 +40,13 @@
       <th style="text-align:left">
         <p>B1.&#x110;&#x103;ng nh&#x1EAD;p h&#x1EC7; th&#x1ED1;ng
           <br />
-          <img src="../.gitbook/assets/1-6.png" alt/>
+          <img src="../../.gitbook/assets/1-6.png" alt/>
           <br />B2
-          <img src="../.gitbook/assets/b2.png" alt/>
+          <img src="../../.gitbook/assets/b2.png" alt/>
         </p>
         <p>B3</p>
         <p>
-          <img src="../.gitbook/assets/huong-dan-su-dung.png" alt/>
+          <img src="../../.gitbook/assets/huong-dan-su-dung.png" alt/>
         </p>
       </th>
     </tr>
@@ -54,7 +54,7 @@
   <tbody></tbody>
 </table>
 
-## \(ii\) Level  ![](../.gitbook/assets/4-4.png)
+## \(ii\) Level  ![](../../.gitbook/assets/4-4.png)
 
 \(iii\) ??**A-7** ngày, **B-1** tháng, **6A-3** ngày, **5A,B-3** ngày.  
 Đề xuất cải tiến \(iii\):  

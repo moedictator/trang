@@ -2,7 +2,7 @@
 
 ## Kịch bản thu gọn:
 
-![K&#x1ECB;ch b&#x1EA3;n r&#xFA;t g&#x1ECD;n](../../.gitbook/assets/3-5.png)
+![K&#x1ECB;ch b&#x1EA3;n r&#xFA;t g&#x1ECD;n](../../../.gitbook/assets/3-5.png)
 
 **\*Lưu ý mục tiêu kịch bản:** Câu càng ngắn càng tốt \(để nói càng ít càng tốt\), tránh đưa thông tin trùng lặp trong cuộc gọi vì thời lượng cuộc gọi thông thường từ 3-5 phút, hoặc 7-9 phút.
 

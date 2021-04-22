@@ -104,15 +104,15 @@ Hook Test + Hook SM/SA + **Đánh giá mức độ tiềm năng**
 
 Em là Trang, gọi đến từ Anh ngữ Summit, chuyên đào tạo chứng chỉ **IE, TF, SAT và TVDH.** Hiện nay SM đang có chương trình cho các bạn làm một bài **Test** kiểm tra trình độ miễn phí**/**.. Bài kiểm tra sẽ được các giảng viên có trình độ cao, nhiều năm kinh nghiệm giảng dạy đánh giá - Cũng là một cách để PH có thể biết con em mình cần bổ sung kiến thức phần nào ...**/**Thì không biết có thể hỗ trợ cho gia đình mình không ạ?
 
-![L&#x1EE3;i &#xED;ch khi h&#x1ECD;c ch&#x1EE9;ng ch&#x1EC9; TA](../../.gitbook/assets/thap-1.png)
+![L&#x1EE3;i &#xED;ch khi h&#x1ECD;c ch&#x1EE9;ng ch&#x1EC9; TA](../../../.gitbook/assets/thap-1.png)
 
 \*\*\*\*
 
-![](../../.gitbook/assets/test%20%282%29.png)
+![](../../../.gitbook/assets/test%20%282%29.png)
 
 \*\*\*\*
 
-![V&#xEC; sao c&#x1EA7;n ch&#x1ECD;n Summit? S&#x1EF1; kh&#xE1;c bi&#x1EC7;t c&#x1EE7;a SM l&#xE0; g&#xEC;?](../../.gitbook/assets/4-3.png)
+![V&#xEC; sao c&#x1EA7;n ch&#x1ECD;n Summit? S&#x1EF1; kh&#xE1;c bi&#x1EC7;t c&#x1EE7;a SM l&#xE0; g&#xEC;?](../../../.gitbook/assets/4-3.png)
 
 Đánh giá mức độ tiềm năng của HV:
 
@@ -136,7 +136,7 @@ Em là Trang, gọi đến từ Anh ngữ Summit, chuyên đào tạo chứng ch
 
 
 
-![](../../.gitbook/assets/2-11.png)
+![](../../../.gitbook/assets/2-11.png)
 
 ### **3.Cts giới thiệu:**
 

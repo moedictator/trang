@@ -4,7 +4,7 @@
 
 * Kho nhạc: [https://www.bensound.com/](https://www.bensound.com/)
 
-![](../.gitbook/assets/screenshot_3%20%281%29.png)
+![](../../.gitbook/assets/screenshot_3%20%281%29.png)
 
 | ProShow |  |
 | :--- | :--- |

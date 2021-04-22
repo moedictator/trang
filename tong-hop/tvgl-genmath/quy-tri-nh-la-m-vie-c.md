@@ -6,11 +6,11 @@ Loại trừ cts: [https://docs.google.com/spreadsheets/d/1SLrAJVEl2EUAquWg2rjg
 
 ## **Bước 1.** Điền cts nhận trong ngày
 
-![B&#x1B0;&#x1A1;&#x301;c 1](../.gitbook/assets/b1.png)
+![B&#x1B0;&#x1A1;&#x301;c 1](../../.gitbook/assets/b1.png)
 
 ## **Bước 2.** Gọi điện và note sale
 
-![B&#x1B0;&#x1A1;&#x301;c 2](../.gitbook/assets/b2%20%281%29.png)
+![B&#x1B0;&#x1A1;&#x301;c 2](../../.gitbook/assets/b2%20%281%29.png)
 
 ### **B2.1. Chuẩn bị:**
 
@@ -107,11 +107,11 @@ Kịch bản:
 * Level cập nhật
 * Note sale: Ngày gần nhất ở dòng đầu
 
-![](../.gitbook/assets/b22.png)
+![](../../.gitbook/assets/b22.png)
 
 ## **Bước 3:** Báo cáo ngày
 
-![](../.gitbook/assets/b3.png)
+![](../../.gitbook/assets/b3.png)
 
 ## **Bước 4**. Hỗ trợ HV lên VP Test/Bàn giao cts lên T4-T5
 

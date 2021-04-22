@@ -100,7 +100,7 @@ Nộp giấy chấm công trước **12h trưa** ngày 28/29 hàng tháng
 
 ### Bảo hểm và các khoản bắt buộc phải đóng:
 
-![](../.gitbook/assets/screenshot_12%20%281%29.png)
+![](../../.gitbook/assets/screenshot_12%20%281%29.png)
 
 <table>
   <thead>

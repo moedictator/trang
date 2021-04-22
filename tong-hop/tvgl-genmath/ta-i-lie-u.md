@@ -6,7 +6,7 @@ Profile GV: [https://bit.ly/2Zvoibh](https://bit.ly/2Zvoibh)
 
 ### Hệ thống level: [https://bit.ly/30J78HW](https://bit.ly/30J78HW)
 
-![](../.gitbook/assets/le%20%284%29.png)
+![](../../.gitbook/assets/le%20%284%29.png)
 
 
 
