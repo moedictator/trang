@@ -7,5 +7,5 @@ Summit đã có survey rồi và hiện tại mong muốn:
 
  --&gt; Tên KS: Mức độ hài lòng về CLDV. Do đó hình thức KS mong muốn là gọi điện trực tiếp và ngoài với đối tượng HV thì khảo sát cần mở rộng thêm cả với PH nữa 
 
---&gt; Về hình thức, đối tượng, tần suất và phạm vi khảo sát cần điều chỉnh mở rộng hoặc thu hẹp sao cho khảo sát thực sự mang lại nhiều giá trị thực tiễn hơn.
+Tóm lại, về hình thức, đối tượng, tần suất và phạm vi khảo sát cần điều chỉnh mở rộng hoặc thu hẹp sao cho khảo sát thực sự mang lại nhiều giá trị thực tiễn hơn.
 
