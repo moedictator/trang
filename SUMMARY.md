@@ -79,4 +79,7 @@
   * [Proshow](tao-video-hinh-anh/proshow.md)
 * [Bộ nhận diện level](bo-nhan-dien-level.md)
 * [Làm sao để NV gắn bó?](lam-sao-de-nv-gan-bo.md)
+* [Survey Mức độ hài lòng với CLDV](survey-muc-do-hai-long-voi-cldv/README.md)
+  * [TỔNG QUAN SO SÁNH](survey-muc-do-hai-long-voi-cldv/tong-quan-so-sanh.md)
+  * [Chi tiết kế hoạch triển khai Survey](survey-muc-do-hai-long-voi-cldv/chi-tiet-ke-hoach-trien-khai-survey.md)
 
