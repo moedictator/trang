@@ -1,8 +1,3 @@
----
-description: >-
-  https://docs.google.com/document/d/1Xzs2j7akh7ZI2RrxR8carjhN5v34hFNi5z4xLKYKYFA/edit#heading=h.70h8q0kp3d8e
----
-
 # Survey Mức độ hài lòng với CLDV
 
 Summit đã có survey rồi và hiện tại mong muốn: 
