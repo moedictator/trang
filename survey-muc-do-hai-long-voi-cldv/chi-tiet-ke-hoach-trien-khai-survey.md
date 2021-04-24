@@ -13,7 +13,7 @@ description: Update
 
 -Edit 1 số từ ngữ để giản lược
 
--Thêm lựa chọn 99-Không biết, không đánh giá để: HV không điền bừa khi tất cả các câu hỏi đều bắt buộc điền \(bắt buộc điền giúp HV không bỏ sót nội dung hỏi\), nếu HV điền 99 quá nhiều sẽ được chọn vào DS gọi điện ở bước 2
+-Thêm lựa chọn 99-Không biết, không đánh giá để: HV không điền bừa khi tất cả các câu hỏi đều bắt buộc điền \(bắt buộc điền giúp HV không bỏ sót nội dung hỏi\), nếu HV điền 99 quá nhiều sẽ được chọn vào DS gọi điện ở bước 2 --&gt; Chưa biết chỉnh form ntn
 
 **Bước 2**: Gọi điện survey
 
