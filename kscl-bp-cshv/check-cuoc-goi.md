@@ -10,5 +10,7 @@ Bước 4. Quay lại link nghe cuộc gọi, bấm nghe
 
 Bước 5. Vào sheet điền thông tin nghe cuộc gọi
 
+Bước 6. Để check cuộc gọi tiếp theo thì "Xóa sdt trên" Và ấn lọc để lọc lại điều kiện
+
 
 
