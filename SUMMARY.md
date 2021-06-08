@@ -28,6 +28,7 @@
     * [2.9.Check email CKCL với L8CK](kscl-cuoc-goi/huong-dan-su-dung-crm/2.9.check-abc.md)
     * [2.10.Check CL tư vấn trực tiếp](kscl-cuoc-goi/huong-dan-su-dung-crm/2.7.check-cl-tu-van-tru-c-tiep.md)
     * [2.11.Check CL cuộc gọi L6 + email trả kết quả](kscl-cuoc-goi/huong-dan-su-dung-crm/2.11.check-cl-cuoc-goi-l6-+-email-tra-ket-qua.md)
+    * [2.12. Check trước khi BC ngày](kscl-cuoc-goi/huong-dan-su-dung-crm/2.12.-check-truoc-khi-bc-ngay.md)
   * [3.CV cá nhân](kscl-cuoc-goi/3.cv-ca-nhan/README.md)
     * [Tập làm báo cáo ngày](kscl-cuoc-goi/3.cv-ca-nhan/tap-lam-bao-cao-ngay.md)
     * [Check lại BC lỗi, trước khi làm báo cáo tuần](kscl-cuoc-goi/3.cv-ca-nhan/check-lai-bc-loi-truoc-khi-lam-bao-cao-tuan.md)
