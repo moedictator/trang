@@ -35,3 +35,13 @@ description: >-
 
 
 
+
+
+
+
+
+
+Check lịch làm việc --&gt; Ghi/nhớ các bạn off --&gt; 2.Check sale report \(mở SR trước, ghi lại/mở driver check tới đâu chỉ cần nhìn vào giấy/ghi lại vào BC\) --&gt; 3.Check hiệu suất cuộc gọi --&gt; 1.2.Check tồn bàn giao --&gt; 1.1.Check tồn ngày hẹn --&gt; 4.Check hotline --&gt; Check 5,6,7,8
+
+
+
