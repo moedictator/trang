@@ -1,5 +1,8 @@
 ---
-description: hay là Hướng dẫn sử dụng CRM
+description: >-
+  Check lịch làm việc --> Ghi/nhớ các bạn off --> 2.Check sale report -->
+  3.Check hiệu suất cuộc gọi --> 1.2.Check tồn bàn giao --> 1.1.Check tồn ngày
+  hẹn --> 4.Check hotline --> Check 5,6,7,8
 ---
 
 # 2.Quy trình KSCL
