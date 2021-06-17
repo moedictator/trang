@@ -9,3 +9,5 @@ Họp CSHV ngày 17/06 thấy 2 nội dung cần thống nhất:
 
 ![](../.gitbook/assets/3%20%2814%29.png)
 
+--&gt; QLCL phải nắm được hết các nội dung trong file này mới check cuộc gọi QLLC hiệu quả được
+
