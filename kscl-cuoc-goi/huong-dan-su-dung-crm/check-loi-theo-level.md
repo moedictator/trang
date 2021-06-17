@@ -81,7 +81,7 @@ Ghi kết quả đánh giá cuộc gọi: [https://t.ly/DnYo](https://t.ly/DnYo)
 * Có các tiêu chuẩn nào để đánh giá cuộc gọi từ L1-L3
 * Có các tiêu chuẩn nào để đánh giá cuộc gọi từ L5-L6...?
 
-Quy trình chăm sóc với cts level C
+**Quy trình chăm sóc với cts level C được bàn giao**
 
 ![](../../.gitbook/assets/screenshot_2%20%282%29.png)
 
