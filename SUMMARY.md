@@ -49,6 +49,7 @@
   * [Kỹ năng chốt combo Tái Ký](kscl-bp-tvtk/ky-nang-chot-combo-tai-ky.md)
   * [Hệ thống level tái ký](kscl-bp-tvtk/he-thong-level-tai-ky.md)
 * [KSCL BP CSHV](kscl-bp-cshv/README.md)
+  * [Quy trình, quy định công việc CSHV](kscl-bp-cshv/quy-trinh-quy-dinh-cong-viec-cshv.md)
   * [Check cuộc gọi](kscl-bp-cshv/check-cuoc-goi.md)
   * [Check hotline](kscl-bp-cshv/check-hotline.md)
   * [Check tiến độ QT](kscl-bp-cshv/check-tien-do-qt.md)
