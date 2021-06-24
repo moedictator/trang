@@ -154,3 +154,5 @@ Câu hỏi là: **"Ngày X có bao nhiêu email trả kết quả?"**
 
 ![](../../../.gitbook/assets/screenshot_8.png)
 
+![V&#x1EDB;i TH test 1 l&#x1EA7;n nh&#x1B0;ng ph&#x1EA3;i test l&#x1EA1;i](../../../.gitbook/assets/screenshot_2%20%282%29.png)
+
