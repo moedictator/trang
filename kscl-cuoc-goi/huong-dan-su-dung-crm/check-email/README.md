@@ -129,6 +129,8 @@ Câu hỏi là: **"Ngày X có bao nhiêu email trả kết quả?"**
 
 ### 3.2. Check chất lượng email
 
+**LƯU Ý: Junior và GenMath không cần ghi mục tiêu cho lộ trình**
+
 **Bước 1:** Vào hòm thư Storage để xem **những** email trả kết quả gần nhất. 
 
 * Nếu không có --&gt; Bỏ qua
