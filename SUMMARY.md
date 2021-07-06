@@ -94,4 +94,5 @@
 * [Survey Mức độ hài lòng với CLDV](survey-muc-do-hai-long-voi-cldv/README.md)
   * [TỔNG QUAN SO SÁNH](survey-muc-do-hai-long-voi-cldv/tong-quan-so-sanh.md)
   * [Chi tiết kế hoạch triển khai Survey](survey-muc-do-hai-long-voi-cldv/chi-tiet-ke-hoach-trien-khai-survey.md)
+* [Phân loại, khác biệt, dễ nhầm lẫn giữa các khoá học](phan-loai-khac-biet-de-nham-lan-giua-cac-khoa-hoc.md)
 
