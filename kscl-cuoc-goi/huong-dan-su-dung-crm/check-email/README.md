@@ -6,9 +6,25 @@ description: >-
 
 # 2.7.Check email
 
+### Cách check email theo chiều mới:
+
+* Lọc điều kiện: "Từ email của TV..."
+* Xem có email được in đậm - chưa check
+* Nhìn xem HV tương ứng với sheet hứng dữ liệu để check SL và CL
+
+| Rủi ro của cách check này: | --&gt; Bổ sung thao tác sau để khắc phục |
+| :--- | :--- |
+| TV khác gửi hộ thì check email từ TV gốc sẽ không ra | Check theo tên HV. Cho dấu ngoặc kép. VD: "..." |
+| TV vừa gửi nhưng hòm mail chung storage đã có người mở ra nên mail đó không hiện đậm | Check theo tên HV. Cho dấu ngoặc kép. VD: "..." |
+| GV yêu cầu Test lại nhưng MOL cũng không cập nhật nội dung này, vẫn để level 5,6 gì đó | Check kết quả Test trong luồng mail phối hợp SS-GV |
+
+
+
+### 
+
 ### Lưu ý:
 
-Với các email chưa gửi, cần check thực sự là chưa gửi thật hay không. 
+Với các email chưa gửi cần check thực sự là chưa gửi thật hay không. 
 
 | Cách check theo | Quản lý rủi ro |
 | :--- | :--- |
@@ -51,7 +67,7 @@ File GenMath Test: [https://docs.google.com/spreadsheets/d/1H4orTkzJ\_G2ErxbNQr-
       <td style="text-align:left"><b>1</b>
       </td>
       <td style="text-align:left">Ca&#x301;c case &#x111;a&#x303; check xong c&#xE2;&#x300;n &#x111;&#x1B0;&#x1A1;&#x323;c
-        t&#xF4; va&#x300;ng</td>
+        t&#xF4; xanh</td>
     </tr>
     <tr>
       <td style="text-align:left">2</td>
