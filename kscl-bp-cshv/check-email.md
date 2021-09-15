@@ -1,5 +1,30 @@
 # Check email
 
+Các bước chung trước khi check cụ thể từng email:
+
+**Bước 1:**
+
+ Check từ TV có email nào cần check từ ngày X đến nay không? 
+
+&gt;&gt;Có
+
+**Bước 2:** 
+
+* Lấy DS lớp đó, 
+* Ghi thời gian bạn đã gửi, 
+* Ghi thời gian mình check
+
+**Bước 3:** 
+
+Vào file check tiến độ để lấy:
+
+* Deadline 
+* Và cập vào đó là CSHV đã thực hiện quy trình
+
+-----------------------------
+
+Check email cụ thể nào?
+
 * Chọn số lượng email hiển thi: 100 kết quả
 * Lọc từ CSHV
 * Ctrl + F: "Số mã lớp" \(chỉ số\)
