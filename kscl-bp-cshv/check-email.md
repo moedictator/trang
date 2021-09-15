@@ -21,6 +21,11 @@ Vào file check tiến độ để lấy:
 * Deadline 
 * Và cập vào đó là CSHV đã thực hiện quy trình
 
+Bước 4: 
+
+* Khi xác định tất cả các HV cần phải gửi đã gửi thì ấn OK hết cho SL
+* Sau đó chuyển qua check tất cả CL, check xong mới vào chọn OK một loạt
+
 -----------------------------
 
 Check email cụ thể nào?
