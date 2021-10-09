@@ -1,6 +1,6 @@
 # Check sms
 
-![](../../.gitbook/assets/screenshot_1%20%283%29.png)
+![](../../../.gitbook/assets/screenshot_1%20%283%29.png)
 
 
 
