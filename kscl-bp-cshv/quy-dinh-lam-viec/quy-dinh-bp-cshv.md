@@ -7,8 +7,6 @@
 
 **TRẢ LỜI:**
 
-![](<../../.gitbook/assets/Screenshot\_3 (1).png>) ![](../../.gitbook/assets/Screenshot\_3.png)
-
 \*Cẩm nang CSHV: [https://bit.ly/3asd0sL](https://bit.ly/3asd0sL)
 
 \***Quy trình training CSHV mới: **[**https://bit.ly/3DxsY1h**](https://bit.ly/3DxsY1h)****
