@@ -1,10 +1,10 @@
 ---
-description: 'TVTS đặt lịch hẹn tương tác, nhưng có tương tác hay không?'
+description: TVTS đặt lịch hẹn tương tác, nhưng có tương tác hay không?
 ---
 
 # 2.1.Check tồn C01.2
 
-**3 ngày cuối tháng** chốt số được phép tồn nhưng **phải giải quyết xong hết vào ngày đầu tiên đi làm** của tháng tiếp theo
+**3 ngày cuối tháng** chốt số được phép tồn nhưng** phải giải quyết xong hết vào ngày đầu tiên đi làm** của tháng tiếp theo
 
 ### **Bước 1.** Mở tài liệu
 
@@ -21,7 +21,7 @@ Gõ tên TVTS/Điền ngày check tồn/Xem tên level gì: nếu 7,8,C thì h�
 
 ### **Bước 3**. Điền báo cáo
 
-![B&#xE1;o c&#xE1;o ki&#x1EC3;m tra t&#x1ED3;n](../../.gitbook/assets/ton-1.png)
+![Báo cáo kiểm tra tồn](../../.gitbook/assets/ton-1.png)
 
 **Tồn hợp lệ:**
 
@@ -31,9 +31,8 @@ Gõ tên TVTS/Điền ngày check tồn/Xem tên level gì: nếu 7,8,C thì h�
 **Tồn không hợp lệ:**
 
 * Gửi cảnh báo đến quản lý qua Email hàng ngày
-* Điền form báo cáo lỗi, sau khi được quản lý xác nhận \(nếu cần\)
+* Điền form báo cáo lỗi, sau khi được quản lý xác nhận (nếu cần)
 
 ### **\*Mẹo giảm rủi ro nhầm lẫn:**
 
 Check hết một loạt số lượng tồn rồi kiểm tra lịch làm việc của tất cả để biết ai tồn hợp lệ ai không.
-

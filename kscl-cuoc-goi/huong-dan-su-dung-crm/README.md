@@ -21,17 +21,17 @@ description: >-
 
 **Bước 1-2-3-4:** Đăng nhập bằng TK KSCL/Đảo chiều mũi tên/Sale Manager/Kho tổng
 
-![B&#x1B0;&#x1EDB;c 1-2-3-4](../../.gitbook/assets/mol.png)
+![Bước 1-2-3-4](../../.gitbook/assets/mol.png)
 
-**Bước 5:** Vào Kho TVTS
+**Bước 5: **Vào Kho TVTS
 
-![B&#x1B0;&#x1EDB;c 5](../../.gitbook/assets/mol2.png)
+![Bước 5](../../.gitbook/assets/mol2.png)
 
-![Gi&#x1EA3;i th&#xED;ch th&#xEA;m v&#x1EC1; c&#xE1;ch hi&#x1EC3;n th&#x1ECB; v&#xE0; s&#x1EED; d&#x1EE5;ng &#x1EDF; d&#x1B0;&#x1EDB;i nh&#xE9;](../../.gitbook/assets/mol3.png)
+![Giải thích thêm về cách hiển thị và sử dụng ở dưới nhé](../../.gitbook/assets/mol3.png)
 
 * 5,6,7 **có** thể cùng nhau xuất hiện
 * 4 cho phép lọc "nghe máy", "không liên lạc được", ...
-* Để biết tác dụng của các bộ lọc --&gt; đi vào QT KSCL cụ thể dưới đây nhé!
+* Để biết tác dụng của các bộ lọc --> đi vào QT KSCL cụ thể dưới đây nhé!
 
 
 
@@ -41,7 +41,5 @@ description: >-
 
 
 
-Check lịch làm việc --&gt; Ghi/nhớ các bạn off --&gt; 2.Check sale report \(mở SR trước, ghi lại/mở driver check tới đâu chỉ cần nhìn vào giấy/ghi lại vào BC\) --&gt; 3.Check hiệu suất cuộc gọi --&gt; 1.2.Check tồn bàn giao --&gt; 1.1.Check tồn ngày hẹn --&gt; 4.Check hotline --&gt; Check 5,6,7,8
-
-
+Check lịch làm việc --> Ghi/nhớ các bạn off --> 2.Check sale report (mở SR trước, ghi lại/mở driver check tới đâu chỉ cần nhìn vào giấy/ghi lại vào BC) --> 3.Check hiệu suất cuộc gọi --> 1.2.Check tồn bàn giao --> 1.1.Check tồn ngày hẹn --> 4.Check hotline --> Check 5,6,7,8
 
