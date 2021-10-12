@@ -5,7 +5,7 @@
 * Q1: Một lớp học diễn ra như thế nào?
 * Q2: CSHV cần làm gì để chăm sóc học viên?
 
-**TRẢ LỜI:**
+#### **TRẢ LỜI:**
 
 * Cẩm nang CSHV: [https://bit.ly/3asd0sL](https://bit.ly/3asd0sL)
 * **Quy trình training CSHV mới: **[**https://bit.ly/3DxsY1h**](https://bit.ly/3DxsY1h)****
